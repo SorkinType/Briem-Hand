@@ -2,426 +2,12 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[10] BriemHandTestv18-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+<details><summary><b>[11] BriemHandTestv19-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
 
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
-
-	- f + f
-
-	- f + i 
-
-	- i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- Aogonek.latnNAV
-
-	- Eogonek.latnNAV
-
-	- IJ_acutecomb
-
-	- aogonek.latnNAV
-
-	- aringacute.001
-
-	- dcroat.001
-
-	- eogonek.latnNAV
-
-	- ij_acutecomb
-
-	- j.latnNLD
-
-	- j_acutecomb
-
-	- uni013B.latnMAH
-
-	- uni013C.latnMAH
-
-	- uni0145.latnMAH
-
-	- uni0146.latnMAH
-
-	- uni01B2.loclTOD0
-
-	- uni01B7.localGAD
-
-	- uni01E5.001
-
-	- uni0280.001
-
-	- uni03080300.case
-
-	- uni03080301.case
-
-	- uni03080304.case
-
-	- uni0308030C.case
-
-	- uni0328.alt
-
-	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
-
-	- x.p 
-
-	- x.x
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni023D	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni024C	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni024E	Contours detected: 1	Expected: 2
-
-	- Glyph name: beta	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni1D4D	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni2153	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni2154	Contours detected: 2	Expected: 1 or 3
-
-	- Glyph name: uni2155	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni2156	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni2159	Contours detected: 3	Expected: 4
-
-	- Glyph name: uni215A	Contours detected: 3	Expected: 4
-
-	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
-
-	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: arrowleft	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowup	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowright	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowup	Contours detected: 2	Expected: 1
-
-	- Glyph name: beta	Contours detected: 1	Expected: 2
-
-	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni023D	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni024E	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni20AD	Contours detected: 2	Expected: 1 
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
-
-
-* ⚠ **WARN** The most common width is 540 among a set of 2 math glyphs.
-The following math glyphs have a different width, though:
-
-Width = 559:
-plus
-
-Width = 553:
-equal
-
-Width = 542:
-greaterequal, greater
-
-Width = 507:
-logicalnot
-
-Width = 474:
-plusminus
-
-Width = 552:
-multiply
-
-Width = 496:
-divide
-
-Width = 528:
-minus
-
-Width = 564:
-approxequal
-
-Width = 582:
-notequal
- [code: width-outliers]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni0183 (U+0183): L<<148.0,756.0>--<151.0,756.0>> -> L<<151.0,756.0>--<415.0,756.0>>
-
-	* uni023C (U+023C): L<<163.0,154.0>--<241.0,294.0>> -> L<<241.0,294.0>--<328.0,459.0>>
-
-	* uni023C (U+023C): L<<361.0,436.0>--<272.0,273.0>> -> L<<272.0,273.0>--<181.0,101.0>>
-
-	* uni0283 (U+0283): L<<205.0,561.0>--<202.0,499.0>> -> L<<202.0,499.0>--<200.0,-1.0>>
-
-	* uni0283 (U+0283): L<<97.0,71.0>--<92.0,499.0>> -> L<<92.0,499.0>--<92.0,513.0>>
-
-	* uni2C65 (U+2C65): L<<180.0,138.0>--<269.0,294.0>> -> L<<269.0,294.0>--<365.0,469.0>> 
-
-	* uni2C65 (U+2C65): L<<409.0,462.0>--<300.0,273.0>> -> L<<300.0,273.0>--<193.0,78.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* eng (U+014B): B<<194.0,213.5>-<192.0,185.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 9.415626391540286
-
-	* m (U+006D): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* n (U+006E): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* nacute (U+0144): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* ncaron (U+0148): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* nmacronbelow (U+1E49): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* ntilde (U+00F1): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* r (U+0072): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* racute (U+0155): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* rcaron (U+0159): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* rmacronbelow (U+1E5F): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* uni0146 (U+0146): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni0157 (U+0157): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* uni019C (U+019C): B<<463.5,391.5>-<465.0,416.0>-<465.0,421.0>>/B<<465.0,421.0>-<451.0,364.0>-<424.5,303.5>> = 13.799485396019362
-
-	* uni019C (U+019C): B<<798.0,387.5>-<800.0,415.0>-<800.0,422.0>>/B<<800.0,422.0>-<787.0,364.0>-<760.0,304.0>> = 12.633361935275003
-
-	* uni019E (U+019E): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni01CC (U+01CC): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni01F9 (U+01F9): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni0211 (U+0211): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* uni0213 (U+0213): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* uni0271 (U+0271): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni0272 (U+0272): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
-
-	* uni1D7D (U+1D7D): B<<198.0,208.0>-<198.0,203.0>-<197.0,198.0>>/B<<197.0,198.0>-<199.0,203.0>-<201.0,208.0>> = 10.491477012331565
-
-	* uni1E3F (U+1E3F): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni1E41 (U+1E41): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni1E43 (U+1E43): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni1E45 (U+1E45): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni1E47 (U+1E47): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni1E4B (U+1E4B): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
-
-	* uni1E59 (U+1E59): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
-
-	* uni1E5B (U+1E5B): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335 
-
-	* uni1E5D (U+1E5D): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335 [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* beta (U+03B2): L<<197.0,549.0>--<194.0,0.0>>
-
-	* florin (U+0192): L<<197.0,442.0>--<194.0,-1.0>>
-
-	* germandbls (U+00DF): L<<197.0,549.0>--<194.0,0.0>>
-
-	* integral (U+222B): L<<124.0,72.0>--<122.0,513.0>>
-
-	* integral (U+222B): L<<229.0,514.0>--<226.0,13.0>>
-
-	* uni0283 (U+0283): L<<202.0,499.0>--<200.0,-1.0>> 
-
-	* uniA7B5 (U+A7B5): L<<197.0,549.0>--<194.0,0.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv18-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -436,7 +22,7 @@ The dot of soft dotted characters should disappear in other cases, for example: 
 
 
 * ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Briem Hand Test v18 Black' / SUBFAMILY_NAME = 'Regular'
+ FONT_FAMILY_NAME = 'Briem Hand Test v19 Black' / SUBFAMILY_NAME = 'Regular'
 
 Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -718,7 +304,7 @@ Width = 560:
 equal
 
 Width = 570:
-greaterequal, greater
+greater, greaterequal
 
 Width = 550:
 logicalnot, multiply
@@ -1164,12 +750,12 @@ notequal
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
 	* x_x (U+E03F): L<<-75.0,-3.0>--<-74.0,181.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv18-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
 
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -1184,7 +770,414 @@ The dot of soft dotted characters should disappear in other cases, for example: 
 
 
 * ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Briem Hand Test v18 Medium' / SUBFAMILY_NAME = 'Regular'
+ FONT_FAMILY_NAME = 'Briem Hand Test v19 Light' / SUBFAMILY_NAME = 'Regular'
+
+Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- Aogonek.latnNAV
+
+	- Eogonek.latnNAV
+
+	- IJ_acutecomb
+
+	- aogonek.latnNAV
+
+	- aringacute.001
+
+	- dcroat.001
+
+	- eogonek.latnNAV
+
+	- ij_acutecomb
+
+	- j.latnNLD
+
+	- j_acutecomb
+
+	- uni013B.latnMAH
+
+	- uni013C.latnMAH
+
+	- uni0145.latnMAH
+
+	- uni0146.latnMAH
+
+	- uni01B2.loclTOD0
+
+	- uni01B7.localGAD
+
+	- uni01E5.001
+
+	- uni0280.001
+
+	- uni03080300.case
+
+	- uni03080301.case
+
+	- uni03080304.case
+
+	- uni0308030C.case
+
+	- uni0328.alt
+
+	- uni1D1C.001
+
+	- uni1E01.001
+
+	- uni1E0B.001
+
+	- uni1E15.001
+
+	- uni1E17.001
+
+	- x.p 
+
+	- x.x
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni023D	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni024E	Contours detected: 1	Expected: 2
+
+	- Glyph name: beta	Contours detected: 1	Expected: 2
+
+	- Glyph name: uni1D4D	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni2154	Contours detected: 2	Expected: 1 or 3
+
+	- Glyph name: uni2155	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni2156	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni2159	Contours detected: 3	Expected: 4
+
+	- Glyph name: uni215A	Contours detected: 3	Expected: 4
+
+	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
+
+	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: arrowleft	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowup	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowright	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowup	Contours detected: 2	Expected: 1
+
+	- Glyph name: beta	Contours detected: 1	Expected: 2
+
+	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni023D	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni024E	Contours detected: 1	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1 
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
+
+
+* ⚠ **WARN** The most common width is 540 among a set of 2 math glyphs.
+The following math glyphs have a different width, though:
+
+Width = 555:
+plus
+
+Width = 552:
+equal
+
+Width = 537:
+greater, greaterequal
+
+Width = 499:
+logicalnot
+
+Width = 468:
+plusminus
+
+Width = 553:
+multiply
+
+Width = 492:
+divide
+
+Width = 532:
+minus
+
+Width = 560:
+approxequal
+
+Width = 577:
+notequal
+ [code: width-outliers]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* etTironian (U+204A): L<<60.0,544.0>--<363.0,544.0>> -> L<<363.0,544.0>--<363.0,544.0>>
+
+	* uni018C (U+018C): L<<281.0,756.0>--<470.0,756.0>> -> L<<470.0,756.0>--<471.0,756.0>>
+
+	* uni01C2 (U+01C2): L<<65.0,497.0>--<183.0,497.0>> -> L<<183.0,497.0>--<183.0,497.0>>
+
+	* uni023C (U+023C): L<<153.0,139.0>--<237.0,294.0>> -> L<<237.0,294.0>--<326.0,465.0>>
+
+	* uni023C (U+023C): L<<358.0,442.0>--<267.0,274.0>> -> L<<267.0,274.0>--<172.0,93.0>>
+
+	* uni0283 (U+0283): L<<103.0,58.0>--<98.0,499.0>> -> L<<98.0,499.0>--<98.0,509.0>>
+
+	* uni0283 (U+0283): L<<191.0,565.0>--<188.0,499.0>> -> L<<188.0,499.0>--<186.0,-13.0>>
+
+	* uni2C65 (U+2C65): L<<165.0,108.0>--<271.0,294.0>> -> L<<271.0,294.0>--<368.0,471.0>> 
+
+	* uni2C65 (U+2C65): L<<410.0,465.0>--<300.0,274.0>> -> L<<300.0,274.0>--<185.0,64.0>> [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* m (U+006D): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+
+	* r (U+0072): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* racute (U+0155): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* rcaron (U+0159): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* rmacronbelow (U+1E5F): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* uni0157 (U+0157): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* uni019C (U+019C): B<<806.0,419.5>-<808.0,449.0>-<808.0,454.0>>/B<<808.0,454.0>-<792.0,389.0>-<764.0,323.5>> = 13.828650972280153
+
+	* uni0211 (U+0211): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* uni0213 (U+0213): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* uni0271 (U+0271): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+
+	* uni0272 (U+0272): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
+
+	* uni1E3F (U+1E3F): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+
+	* uni1E41 (U+1E41): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+
+	* uni1E43 (U+1E43): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+
+	* uni1E59 (U+1E59): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+
+	* uni1E5B (U+1E5B): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692 
+
+	* uni1E5D (U+1E5D): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692 [code: found-jaggy-segments]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+
+	* beta (U+03B2): L<<184.0,551.0>--<182.0,-12.0>>
+
+	* f (U+0066): L<<212.0,447.0>--<211.0,-13.0>>
+
+	* fi (U+FB01): L<<212.0,447.0>--<211.0,-13.0>>
+
+	* fl (U+FB02): L<<212.0,447.0>--<211.0,-13.0>>
+
+	* florin (U+0192): L<<182.0,447.0>--<181.0,-13.0>>
+
+	* germandbls (U+00DF): L<<184.0,551.0>--<182.0,-12.0>>
+
+	* integral (U+222B): L<<130.0,58.0>--<129.0,509.0>>
+
+	* integral (U+222B): L<<216.0,510.0>--<214.0,4.0>>
+
+	* uni01A9 (U+01A9): L<<246.0,251.0>--<245.0,404.0>>
+
+	* uni01E4 (U+01E4): L<<563.0,135.0>--<407.0,134.0>>
+
+	* uni0283 (U+0283): L<<188.0,499.0>--<186.0,-13.0>>
+
+	* uni1E1F (U+1E1F): L<<212.0,447.0>--<211.0,-13.0>> 
+
+	* uniA7B5 (U+A7B5): L<<184.0,551.0>--<182.0,-12.0>> [code: found-semi-vertical]
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
+</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+
+	- f + f
+
+	- f + i 
+
+	- i + l [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
+
+
+* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
+ FONT_FAMILY_NAME = 'Briem Hand Test v19 Medium' / SUBFAMILY_NAME = 'Regular'
 
 Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -1458,7 +1451,7 @@ Width = 554:
 equal
 
 Width = 547:
-greaterequal, greater
+greater, greaterequal
 
 Width = 514:
 logicalnot
@@ -1599,12 +1592,12 @@ notequal
 	* uni0283 (U+0283): L<<217.0,499.0>--<213.0,11.0>> 
 
 	* x_x (U+E03F): L<<-130.0,-5.0>--<-129.0,117.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv18-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
 
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -1619,7 +1612,365 @@ The dot of soft dotted characters should disappear in other cases, for example: 
 
 
 * ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Briem Hand Test v18 ExtraLight' / SUBFAMILY_NAME = 'Regular'
+ FONT_FAMILY_NAME = 'Briem Hand Test v19 Thin' / SUBFAMILY_NAME = 'Regular'
+
+Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- Aogonek.latnNAV
+
+	- Eogonek.latnNAV
+
+	- IJ_acutecomb
+
+	- aogonek.latnNAV
+
+	- aringacute.001
+
+	- dcroat.001
+
+	- eogonek.latnNAV
+
+	- ij_acutecomb
+
+	- j.latnNLD
+
+	- j_acutecomb
+
+	- uni013B.latnMAH
+
+	- uni013C.latnMAH
+
+	- uni0145.latnMAH
+
+	- uni0146.latnMAH
+
+	- uni01B2.loclTOD0
+
+	- uni01B7.localGAD
+
+	- uni01E5.001
+
+	- uni0280.001
+
+	- uni03080300.case
+
+	- uni03080301.case
+
+	- uni03080304.case
+
+	- uni0308030C.case
+
+	- uni0328.alt
+
+	- uni1D1C.001
+
+	- uni1E01.001
+
+	- uni1E0B.001
+
+	- uni1E15.001
+
+	- uni1E17.001
+
+	- x.p 
+
+	- x.x
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni023D	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni024C	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni024E	Contours detected: 1	Expected: 2
+
+	- Glyph name: beta	Contours detected: 1	Expected: 2
+
+	- Glyph name: uni1D4D	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni2153	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni2154	Contours detected: 2	Expected: 1 or 3
+
+	- Glyph name: uni2155	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni2156	Contours detected: 2	Expected: 3
+
+	- Glyph name: uni2159	Contours detected: 3	Expected: 4
+
+	- Glyph name: uni215A	Contours detected: 3	Expected: 4
+
+	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
+
+	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: arrowleft	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowup	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowright	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
+
+	- Glyph name: arrowup	Contours detected: 2	Expected: 1
+
+	- Glyph name: beta	Contours detected: 1	Expected: 2
+
+	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni023D	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni024E	Contours detected: 1	Expected: 2
+
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni20AD	Contours detected: 2	Expected: 1 
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
+
+
+* ⚠ **WARN** The most common width is 550 among a set of 2 math glyphs.
+The following math glyphs have a different width, though:
+
+Width = 540:
+less, lessequal
+
+Width = 530:
+greater, greaterequal
+
+Width = 489:
+logicalnot
+
+Width = 459:
+plusminus
+
+Width = 553:
+multiply
+
+Width = 487:
+divide
+
+Width = 537:
+minus
+
+Width = 554:
+approxequal
+
+Width = 570:
+notequal
+ [code: width-outliers]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* etTironian (U+204A): L<<340.0,510.0>--<337.0,510.0>> -> L<<337.0,510.0>--<46.0,510.0>>
+
+	* uni01C2 (U+01C2): L<<68.0,497.0>--<190.0,497.0>> -> L<<190.0,497.0>--<192.0,497.0>>
+
+	* uni023C (U+023C): L<<140.0,122.0>--<233.0,294.0>> -> L<<233.0,294.0>--<325.0,474.0>>
+
+	* uni023C (U+023C): L<<354.0,451.0>--<260.0,275.0>> -> L<<260.0,275.0>--<160.0,81.0>>
+
+	* uni0283 (U+0283): L<<110.0,40.0>--<105.0,499.0>> -> L<<105.0,499.0>--<105.0,504.0>>
+
+	* uni0283 (U+0283): L<<172.0,571.0>--<169.0,499.0>> -> L<<169.0,499.0>--<169.0,-28.0>>
+
+	* uni02FB (U+02FB): L<<134.0,-116.0>--<136.0,-116.0>> -> L<<136.0,-116.0>--<306.0,-116.0>>
+
+	* uni1DC6 (U+1DC6): L<<62.0,668.0>--<61.0,668.0>> -> L<<61.0,668.0>--<-182.0,668.0>>
+
+	* uni2C65 (U+2C65): L<<146.0,69.0>--<273.0,294.0>> -> L<<273.0,294.0>--<371.0,474.0>> 
+
+	* uni2C65 (U+2C65): L<<411.0,469.0>--<300.0,275.0>> -> L<<300.0,275.0>--<178.0,50.0>> [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* uni019C (U+019C): B<<481.5,463.5>-<483.0,493.0>-<483.0,496.0>>/B<<483.0,496.0>-<465.0,423.0>-<434.5,350.5>> = 13.851419013804975
+
+	* uni019C (U+019C): B<<816.5,461.0>-<818.0,493.0>-<818.0,496.0>>/B<<818.0,496.0>-<800.0,423.0>-<769.5,350.5>> = 13.851419013804975 
+
+	* uni1D43 (U+1D43): B<<394.0,635.5>-<432.0,630.0>-<466.0,623.0>>/B<<466.0,623.0>-<465.0,623.0>-<468.0,622.0>> = 11.633633998940427 [code: found-jaggy-segments]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+
+	* uni01A9 (U+01A9): L<<263.0,259.0>--<262.0,399.0>>
+
+	* uni01E4 (U+01E4): L<<578.0,134.0>--<408.0,133.0>> 
+
+	* uni0248 (U+0248): L<<242.0,510.0>--<120.0,509.0>> [code: found-semi-vertical]
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
+</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+
+	- f + f
+
+	- f + i 
+
+	- i + l [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
+
+
+* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
+ FONT_FAMILY_NAME = 'Briem Hand Test v19 ExtraLight' / SUBFAMILY_NAME = 'Regular'
 
 Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -1893,7 +2244,7 @@ Width = 551:
 equal
 
 Width = 533:
-greaterequal, greater
+greater, greaterequal
 
 Width = 494:
 logicalnot
@@ -1976,370 +2327,12 @@ notequal
 	* uni1E1F (U+1E1F): L<<205.0,450.0>--<204.0,-21.0>> 
 
 	* uniA7B5 (U+A7B5): L<<174.0,553.0>--<173.0,-20.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv18-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] BriemHandTestv19-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
 
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
-
-	- f + f
-
-	- f + i 
-
-	- i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
-
-
-* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Briem Hand Test v18 Thin' / SUBFAMILY_NAME = 'Regular'
-
-Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- Aogonek.latnNAV
-
-	- Eogonek.latnNAV
-
-	- IJ_acutecomb
-
-	- aogonek.latnNAV
-
-	- aringacute.001
-
-	- dcroat.001
-
-	- eogonek.latnNAV
-
-	- ij_acutecomb
-
-	- j.latnNLD
-
-	- j_acutecomb
-
-	- uni013B.latnMAH
-
-	- uni013C.latnMAH
-
-	- uni0145.latnMAH
-
-	- uni0146.latnMAH
-
-	- uni01B2.loclTOD0
-
-	- uni01B7.localGAD
-
-	- uni01E5.001
-
-	- uni0280.001
-
-	- uni03080300.case
-
-	- uni03080301.case
-
-	- uni03080304.case
-
-	- uni0308030C.case
-
-	- uni0328.alt
-
-	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
-
-	- x.p 
-
-	- x.x
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni023D	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni024C	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni024E	Contours detected: 1	Expected: 2
-
-	- Glyph name: beta	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni1D4D	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni20AD	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni2153	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni2154	Contours detected: 2	Expected: 1 or 3
-
-	- Glyph name: uni2155	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni2156	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni2159	Contours detected: 3	Expected: 4
-
-	- Glyph name: uni215A	Contours detected: 3	Expected: 4
-
-	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
-
-	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: arrowleft	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowup	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowright	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
-
-	- Glyph name: arrowup	Contours detected: 2	Expected: 1
-
-	- Glyph name: beta	Contours detected: 1	Expected: 2
-
-	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: oneeighth	Contours detected: 4	Expected: 5
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: seveneighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: threeeighths	Contours detected: 4	Expected: 5
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni01ED	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni023D	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni024E	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E09	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
-
-	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni20AD	Contours detected: 2	Expected: 1 
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
-
-
-* ⚠ **WARN** The most common width is 550 among a set of 2 math glyphs.
-The following math glyphs have a different width, though:
-
-Width = 540:
-less, lessequal
-
-Width = 530:
-greaterequal, greater
-
-Width = 489:
-logicalnot
-
-Width = 459:
-plusminus
-
-Width = 553:
-multiply
-
-Width = 487:
-divide
-
-Width = 537:
-minus
-
-Width = 554:
-approxequal
-
-Width = 570:
-notequal
- [code: width-outliers]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* etTironian (U+204A): L<<340.0,510.0>--<337.0,510.0>> -> L<<337.0,510.0>--<46.0,510.0>>
-
-	* uni01C2 (U+01C2): L<<68.0,497.0>--<190.0,497.0>> -> L<<190.0,497.0>--<192.0,497.0>>
-
-	* uni023C (U+023C): L<<140.0,122.0>--<233.0,294.0>> -> L<<233.0,294.0>--<325.0,474.0>>
-
-	* uni023C (U+023C): L<<354.0,451.0>--<260.0,275.0>> -> L<<260.0,275.0>--<160.0,81.0>>
-
-	* uni0283 (U+0283): L<<110.0,40.0>--<105.0,499.0>> -> L<<105.0,499.0>--<105.0,504.0>>
-
-	* uni0283 (U+0283): L<<172.0,571.0>--<169.0,499.0>> -> L<<169.0,499.0>--<169.0,-28.0>>
-
-	* uni02FB (U+02FB): L<<134.0,-116.0>--<136.0,-116.0>> -> L<<136.0,-116.0>--<306.0,-116.0>>
-
-	* uni1DC6 (U+1DC6): L<<62.0,668.0>--<61.0,668.0>> -> L<<61.0,668.0>--<-182.0,668.0>>
-
-	* uni2C65 (U+2C65): L<<146.0,69.0>--<273.0,294.0>> -> L<<273.0,294.0>--<371.0,474.0>> 
-
-	* uni2C65 (U+2C65): L<<411.0,469.0>--<300.0,275.0>> -> L<<300.0,275.0>--<178.0,50.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* uni019C (U+019C): B<<481.5,463.5>-<483.0,493.0>-<483.0,496.0>>/B<<483.0,496.0>-<465.0,423.0>-<434.5,350.5>> = 13.851419013804975
-
-	* uni019C (U+019C): B<<816.5,461.0>-<818.0,493.0>-<818.0,496.0>>/B<<818.0,496.0>-<800.0,423.0>-<769.5,350.5>> = 13.851419013804975 
-
-	* uni1D43 (U+1D43): B<<394.0,635.5>-<432.0,630.0>-<466.0,623.0>>/B<<466.0,623.0>-<465.0,623.0>-<468.0,622.0>> = 11.633633998940427 [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* uni01A9 (U+01A9): L<<263.0,259.0>--<262.0,399.0>>
-
-	* uni01E4 (U+01E4): L<<578.0,134.0>--<408.0,133.0>> 
-
-	* uni0248 (U+0248): L<<242.0,510.0>--<120.0,509.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] BriemHandTestv18-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -2621,7 +2614,7 @@ Width = 558:
 equal
 
 Width = 562:
-greaterequal, greater
+greater, greaterequal
 
 Width = 538:
 logicalnot
@@ -2633,7 +2626,7 @@ Width = 551:
 multiply
 
 Width = 513:
-minus, divide
+divide, minus
 
 Width = 582:
 approxequal
@@ -2875,12 +2868,12 @@ notequal
 	* product (U+220F): L<<457.0,525.0>--<335.0,526.0>> 
 
 	* x_x (U+E03F): L<<-93.0,-4.0>--<-92.0,160.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv18-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
 
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -2895,7 +2888,7 @@ The dot of soft dotted characters should disappear in other cases, for example: 
 
 
 * ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Briem Hand Test v18 SemiBold' / SUBFAMILY_NAME = 'Regular'
+ FONT_FAMILY_NAME = 'Briem Hand Test v19 SemiBold' / SUBFAMILY_NAME = 'Regular'
 
 Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -3165,7 +3158,7 @@ Width = 556:
 equal
 
 Width = 555:
-greaterequal, greater
+greater, greaterequal
 
 Width = 526:
 logicalnot
@@ -3326,12 +3319,12 @@ notequal
 	* product (U+220F): L<<450.0,543.0>--<300.0,544.0>> 
 
 	* uni01A9 (U+01A9): L<<199.0,230.0>--<198.0,419.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv18-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] BriemHandTestv19-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̐ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́ ị̀ ị́ ị̂ ị̃ ị̄
 
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛̐ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠̐ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤̐ i̤᷄ i̤᷅ i̤᷆ i̤᷇ [code: soft-dotted]
+The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -3342,13 +3335,6 @@ The dot of soft dotted characters should disappear in other cases, for example: 
 	- f + i 
 
 	- i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
-
-
-* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Briem Hand Test v18 Light' / SUBFAMILY_NAME = 'Regular'
-
-Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -3613,34 +3599,34 @@ The following glyphs do not have the recommended number of contours:
 * ⚠ **WARN** The most common width is 540 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:
 
-Width = 555:
+Width = 559:
 plus
 
-Width = 552:
+Width = 553:
 equal
 
-Width = 537:
-greaterequal, greater
+Width = 542:
+greater, greaterequal
 
-Width = 499:
+Width = 507:
 logicalnot
 
-Width = 468:
+Width = 474:
 plusminus
 
-Width = 553:
+Width = 552:
 multiply
 
-Width = 492:
+Width = 496:
 divide
 
-Width = 532:
+Width = 528:
 minus
 
-Width = 560:
+Width = 564:
 approxequal
 
-Width = 577:
+Width = 582:
 notequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -3648,91 +3634,105 @@ notequal
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* etTironian (U+204A): L<<60.0,544.0>--<363.0,544.0>> -> L<<363.0,544.0>--<363.0,544.0>>
+	* uni0183 (U+0183): L<<148.0,756.0>--<151.0,756.0>> -> L<<151.0,756.0>--<415.0,756.0>>
 
-	* uni018C (U+018C): L<<281.0,756.0>--<470.0,756.0>> -> L<<470.0,756.0>--<471.0,756.0>>
+	* uni023C (U+023C): L<<163.0,154.0>--<241.0,294.0>> -> L<<241.0,294.0>--<328.0,459.0>>
 
-	* uni01C2 (U+01C2): L<<65.0,497.0>--<183.0,497.0>> -> L<<183.0,497.0>--<183.0,497.0>>
+	* uni023C (U+023C): L<<361.0,436.0>--<272.0,273.0>> -> L<<272.0,273.0>--<181.0,101.0>>
 
-	* uni023C (U+023C): L<<153.0,139.0>--<237.0,294.0>> -> L<<237.0,294.0>--<326.0,465.0>>
+	* uni0283 (U+0283): L<<205.0,561.0>--<202.0,499.0>> -> L<<202.0,499.0>--<200.0,-1.0>>
 
-	* uni023C (U+023C): L<<358.0,442.0>--<267.0,274.0>> -> L<<267.0,274.0>--<172.0,93.0>>
+	* uni0283 (U+0283): L<<97.0,71.0>--<92.0,499.0>> -> L<<92.0,499.0>--<92.0,513.0>>
 
-	* uni0283 (U+0283): L<<103.0,58.0>--<98.0,499.0>> -> L<<98.0,499.0>--<98.0,509.0>>
+	* uni2C65 (U+2C65): L<<180.0,138.0>--<269.0,294.0>> -> L<<269.0,294.0>--<365.0,469.0>> 
 
-	* uni0283 (U+0283): L<<191.0,565.0>--<188.0,499.0>> -> L<<188.0,499.0>--<186.0,-13.0>>
-
-	* uni2C65 (U+2C65): L<<165.0,108.0>--<271.0,294.0>> -> L<<271.0,294.0>--<368.0,471.0>> 
-
-	* uni2C65 (U+2C65): L<<410.0,465.0>--<300.0,274.0>> -> L<<300.0,274.0>--<185.0,64.0>> [code: found-colinear-vectors]
+	* uni2C65 (U+2C65): L<<409.0,462.0>--<300.0,273.0>> -> L<<300.0,273.0>--<193.0,78.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
-	* m (U+006D): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+	* eng (U+014B): B<<194.0,213.5>-<192.0,185.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 9.415626391540286
 
-	* r (U+0072): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* m (U+006D): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* racute (U+0155): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* n (U+006E): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* rcaron (U+0159): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* nacute (U+0144): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* rmacronbelow (U+1E5F): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* ncaron (U+0148): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* uni0157 (U+0157): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* nmacronbelow (U+1E49): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* uni019C (U+019C): B<<806.0,419.5>-<808.0,449.0>-<808.0,454.0>>/B<<808.0,454.0>-<792.0,389.0>-<764.0,323.5>> = 13.828650972280153
+	* ntilde (U+00F1): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* uni0211 (U+0211): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* r (U+0072): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
 
-	* uni0213 (U+0213): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* racute (U+0155): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
 
-	* uni0271 (U+0271): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+	* rcaron (U+0159): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
 
-	* uni0272 (U+0272): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
+	* rmacronbelow (U+1E5F): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
 
-	* uni1E3F (U+1E3F): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+	* uni0146 (U+0146): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* uni1E41 (U+1E41): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+	* uni0157 (U+0157): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
 
-	* uni1E43 (U+1E43): B<<518.0,195.5>-<516.0,169.0>-<515.0,163.0>>/B<<515.0,163.0>-<531.0,203.0>-<559.5,251.0>> = 12.33908727832618
+	* uni019C (U+019C): B<<463.5,391.5>-<465.0,416.0>-<465.0,421.0>>/B<<465.0,421.0>-<451.0,364.0>-<424.5,303.5>> = 13.799485396019362
 
-	* uni1E59 (U+1E59): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692
+	* uni019C (U+019C): B<<798.0,387.5>-<800.0,415.0>-<800.0,422.0>>/B<<800.0,422.0>-<787.0,364.0>-<760.0,304.0>> = 12.633361935275003
 
-	* uni1E5B (U+1E5B): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692 
+	* uni019E (U+019E): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
 
-	* uni1E5D (U+1E5D): B<<187.5,284.0>-<186.0,263.0>-<185.0,257.0>>/B<<185.0,257.0>-<218.0,355.0>-<252.5,413.5>> = 9.147842519801692 [code: found-jaggy-segments]
+	* uni01CC (U+01CC): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni01F9 (U+01F9): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni0211 (U+0211): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
+
+	* uni0213 (U+0213): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
+
+	* uni0271 (U+0271): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni0272 (U+0272): B<<198.0,217.0>-<196.0,188.0>-<195.0,180.0>>/B<<195.0,180.0>-<209.0,217.0>-<235.5,262.5>> = 13.600542516658704
+
+	* uni1D7D (U+1D7D): B<<198.0,208.0>-<198.0,203.0>-<197.0,198.0>>/B<<197.0,198.0>-<199.0,203.0>-<201.0,208.0>> = 10.491477012331565
+
+	* uni1E3F (U+1E3F): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni1E41 (U+1E41): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni1E43 (U+1E43): B<<194.0,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni1E45 (U+1E45): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni1E47 (U+1E47): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni1E4B (U+1E4B): B<<194.5,217.0>-<192.0,188.0>-<191.0,180.0>>/B<<191.0,180.0>-<205.0,217.0>-<231.5,262.5>> = 13.600542516658704
+
+	* uni1E59 (U+1E59): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335
+
+	* uni1E5B (U+1E5B): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335 
+
+	* uni1E5D (U+1E5D): B<<199.5,302.0>-<197.0,273.0>-<196.0,263.0>>/B<<196.0,263.0>-<227.0,356.0>-<260.5,414.0>> = 12.724355685422335 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
-	* beta (U+03B2): L<<184.0,551.0>--<182.0,-12.0>>
+	* beta (U+03B2): L<<197.0,549.0>--<194.0,0.0>>
 
-	* f (U+0066): L<<212.0,447.0>--<211.0,-13.0>>
+	* florin (U+0192): L<<197.0,442.0>--<194.0,-1.0>>
 
-	* fi (U+FB01): L<<212.0,447.0>--<211.0,-13.0>>
+	* germandbls (U+00DF): L<<197.0,549.0>--<194.0,0.0>>
 
-	* fl (U+FB02): L<<212.0,447.0>--<211.0,-13.0>>
+	* integral (U+222B): L<<124.0,72.0>--<122.0,513.0>>
 
-	* florin (U+0192): L<<182.0,447.0>--<181.0,-13.0>>
+	* integral (U+222B): L<<229.0,514.0>--<226.0,13.0>>
 
-	* germandbls (U+00DF): L<<184.0,551.0>--<182.0,-12.0>>
+	* uni0283 (U+0283): L<<202.0,499.0>--<200.0,-1.0>> 
 
-	* integral (U+222B): L<<130.0,58.0>--<129.0,509.0>>
-
-	* integral (U+222B): L<<216.0,510.0>--<214.0,4.0>>
-
-	* uni01A9 (U+01A9): L<<246.0,251.0>--<245.0,404.0>>
-
-	* uni01E4 (U+01E4): L<<563.0,135.0>--<407.0,134.0>>
-
-	* uni0283 (U+0283): L<<188.0,499.0>--<186.0,-13.0>>
-
-	* uni1E1F (U+1E1F): L<<212.0,447.0>--<211.0,-13.0>> 
-
-	* uniA7B5 (U+A7B5): L<<184.0,551.0>--<182.0,-12.0>> [code: found-semi-vertical]
+	* uniA7B5 (U+A7B5): L<<197.0,549.0>--<194.0,0.0>> [code: found-semi-vertical]
 </div></details><br></div></details>
 
 ### Summary
