@@ -2,13 +2,7 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[11] BriemHandTestv19-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+<details><summary><b>[11] BriemHandTestv19-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -293,6 +287,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -309,7 +307,7 @@ Width = 570:
 greaterequal, greater
 
 Width = 550:
-multiply, logicalnot
+logicalnot, multiply
 
 Width = 512:
 plusminus
@@ -752,13 +750,7 @@ notequal
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
 	* x_x (U+E03F): L<<-75.0,-3.0>--<-74.0,181.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Light.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -1035,6 +1027,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -1161,13 +1157,7 @@ notequal
 	* uni1E1F (U+1E1F): L<<212.0,447.0>--<211.0,-13.0>> 
 
 	* uniA7B5 (U+A7B5): L<<184.0,551.0>--<182.0,-12.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Medium.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -1444,6 +1434,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -1598,13 +1592,7 @@ notequal
 	* uni0283 (U+0283): L<<217.0,499.0>--<213.0,11.0>> 
 
 	* x_x (U+E03F): L<<-130.0,-5.0>--<-129.0,117.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-Thin.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -1881,6 +1869,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -1958,13 +1950,7 @@ notequal
 	* uni01E4 (U+01E4): L<<578.0,134.0>--<408.0,133.0>> 
 
 	* uni0248 (U+0248): L<<242.0,510.0>--<120.0,509.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-ExtraLight.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -2241,6 +2227,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -2337,13 +2327,7 @@ notequal
 	* uni1E1F (U+1E1F): L<<205.0,450.0>--<204.0,-21.0>> 
 
 	* uniA7B5 (U+A7B5): L<<174.0,553.0>--<173.0,-20.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] BriemHandTestv19-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] BriemHandTestv19-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -2613,6 +2597,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -2880,13 +2868,7 @@ notequal
 	* product (U+220F): L<<457.0,525.0>--<335.0,526.0>> 
 
 	* x_x (U+E03F): L<<-93.0,-4.0>--<-92.0,160.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] BriemHandTestv19-SemiBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -3159,6 +3141,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -3333,13 +3319,7 @@ notequal
 	* product (U+220F): L<<450.0,543.0>--<300.0,544.0>> 
 
 	* uni01A9 (U+01A9): L<<199.0,230.0>--<198.0,419.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] BriemHandTestv19-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ і́
-
-The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̤᷈ i̥᷄ i̥᷅ [code: soft-dotted]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] BriemHandTestv19-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -3609,6 +3589,10 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -3755,8 +3739,8 @@ notequal
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 8 | 78 | 938 | 49 | 776 | 0 |
-| 0% | 0% | 4% | 51% | 3% | 42% | 0% |
+| 0 | 0 | 86 | 938 | 49 | 776 | 0 |
+| 0% | 0% | 5% | 51% | 3% | 42% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
