@@ -49,7 +49,8 @@ uc",
 "ȣ",
 "φ",
 "ᴅ",
-"ᵋᵉᵍᶤ"
+"ᵋᵉᵍᶤ",
+"ꞷʋ"
 );
 axes = (
 {
@@ -192,7 +193,7 @@ value = 1;
 }
 );
 date = "2023-02-21 22:06:01 +0000";
-familyName = "Briem Hand Test v18";
+familyName = "Briem Hand Test v19";
 featurePrefixes = (
 {
 automatic = 1;
@@ -261,7 +262,7 @@ code = "lookup ccmp_DFLT_1 {
 } ccmp_DFLT_1;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub imod' @CombiningTopAccents by imod.dotless;
@@ -52979,7 +52980,7 @@ unicode = 7761;
 },
 {
 glyphname = "omega-latin";
-lastChange = "2023-05-30 18:17:11 +0000";
+lastChange = "2023-06-26 02:51:42 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -52990,13 +52991,10 @@ nodes = (
 (265,-5,o),
 (315,94,o),
 (381,218,c),
-(381,215,o),
-(409,62,o),
-(422,23,cs),
-(426,10,o),
-(458,-7,o),
-(467,-5,cs),
-(662,33,o),
+(381,169,o),
+(408,-17,o),
+(464,-5,cs),
+(659,33,o),
 (717,219,o),
 (717,365,cs),
 (717,419,o),
@@ -53018,15 +53016,15 @@ nodes = (
 (432,171,o),
 (430,247,c),
 (451,292,o),
-(462,343,o),
-(459,362,cs),
-(457,379,o),
-(438,393,o),
-(420,393,cs),
-(415,393,o),
-(384,383,o),
-(374,356,cs),
-(359,315,o),
+(462,363,o),
+(459,382,cs),
+(457,399,o),
+(438,413,o),
+(420,413,cs),
+(415,413,o),
+(384,403,o),
+(374,376,cs),
+(359,335,o),
 (363,290,o),
 (371,264,c),
 (290,130,o),
@@ -53047,11 +53045,8 @@ nodes = (
 (103,469,o),
 (66,356,o),
 (66,248,cs),
-(66,141,o),
-(116,36,o),
-(122,24,cs),
-(127,13,o),
-(157,-5,o),
+(66,180,o),
+(101,-5,o),
 (167,-5,cs)
 );
 }
@@ -53067,44 +53062,41 @@ nodes = (
 (247,-6,o),
 (342,44,o),
 (392,112,c),
-(397,82,o),
-(397,56,o),
-(407,41,cs),
-(442,-13,o),
-(492,-5,o),
-(541,-6,cs),
-(697,-11,o),
-(810,209,o),
-(810,345,cs),
-(810,384,o),
-(802,416,o),
-(791,438,cs),
-(764,493,o),
-(697,516,o),
-(652,523,cs),
-(629,527,o),
-(610,467,o),
-(623,456,cs),
-(691,402,o),
-(697,322,o),
-(697,279,cs),
-(697,247,o),
+(406,56,o),
+(453,-4,o),
+(571,-6,cs),
+(727,-11,o),
+(850,209,o),
+(850,345,cs),
+(850,384,o),
+(842,416,o),
+(831,438,cs),
+(804,493,o),
+(717,516,o),
+(632,523,cs),
+(609,525,o),
+(588,464,o),
+(603,456,cs),
+(711,402,o),
+(677,322,o),
+(677,279,cs),
+(677,247,o),
 (649,71,o),
 (584,74,cs),
 (574,74,o),
 (512,116,o),
 (512,203,c),
 (543,231,o),
-(570,273,o),
-(570,300,cs),
-(570,353,o),
+(556,292,o),
+(556,319,cs),
+(556,372,o),
 (547,423,o),
 (476,423,cs),
-(402,423,o),
-(359,402,o),
-(358,329,cs),
-(357,249,o),
-(373,241,o),
+(420,423,o),
+(358,382,o),
+(358,309,cs),
+(358,272,o),
+(363,241,o),
 (374,209,c),
 (341,164,o),
 (299,161,o),
@@ -53124,11 +53116,8 @@ nodes = (
 (166,530,o),
 (31,369,o),
 (31,215,cs),
-(31,150,o),
-(47,98,o),
-(51,71,cs),
-(57,27,o),
-(175,-6,o),
+(31,86,o),
+(70,-6,o),
 (191,-6,cs)
 );
 }
