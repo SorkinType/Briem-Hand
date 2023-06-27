@@ -36,10 +36,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -60,8 +56,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -77,14 +71,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
@@ -290,7 +276,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 540:
-lessequal, less
+less, lessequal
 
 Width = 530:
 greaterequal, greater
@@ -387,10 +373,6 @@ notequal
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -411,8 +393,6 @@ notequal
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -428,14 +408,6 @@ notequal
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
@@ -928,10 +900,6 @@ notequal
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -952,8 +920,6 @@ notequal
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -969,14 +935,6 @@ notequal
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
@@ -1349,10 +1307,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -1373,8 +1327,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -1390,14 +1342,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
@@ -1620,7 +1564,7 @@ Width = 570:
 greaterequal, greater
 
 Width = 550:
-logicalnot, multiply
+multiply, logicalnot
 
 Width = 512:
 plusminus
@@ -2097,10 +2041,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -2121,8 +2061,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -2138,14 +2076,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
@@ -2504,10 +2434,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -2528,8 +2454,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -2545,14 +2469,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
@@ -2939,10 +2855,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -2963,8 +2875,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -2980,14 +2890,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
@@ -3390,10 +3292,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- aogonek.latnNAV
 
-	- aringacute.001
-
-	- dcroat.001
-
 	- eogonek.latnNAV
 
 	- ij_acutecomb
@@ -3414,8 +3312,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- uni01B7.localGAD
 
-	- uni01E5.001
-
 	- uni025F.dotless
 
 	- uni0280.001
@@ -3431,14 +3327,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 	- uni0328.alt
 
 	- uni1D1C.001
-
-	- uni1E01.001
-
-	- uni1E0B.001
-
-	- uni1E15.001
-
-	- uni1E17.001
 
 	- x.p 
 
