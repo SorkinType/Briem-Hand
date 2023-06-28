@@ -78,6 +78,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -115,6 +119,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -176,6 +182,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -187,6 +195,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -219,6 +229,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -470,6 +482,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -513,6 +529,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -572,6 +590,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -583,6 +603,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -621,6 +643,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -678,7 +702,7 @@ Width = 570:
 greaterequal, greater
 
 Width = 550:
-logicalnot, multiply
+multiply, logicalnot
 
 Width = 512:
 plusminus
@@ -1197,6 +1221,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -1234,6 +1262,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -1295,6 +1325,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -1306,6 +1338,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -1338,6 +1372,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -1388,7 +1424,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 540:
-lessequal, less
+less, lessequal
 
 Width = 530:
 greaterequal, greater
@@ -1541,6 +1577,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -1578,6 +1618,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -1639,6 +1681,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -1650,6 +1694,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -1682,6 +1728,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -1901,6 +1949,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -1938,6 +1990,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -1997,6 +2051,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -2008,6 +2064,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -2040,6 +2098,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -2333,6 +2393,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -2370,6 +2434,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -2431,6 +2497,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -2442,6 +2510,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -2474,6 +2544,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -2717,6 +2789,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -2754,6 +2830,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -2815,6 +2893,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -2826,6 +2906,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -2858,6 +2940,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -3089,6 +3173,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
@@ -3128,6 +3216,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -3187,6 +3277,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: arrowdown	Contours detected: 2	Expected: 1
 
+	- Glyph name: Imacron	Contours detected: 1	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -3198,6 +3290,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: beta	Contours detected: 1	Expected: 2
 
 	- Glyph name: fiveeighths	Contours detected: 4	Expected: 5
+
+	- Glyph name: imacron	Contours detected: 1	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -3232,6 +3326,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E1C	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1E1D	Contours detected: 4	Expected: 3
+
+	- Glyph name: uni1E39	Contours detected: 2	Expected: 3
 
 	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
 
@@ -3298,7 +3394,7 @@ Width = 551:
 multiply
 
 Width = 513:
-divide, minus
+minus, divide
 
 Width = 582:
 approxequal
