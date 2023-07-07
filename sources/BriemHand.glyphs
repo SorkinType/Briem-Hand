@@ -225,7 +225,6 @@ feature ss01;
 tag = aalt;
 },
 {
-automatic = 1;
 code = "lookup ccmp_DFLT_1 {
 	lookupflag 0;
 	sub acutecomb macroncomb by acutecomb_macroncomb;
@@ -246,8 +245,11 @@ code = "lookup ccmp_DFLT_1 {
 
 lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	@CombiningBottomAccents = [minusbelowcomb ringbelowcomb dieresisbelowcomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
+	sub i' @CombiningBottomAccents @CombiningTopAccents by idotless;
+	sub i' @CombiningTopAccents @CombiningBottomAccents by idotless;
 	sub imod' @CombiningTopAccents by imod.dotless;
 	sub iogonek' @CombiningTopAccents by iogonek.dotless;
 	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
