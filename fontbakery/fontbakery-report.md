@@ -724,7 +724,7 @@ Width = 551:
 multiply
 
 Width = 513:
-minus, divide
+divide, minus
 
 Width = 582:
 approxequal
