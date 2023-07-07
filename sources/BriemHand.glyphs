@@ -2,35 +2,8 @@
 .appVersion = "3204";
 .formatVersion = 3;
 DisplayStrings = (
-"   ɑlphɑ",
-"ⱭOXɑ",
-"AⱭ",
-"Ɑ",
-"Ɣ",
-"ɤ",
-"ɤṽ",
-"ɩt",
-"Ɩɩ",
-"ƛ",
-"λ",
-"ꞷ",
-"Ɯ",
-"yʎ",
-"ƛʎ",
-"ʎ",
-"/circumflexcomb_tildecomb.loclKYU",
-"¢",
-$,
-"/vhook.loclTOD0.ss01",
-"/Vhook.loclTOD0.ss01",
-"Ʋ",
-"/circumflexcomb_tildecomb.loclKYU/ocircumflexacute.loclKYU",
-"̂/circumflexcomb_gravecomb.loclKYU/ocircumflexgrave.loclKYU",
-"̃/circumflexcomb_tildecomb.loclKYU/ocircumflextilde.loclKYU",
-"/circumflexcomb.case/circumflexcomb.case/circumflexcomb_acutecomb.case/Ocircumflexacute.loclKYU",
-"/circumflexcomb.case/circumflexcomb_gravecomb.case/Ocircumflexgrave.loclKYU",
-"/tildecomb.case/circumflexcomb.case/circumflexcomb_tildecomb.case.loclKYU/Ocircumflextilde.loclKYU",
-"/Ocircumflextilde.loclKYU"
+"i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ 
+          i̤᷇ i̤᷈ i̥᷄ i̥᷅"
 );
 axes = (
 {
@@ -227,6 +200,9 @@ tag = aalt;
 {
 code = "lookup ccmp_DFLT_1 {
 	lookupflag 0;
+	sub i acutecomb by iacute;
+	sub i acute by iacute;
+	sub i-cy acutecomb by iacute;
 	sub acutecomb macroncomb by acutecomb_macroncomb;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
@@ -244,7 +220,7 @@ code = "lookup ccmp_DFLT_1 {
 } ccmp_DFLT_1;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb macrongravecomb acutemacroncomb gravemacroncomb macronacutecomb horncomb graveacutegravecomb gravemacroncomb];
 	@CombiningBottomAccents = [minusbelowcomb ringbelowcomb dieresisbelowcomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
