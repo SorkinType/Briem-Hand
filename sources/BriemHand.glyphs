@@ -2,8 +2,7 @@
 .appVersion = "3213";
 .formatVersion = 3;
 DisplayStrings = (
-"i᷄ i᷅ i᷈ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̠᷄ i̠᷅ i̠᷆ i̠᷇ i̠᷈ i̤᷄ i̤᷅ i̤᷆ 
-          i̤᷇ i̤᷈ i̥᷄ i̥᷅"
+"ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅   "
 );
 axes = (
 {
@@ -220,6 +219,7 @@ lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb acutemacroncomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb gravemacroncomb graveacutegravecomb hookabovecomb horncomb horncomb.case hungarumlautcomb macroncomb macronacutecomb macrongravecomb ringcomb tildecomb verticallineabovecomb dieresisbelowcomb ringbelowcomb ringbelowcomb.case minusbelowcomb ];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
+    sub i-cy' by idotless;
 	sub imod' @CombiningTopAccents by imod.dotless;
 	sub iogonek' @CombiningTopAccents by iogonek.dotless;
 	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
@@ -227,6 +227,7 @@ lookup ccmp_Other_1 {
 	sub istroke' @CombiningTopAccents by istroke.dotless;
 	sub istrokemod' @CombiningTopAccents by istrokemod.dotless;
 	sub j' @CombiningTopAccents by jdotless;
+    sub jstroke' by jdotlessstroke;
 	sub jcrossedtail' @CombiningTopAccents by jcrossedtail.dotless;
 } ccmp_Other_1;
 
