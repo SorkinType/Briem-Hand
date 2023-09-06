@@ -311,7 +311,7 @@ Width = 551:
 equal
 
 Width = 533:
-greater, greaterequal
+greaterequal, greater
 
 Width = 494:
 logicalnot
@@ -716,7 +716,7 @@ Width = 560:
 equal
 
 Width = 570:
-greater, greaterequal
+greaterequal, greater
 
 Width = 550:
 multiply, logicalnot
@@ -1466,7 +1466,7 @@ Width = 553:
 equal
 
 Width = 542:
-greater, greaterequal
+greaterequal, greater
 
 Width = 507:
 logicalnot
@@ -1887,7 +1887,7 @@ Width = 552:
 equal
 
 Width = 537:
-greater, greaterequal
+greaterequal, greater
 
 Width = 499:
 logicalnot
@@ -2297,7 +2297,7 @@ Width = 540:
 lessequal, less
 
 Width = 530:
-greater, greaterequal
+greaterequal, greater
 
 Width = 489:
 logicalnot
@@ -2674,7 +2674,7 @@ Width = 554:
 equal
 
 Width = 547:
-greater, greaterequal
+greaterequal, greater
 
 Width = 514:
 logicalnot
@@ -3099,7 +3099,7 @@ Width = 556:
 equal
 
 Width = 555:
-greater, greaterequal
+greaterequal, greater
 
 Width = 526:
 logicalnot
@@ -3570,7 +3570,7 @@ Width = 558:
 equal
 
 Width = 562:
-greater, greaterequal
+greaterequal, greater
 
 Width = 538:
 logicalnot
@@ -3582,7 +3582,7 @@ Width = 551:
 multiply
 
 Width = 513:
-minus, divide
+divide, minus
 
 Width = 582:
 approxequal
