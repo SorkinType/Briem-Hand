@@ -1,5 +1,5 @@
 {
-.appVersion = "3213";
+.appVersion = "3219";
 .formatVersion = 3;
 DisplayStrings = (
 "ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅   "
@@ -44505,6 +44505,39 @@ width = 312;
 );
 note = dotlessi;
 unicode = 305;
+},
+{
+color = 9;
+glyphname = idotless_ogonek;
+lastChange = "2023-09-26 18:19:34 +0000";
+layers = (
+{
+layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (129,10);
+ref = ogonek;
+}
+);
+width = 312;
+},
+{
+layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (38,10);
+ref = ogonek;
+}
+);
+width = 312;
+}
+);
 },
 {
 glyphname = iacute;
