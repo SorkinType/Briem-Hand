@@ -1,5 +1,7 @@
+recipeProvider: fontprimer
 sources:
-  - BriemHand.glyphs
-axisOrder:
-  - wght
-familyName: Briem Hand
+- BriemHand.glyphs
+shortFamilyName: Briem
+doGuidelines: true
+buildStatic: true
+buildColorVariable: true
