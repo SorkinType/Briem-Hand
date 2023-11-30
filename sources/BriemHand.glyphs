@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3225";
 .formatVersion = 3;
 DisplayStrings = (
 "ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅   ",
@@ -146,6 +146,7 @@ wght = {
 500 = 450;
 600 = 560;
 700 = 670;
+800 = 720;
 900 = 777;
 };
 };
@@ -124654,6 +124655,28 @@ weightClass = 700;
 },
 {
 axesValues = (
+720
+);
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
+name = ExtraBold;
+weightClass = 800;
+},
+{
+axesValues = (
 777
 );
 customParameters = (
@@ -207583,7 +207606,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2019 The Familyname Project Authors (https://github.com/SorkinType/Briem-Script)";
+value = "Copyright 2019 The Briem Hand Project Authors (https://github.com/SorkinType/Briem-Hand)";
 }
 );
 },
