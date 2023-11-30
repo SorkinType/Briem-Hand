@@ -25,7 +25,8 @@ p,
 "/tildecomb.case",
 "᷇",
 "᷅᷄᷆",
-"o­z"
+"o­z",
+"ḁaḁų"
 );
 axes = (
 {
@@ -34422,7 +34423,7 @@ unicode = 507;
 },
 {
 glyphname = aringbelow;
-lastChange = "2023-07-06 16:14:04 +0000";
+lastChange = "2023-11-30 15:19:08 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -34444,7 +34445,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (161,0);
+pos = (315,-5);
 ref = ringbelowcomb;
 }
 );
@@ -60672,7 +60673,7 @@ unicode = 647;
 glyphname = u;
 kernLeft = KO_u;
 kernRight = KO_u;
-lastChange = "2023-07-06 16:14:04 +0000";
+lastChange = "2023-11-30 15:18:20 +0000";
 layers = (
 {
 anchors = (
@@ -60777,7 +60778,7 @@ pos = (307,0);
 },
 {
 name = ogonek;
-pos = (550,10);
+pos = (550,26);
 },
 {
 name = top;
@@ -62621,7 +62622,7 @@ unicode = 7803;
 {
 glyphname = uogonek;
 kernLeft = KO_u;
-lastChange = "2023-07-06 16:14:04 +0000";
+lastChange = "2023-11-30 15:18:20 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -62643,7 +62644,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (349,10);
+pos = (349,26);
 ref = ogonekcomb;
 }
 );
@@ -111869,7 +111870,7 @@ unicode = 804;
 },
 {
 glyphname = ringbelowcomb;
-lastChange = "2023-09-01 08:27:04 +0000";
+lastChange = "2023-11-30 15:19:37 +0000";
 layers = (
 {
 anchors = (
@@ -111925,11 +111926,11 @@ width = 184;
 anchors = (
 {
 name = _bottom;
-pos = (153,0);
+pos = (-1,0);
 },
 {
 name = bottom;
-pos = (135,-245);
+pos = (-1,-256);
 }
 );
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
