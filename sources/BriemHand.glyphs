@@ -25,7 +25,7 @@ p,
 "/tildecomb.case",
 "᷇",
 "᷅᷄᷆",
-"rɽc"
+"o­z"
 );
 axes = (
 {
@@ -73123,7 +73123,7 @@ width = 51;
 },
 {
 glyphname = o.z;
-lastChange = "2023-07-06 16:14:04 +0000";
+lastChange = "2023-11-30 15:08:56 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -94206,27 +94206,6 @@ R = hyphen;
 };
 },
 {
-glyphname = softhyphen;
-lastChange = "2023-07-06 16:14:04 +0000";
-layers = (
-{
-layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
-width = 0;
-},
-{
-layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
-width = 0;
-}
-);
-unicode = 173;
-userData = {
-KernOnSpecialSpacing = {
-L = hyphen;
-R = hyphen;
-};
-};
-},
-{
 color = 3;
 glyphname = endash;
 kernLeft = KO_endash;
@@ -94422,6 +94401,28 @@ userData = {
 KernOnSpecialSpacing = {
 L = underscore;
 R = underscore;
+};
+};
+},
+{
+export = 0;
+glyphname = softhyphen;
+lastChange = "2023-11-30 15:17:16 +0000";
+layers = (
+{
+layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
+width = 0;
+},
+{
+layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
+width = 0;
+}
+);
+unicode = 173;
+userData = {
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
 };
 };
 },
