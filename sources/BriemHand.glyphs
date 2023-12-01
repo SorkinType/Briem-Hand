@@ -25,8 +25,7 @@ p,
 "/tildecomb.case",
 "᷇",
 "᷅᷄᷆",
-"o­z",
-"ḁaḁų"
+"o­z"
 );
 axes = (
 {
@@ -4940,7 +4939,7 @@ unicode = 506;
 },
 {
 glyphname = Aringbelow;
-lastChange = "2023-07-06 16:14:04 +0000";
+lastChange = "2023-12-01 09:37:58 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -4949,7 +4948,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (208,0);
+pos = (216,0);
 ref = ringbelowcomb.case;
 }
 );
@@ -4962,7 +4961,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (150,0);
+pos = (303,0);
 ref = ringbelowcomb.case;
 }
 );
@@ -34423,7 +34422,7 @@ unicode = 507;
 },
 {
 glyphname = aringbelow;
-lastChange = "2023-11-30 15:19:08 +0000";
+lastChange = "2023-12-01 09:37:00 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -34445,7 +34444,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (315,-5);
+pos = (315,0);
 ref = ringbelowcomb;
 }
 );
@@ -119603,13 +119602,13 @@ width = 0;
 },
 {
 glyphname = ringbelowcomb.case;
-lastChange = "2023-09-01 08:25:47 +0000";
+lastChange = "2023-12-01 09:37:58 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (101,0);
+pos = (93,0);
 },
 {
 name = bottom;
@@ -119659,7 +119658,6 @@ width = 184;
 anchors = (
 {
 name = _bottom;
-pos = (153,0);
 },
 {
 name = bottom;
