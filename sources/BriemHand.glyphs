@@ -5,7 +5,7 @@ DisplayStrings = (
 "ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅   ",
 "H↑H↗H→H↘H↓H↙H←H↖H↔H↕H",
 "↕",
-"ɤ"
+"◌̛́"
 );
 axes = (
 {
@@ -109356,7 +109356,7 @@ unicode = 8597;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2023-07-06 16:14:04 +0000";
+lastChange = "2024-03-27 09:36:17 +0000";
 layers = (
 {
 anchors = (
@@ -109365,8 +109365,24 @@ name = bottom;
 pos = (315,0);
 },
 {
+name = cap;
+pos = (312,316);
+},
+{
+name = center;
+pos = (315,325);
+},
+{
+name = ogonek;
+pos = (440,0);
+},
+{
 name = top;
 pos = (319,499);
+},
+{
+name = topright;
+pos = (514,551);
 }
 );
 background = {
@@ -109674,8 +109690,24 @@ name = bottom;
 pos = (315,0);
 },
 {
+name = cap;
+pos = (312,316);
+},
+{
+name = center;
+pos = (315,325);
+},
+{
+name = ogonek;
+pos = (440,0);
+},
+{
 name = top;
 pos = (319,499);
+},
+{
+name = topright;
+pos = (534,591);
 }
 );
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
@@ -111706,9 +111738,15 @@ unicode = 777;
 },
 {
 glyphname = verticallineabovecomb;
-lastChange = "2023-07-06 16:14:04 +0000";
+lastChange = "2024-03-27 09:34:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (34,524);
+}
+);
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
 shapes = (
 {
@@ -111741,6 +111779,12 @@ nodes = (
 width = 96;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (102,524);
+}
+);
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
 shapes = (
 {
