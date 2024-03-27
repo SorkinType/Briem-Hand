@@ -1,6 +1,6 @@
 recipeProvider: fontprimer
 sources:
-- BriemHand.glyphs
+  - BriemHand.glyphs
 shortFamilyName: Briem
 doGuidelines: true
 buildStatic: true
