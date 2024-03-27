@@ -5,7 +5,7 @@ DisplayStrings = (
 "ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅   ",
 "H↑H↗H→H↘H↓H↙H←H↖H↔H↕H",
 "↕",
-"◌̛́"
+"₫̛́"
 );
 axes = (
 {
@@ -101481,7 +101481,7 @@ R = symbols;
 },
 {
 glyphname = dong;
-lastChange = "2024-03-21 06:43:00 +0000";
+lastChange = "2024-03-27 13:17:50 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -101500,14 +101500,15 @@ width = 645;
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
 shapes = (
 {
+alignment = -1;
 ref = dcroat;
 },
 {
-pos = (22672,-410);
+pos = (91,-410);
 ref = endash;
 }
 );
-width = 656;
+width = 677;
 }
 );
 metricLeft = d;
