@@ -125,22 +125,6 @@ name = blueShift;
 value = 5;
 },
 {
-name = "Axis Mappings";
-value = {
-wght = {
-100 = 217;
-200 = 260;
-300 = 320;
-400 = 390;
-500 = 450;
-600 = 540;
-700 = 640;
-800 = 720;
-900 = 777;
-};
-};
-},
-{
 name = "Use Extension Kerning";
 value = 1;
 },
