@@ -1042,7 +1042,7 @@ fontbakery version: 0.11.2
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -1058,12 +1058,12 @@ fontbakery version: 0.11.2
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -1082,7 +1082,7 @@ fontbakery version: 0.11.2
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -1126,9 +1126,9 @@ fontbakery version: 0.11.2
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -1195,7 +1195,7 @@ fontbakery version: 0.11.2
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -2165,7 +2165,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -2181,12 +2181,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -2205,7 +2205,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -2249,9 +2249,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -2318,7 +2318,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -2965,12 +2965,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -2989,26 +2989,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -3029,28 +3029,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -3073,30 +3073,30 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -3109,18 +3109,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -3133,21 +3133,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -3165,24 +3165,24 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -3193,48 +3193,48 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -3288,21 +3288,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -3320,9 +3320,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -3331,15 +3331,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -3349,34 +3349,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -3393,14 +3393,14 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -3418,31 +3418,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -3470,15 +3470,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -3508,10 +3508,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -3519,26 +3519,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -3559,23 +3559,23 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -3588,26 +3588,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -3629,15 +3629,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -3667,31 +3667,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -3704,10 +3704,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -3716,34 +3716,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -3772,15 +3772,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -3790,26 +3790,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -3838,18 +3838,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -3879,28 +3879,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -3912,32 +3912,32 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -3948,16 +3948,16 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -3969,15 +3969,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -4019,21 +4019,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -4352,7 +4352,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -4368,12 +4368,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -4392,7 +4392,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -4436,9 +4436,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -4505,7 +4505,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -8924,12 +8924,12 @@ notequal
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -8948,26 +8948,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -8988,28 +8988,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -9032,30 +9032,30 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -9068,18 +9068,18 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -9092,21 +9092,21 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -9124,24 +9124,24 @@ notequal
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -9152,48 +9152,48 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -9247,21 +9247,21 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -9279,9 +9279,9 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -9290,15 +9290,15 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -9308,34 +9308,34 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -9352,14 +9352,14 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -9377,31 +9377,31 @@ notequal
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -9429,15 +9429,15 @@ notequal
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -9467,10 +9467,10 @@ notequal
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -9478,26 +9478,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -9518,23 +9518,23 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -9547,26 +9547,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -9588,15 +9588,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -9626,31 +9626,31 @@ notequal
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -9663,10 +9663,10 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -9675,34 +9675,34 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -9731,15 +9731,15 @@ notequal
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -9749,26 +9749,26 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -9797,18 +9797,18 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -9838,28 +9838,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -9871,32 +9871,32 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -9907,16 +9907,16 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -9928,15 +9928,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -9978,21 +9978,21 @@ notequal
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -10311,7 +10311,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -10327,12 +10327,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -10351,7 +10351,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -10395,9 +10395,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -10464,7 +10464,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -14047,7 +14047,7 @@ Width = 556:
 plus
 
 Width = 552:
-equal, multiply
+multiply, equal
 
 Width = 537:
 greater, greaterequal
@@ -14553,7 +14553,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -14569,12 +14569,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -14593,7 +14593,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -14637,9 +14637,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -14706,7 +14706,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -15464,12 +15464,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -15488,26 +15488,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -15528,28 +15528,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -15572,30 +15572,30 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -15608,18 +15608,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -15632,21 +15632,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -15664,24 +15664,24 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -15692,48 +15692,48 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -15787,21 +15787,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -15819,9 +15819,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -15830,15 +15830,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -15848,34 +15848,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -15892,14 +15892,14 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -15917,31 +15917,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -15969,15 +15969,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -16007,10 +16007,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -16018,26 +16018,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -16058,23 +16058,23 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -16087,26 +16087,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -16128,15 +16128,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -16166,31 +16166,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -16203,10 +16203,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -16215,34 +16215,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -16271,15 +16271,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -16289,26 +16289,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -16337,18 +16337,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -16378,28 +16378,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -16411,32 +16411,32 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -16447,16 +16447,16 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -16468,15 +16468,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -16518,21 +16518,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -16851,7 +16851,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -16867,12 +16867,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -16891,7 +16891,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -16935,9 +16935,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -17004,7 +17004,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -21346,7 +21346,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -21362,12 +21362,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -21386,7 +21386,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -21430,9 +21430,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -21499,7 +21499,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -22740,7 +22740,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -22756,12 +22756,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -22780,7 +22780,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -22824,9 +22824,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -22893,7 +22893,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -23495,12 +23495,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -23519,26 +23519,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -23559,28 +23559,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -23603,30 +23603,30 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -23639,18 +23639,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -23663,21 +23663,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -23695,24 +23695,24 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -23723,48 +23723,48 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -23818,21 +23818,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -23850,9 +23850,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -23861,15 +23861,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -23879,34 +23879,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -23923,14 +23923,14 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -23948,31 +23948,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -24000,15 +24000,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -24038,10 +24038,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -24049,26 +24049,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -24089,23 +24089,23 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -24118,26 +24118,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -24159,15 +24159,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -24197,31 +24197,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -24234,10 +24234,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -24246,34 +24246,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -24302,15 +24302,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -24320,26 +24320,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -24368,18 +24368,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -24409,28 +24409,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -24442,32 +24442,32 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -24478,16 +24478,16 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -24499,15 +24499,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -24549,21 +24549,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -24882,7 +24882,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -24898,12 +24898,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -24922,7 +24922,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -24966,9 +24966,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -25035,7 +25035,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -28932,12 +28932,12 @@ notequal
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -28956,26 +28956,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -28996,28 +28996,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -29040,30 +29040,30 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -29076,18 +29076,18 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -29100,21 +29100,21 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -29132,24 +29132,24 @@ notequal
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -29160,48 +29160,48 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -29255,21 +29255,21 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -29287,9 +29287,9 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -29298,15 +29298,15 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -29316,34 +29316,34 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -29360,14 +29360,14 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -29385,31 +29385,31 @@ notequal
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -29437,15 +29437,15 @@ notequal
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -29475,10 +29475,10 @@ notequal
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -29486,26 +29486,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -29526,23 +29526,23 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -29555,26 +29555,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -29596,15 +29596,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -29634,31 +29634,31 @@ notequal
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -29671,10 +29671,10 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -29683,34 +29683,34 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -29739,15 +29739,15 @@ notequal
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -29757,26 +29757,26 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -29805,18 +29805,18 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -29846,28 +29846,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -29879,32 +29879,32 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -29915,16 +29915,16 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -29936,15 +29936,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -29986,21 +29986,21 @@ notequal
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -30319,7 +30319,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -30335,12 +30335,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -30359,7 +30359,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -30403,9 +30403,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -30472,7 +30472,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -34052,7 +34052,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 540:
-less, lessequal
+lessequal, less
 
 Width = 530:
 greater, greaterequal
@@ -34168,12 +34168,12 @@ notequal
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -34192,26 +34192,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -34232,28 +34232,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -34276,30 +34276,30 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -34312,18 +34312,18 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -34336,21 +34336,21 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -34368,24 +34368,24 @@ notequal
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -34396,48 +34396,48 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -34491,21 +34491,21 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -34523,9 +34523,9 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -34534,15 +34534,15 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -34552,34 +34552,34 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -34596,14 +34596,14 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -34621,31 +34621,31 @@ notequal
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -34673,15 +34673,15 @@ notequal
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -34711,10 +34711,10 @@ notequal
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -34722,26 +34722,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -34762,23 +34762,23 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -34791,26 +34791,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -34832,15 +34832,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -34870,31 +34870,31 @@ notequal
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -34907,10 +34907,10 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -34919,34 +34919,34 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -34975,15 +34975,15 @@ notequal
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -34993,26 +34993,26 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -35041,18 +35041,18 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -35082,28 +35082,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -35115,32 +35115,32 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -35151,16 +35151,16 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -35172,15 +35172,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -35222,21 +35222,21 @@ notequal
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -35555,7 +35555,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -35571,12 +35571,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -35595,7 +35595,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -35639,9 +35639,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -35708,7 +35708,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -39453,12 +39453,12 @@ notequal
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -39477,26 +39477,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -39517,28 +39517,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -39561,30 +39561,30 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -39597,18 +39597,18 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -39621,21 +39621,21 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -39653,24 +39653,24 @@ notequal
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -39681,48 +39681,48 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -39776,21 +39776,21 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -39808,9 +39808,9 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -39819,15 +39819,15 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -39837,34 +39837,34 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -39881,14 +39881,14 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -39906,31 +39906,31 @@ notequal
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -39958,15 +39958,15 @@ notequal
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -39996,10 +39996,10 @@ notequal
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -40007,26 +40007,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -40047,23 +40047,23 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -40076,26 +40076,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -40117,15 +40117,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -40155,31 +40155,31 @@ notequal
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -40192,10 +40192,10 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -40204,34 +40204,34 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -40260,15 +40260,15 @@ notequal
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -40278,26 +40278,26 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -40326,18 +40326,18 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -40367,28 +40367,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -40400,32 +40400,32 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -40436,16 +40436,16 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -40457,15 +40457,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -40507,21 +40507,21 @@ notequal
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -40840,7 +40840,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -40856,12 +40856,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -40880,7 +40880,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -40924,9 +40924,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -40993,7 +40993,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -45704,7 +45704,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -45720,12 +45720,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -45744,7 +45744,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -45788,9 +45788,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -45857,7 +45857,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -46220,7 +46220,7 @@ Width = 556:
 plus
 
 Width = 552:
-equal, multiply
+multiply, equal
 
 Width = 537:
 greater, greaterequal
@@ -46766,7 +46766,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -46782,12 +46782,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -46806,7 +46806,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -46850,9 +46850,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -46919,7 +46919,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -47279,7 +47279,7 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 540:
-less, lessequal
+lessequal, less
 
 Width = 530:
 greater, greaterequal
@@ -47667,7 +47667,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -47683,12 +47683,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -47707,7 +47707,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -47751,9 +47751,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -47820,7 +47820,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -48928,7 +48928,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -48944,12 +48944,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -48968,7 +48968,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -49012,9 +49012,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -49081,7 +49081,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -49721,12 +49721,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -49745,26 +49745,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -49785,28 +49785,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -49829,30 +49829,30 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -49865,18 +49865,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -49889,21 +49889,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -49921,24 +49921,24 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -49949,48 +49949,48 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -50044,21 +50044,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -50076,9 +50076,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -50087,15 +50087,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -50105,34 +50105,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -50149,14 +50149,14 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -50174,31 +50174,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -50226,15 +50226,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -50264,10 +50264,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -50275,26 +50275,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -50315,23 +50315,23 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -50344,26 +50344,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -50385,15 +50385,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -50423,31 +50423,31 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -50460,10 +50460,10 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -50472,34 +50472,34 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -50528,15 +50528,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -50546,26 +50546,26 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -50594,18 +50594,18 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -50635,28 +50635,28 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -50668,32 +50668,32 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -50704,16 +50704,16 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -50725,15 +50725,15 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -50775,21 +50775,21 @@ This happens a lot when points are not extremes, which is usually bad. However, 
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -51108,7 +51108,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -51124,12 +51124,12 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -51148,7 +51148,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -51192,9 +51192,9 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -51261,7 +51261,7 @@ This happens a lot when points are not extremes, which is usually bad. However, 
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
@@ -55128,12 +55128,12 @@ notequal
 
 | Language | FAIL messages |
 | :--- | :--- |
-| mev_Latn (Mano) | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+| mev_Latn (Mano) | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -55152,26 +55152,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| mwm_Latn (Sar) | Shaper didn't attach uni0304 to uni1E75 |
-|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+| mwm_Latn (Sar) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach uni0330 to amacron |
-|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach uni0304 to glyph00800 |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
-|  ^  | Shaper didn't attach uni0304 to uni1E1B |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to oacute |
-|  ^  | Shaper didn't attach uni0330 to Amacron |
-|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
 |  ^  | Shaper didn't attach acutecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to oacute |
 |  ^  | Shaper didn't attach uni0330 to Oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach uni0304 to uni1E1B |
 |  ^  | Shaper didn't attach glyph01295 to uni1E2C |
-|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0304 to uni1E75 |
+|  ^  | Shaper didn't attach uni0330 to Amacron |
 |  ^  | Shaper didn't attach uni0330 to Omacron |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0304 to glyph00800 |
+|  ^  | Shaper didn't attach glyph01295 to uni1E1A |
+|  ^  | Shaper didn't attach glyph01278 to uni1E1A |
+|  ^  | Shaper didn't attach uni0330 to omacron |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach uni0330 to amacron |
@@ -55192,28 +55192,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| dur_Latn (Dii) | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to igrave |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to Igrave |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
+| dur_Latn (Dii) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
-|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach uni0327 to igrave |
+|  ^  | Shaper didn't attach uni0327 to ugrave |
+|  ^  | Shaper didn't attach uni0327 to Igrave |
 |  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to aacute |
@@ -55236,30 +55236,30 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ugrave |
 |  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Uacute |
-| agq_Latn (Aghem) | Shaper didn't attach uni0304 to glyph00799 |
+| agq_Latn (Aghem) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0304 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0304 to glyph00799 |
-| ann_Latn (Obolo) | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+| ann_Latn (Obolo) | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
 | tuz_Latn (Turka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Otilde |
@@ -55272,18 +55272,18 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| gna_Latn (Kaansa) | Shaper didn't attach glyph01281 to Utilde |
+| gna_Latn (Kaansa) | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Atilde |
 |  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01281 to Utilde |
+|  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01281 to Atilde |
-|  ^  | Shaper didn't attach uni0302 to utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach uni0302 to atilde |
@@ -55296,21 +55296,21 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach uni0302 to utilde |
 |  ^  | Shaper didn't attach glyph01281 to Utilde |
-| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach glyph01278 to Adieresis |
-|  ^  | Shaper didn't attach glyph01278 to Odieresis |
-|  ^  | Shaper didn't attach acutecomb to edieresis |
-|  ^  | Shaper didn't attach acutecomb to odieresis |
-|  ^  | Shaper didn't attach tildecomb to adieresis |
-|  ^  | Shaper didn't attach tildecomb to udieresis |
-|  ^  | Shaper didn't attach glyph01293 to Odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Idieresis |
-|  ^  | Shaper didn't attach tildecomb to odieresis |
-|  ^  | Shaper didn't attach glyph01293 to Adieresis |
-|  ^  | Shaper didn't attach glyph01293 to Udieresis |
-|  ^  | Shaper didn't attach acutecomb to adieresis |
+| bvi_Latn (Belanda Viri, Latin) | Shaper didn't attach tildecomb to odieresis |
 |  ^  | Shaper didn't attach tildecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Udieresis |
 |  ^  | Shaper didn't attach glyph01293 to Edieresis |
+|  ^  | Shaper didn't attach glyph01278 to Adieresis |
+|  ^  | Shaper didn't attach tildecomb to udieresis |
 |  ^  | Shaper didn't attach glyph01278 to Edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Adieresis |
+|  ^  | Shaper didn't attach acutecomb to odieresis |
+|  ^  | Shaper didn't attach glyph01293 to Odieresis |
+|  ^  | Shaper didn't attach tildecomb to adieresis |
+|  ^  | Shaper didn't attach glyph01278 to Odieresis |
+|  ^  | Shaper didn't attach acutecomb to adieresis |
+|  ^  | Shaper didn't attach acutecomb to edieresis |
+|  ^  | Shaper didn't attach glyph01293 to Idieresis |
 |  ^  | Shaper didn't attach acutecomb to adieresis |
 |  ^  | Shaper didn't attach glyph01278 to Adieresis |
 |  ^  | Shaper didn't attach tildecomb to adieresis |
@@ -55328,24 +55328,24 @@ notequal
 |  ^  | Shaper didn't attach glyph01293 to Udieresis |
 | gov_Latn (Goo) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂ |
 |  ^  | Shaper produced a .notdef |
-| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to iacute |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
-|  ^  | Shaper didn't attach uni0331 to Iacute |
+| kcg_Latn (Tyap) | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
+|  ^  | Shaper didn't attach uni0331 to Iacute |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to iacute |
 |  ^  | Shaper didn't attach uni0331 to Iacute |
 | box_Latn (Buamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -55356,48 +55356,48 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| nfu_Latn (Mfumte) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| nfu_Latn (Mfumte) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to glyph00799 |
-|  ^  | Shaper didn't attach uni0302 to uni0327 |
-|  ^  | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to ograve |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D3 |
+| mnf_Latn (Mundani) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01CE |
-|  ^  | Shaper didn't attach uni0327 to Acircumflex |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to uni01CE |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to uni01CD |
 |  ^  | Shaper didn't attach uni0327 to ugrave |
-|  ^  | Shaper didn't attach uni0327 to Agrave |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach glyph01286 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to uni01D4 |
 |  ^  | Shaper didn't attach uni0327 to uni0268 |
+|  ^  | Shaper didn't attach glyph01286 to uni0228 |
+|  ^  | Shaper didn't attach gravecomb to uni0229 |
+|  ^  | Shaper didn't attach uni030C to uni0229 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to Agrave |
+|  ^  | Shaper didn't attach uni0327 to ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0327 to ograve |
+|  ^  | Shaper didn't attach uni0327 to uni01D4 |
+|  ^  | Shaper didn't attach glyph01276 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to uni0327 |
+|  ^  | Shaper didn't attach uni0327 to uni01D2 |
+|  ^  | Shaper didn't attach uni0327 to Ugrave |
+|  ^  | Shaper didn't attach uni0327 to uni01D3 |
 |  ^  | Shaper didn't attach uni0327 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to uni0327 |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to agrave |
-|  ^  | Shaper didn't attach uni0327 to uni01CD |
-|  ^  | Shaper didn't attach glyph01276 to uni0228 |
-|  ^  | Shaper didn't attach gravecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
-|  ^  | Shaper didn't attach uni0327 to Ugrave |
-|  ^  | Shaper didn't attach uni030C to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to Ograve |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to agrave |
 |  ^  | Shaper didn't attach uni0327 to Agrave |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -55451,21 +55451,21 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 | pug_Latn (Phuie) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -55483,9 +55483,9 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 | bwj_Latn (Láá Láá Bwamu) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -55494,15 +55494,15 @@ notequal
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| mcp_Latn (Makaa) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| mcp_Latn (Makaa) | Shaper didn't attach uni0327 to Ocircumflex |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
@@ -55512,34 +55512,34 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to uni01D2 |
 |  ^  | Shaper didn't attach uni0327 to uni01D1 |
-| bfd_Latn (Bafut) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| bfd_Latn (Bafut) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| lnl_Latn (South Central Banda) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| lnl_Latn (South Central Banda) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
 | bsq_Latn (Bassa) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -55556,14 +55556,14 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
-| ijs_Latn (Ijo, Southeast) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+| ijs_Latn (Ijo, Southeast) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -55581,31 +55581,31 @@ notequal
 |  ^  | Shaper didn't attach uni0331 to otilde |
 |  ^  | Shaper didn't attach uni0331 to Otilde |
 | lee_Latn (Lyélé) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach glyph01286 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to otilde |
-|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach uni030C to atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Itilde |
-|  ^  | Shaper didn't attach uni030C to itilde |
-|  ^  | Shaper didn't attach glyph01286 to Utilde |
-|  ^  | Shaper didn't attach uni030C to otilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01286 to Otilde |
-|  ^  | Shaper didn't attach uni030C to uni1EBD |
-|  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
-|  ^  | Shaper didn't attach gravecomb to uni1EBD |
-|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01276 to Otilde |
-|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01276 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01286 to Utilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Otilde |
+|  ^  | Shaper didn't attach gravecomb to uni1EBD |
+|  ^  | Shaper didn't attach acutecomb to itilde |
+|  ^  | Shaper didn't attach glyph01286 to Otilde |
+|  ^  | Shaper didn't attach glyph01286 to Atilde |
+|  ^  | Shaper didn't attach uni030C to itilde |
+|  ^  | Shaper didn't attach glyph01276 to Atilde |
+|  ^  | Shaper didn't attach uni030C to otilde |
+|  ^  | Shaper didn't attach glyph01286 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach uni030C to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
+|  ^  | Shaper didn't attach uni030C to uni1EBD |
+|  ^  | Shaper didn't attach glyph01286 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to otilde |
+|  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
@@ -55633,15 +55633,15 @@ notequal
 |  ^  | Shaper didn't attach uni030C to otilde |
 |  ^  | Shaper didn't attach uni030C to utilde |
 | ife_Latn (Ifè) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
@@ -55671,10 +55671,10 @@ notequal
 |  ^  | Shaper didn't attach uni1DC6 to utilde |
 |  ^  | Shaper didn't attach uni1DC6 to Utilde |
 | bqp_Latn (Bisã) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
@@ -55682,26 +55682,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0302 to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+| pnz_Latn (Pana (Central African Republic)) | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
-|  ^  | Shaper didn't attach uni0327 to Icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to icircumflex |
-|  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0302 to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to oacute |
 |  ^  | Shaper didn't attach uni0327 to Acircumflex |
+|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01281 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to icircumflex |
+|  ^  | Shaper didn't attach acutecomb to uni0229 |
+|  ^  | Shaper didn't attach uni0327 to uacute |
+|  ^  | Shaper didn't attach uni0327 to Iacute |
 |  ^  | Shaper didn't attach uni0327 to ocircumflex |
 |  ^  | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to Ocircumflex |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach glyph01281 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to aacute |
-|  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
-|  ^  | Shaper didn't attach uni0327 to acircumflex |
+|  ^  | Shaper didn't attach uni0327 to Icircumflex |
+|  ^  | Shaper didn't attach uni0327 to Ucircumflex |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach uni0327 to acircumflex |
@@ -55722,23 +55722,23 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to ucircumflex |
 |  ^  | Shaper didn't attach uni0327 to Ucircumflex |
-| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| pcm_Latn (Nigerian Pidgin) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 | etu_Latn (Ejagham) | Shaper didn't attach acutecomb to glyph00799 |
-| ntm_Latn (Nateni) | Shaper didn't attach glyph01278 to uni1E2C |
-|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+| ntm_Latn (Nateni) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach gravecomb to uni1E75 |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
-|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach acutecomb to glyph00800 |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E2C |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -55751,26 +55751,26 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-| mhi_Latn (Ma’di) | Shaper didn't attach glyph01293 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+| mhi_Latn (Ma’di) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
-|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
-|  ^  | Shaper didn't attach tildecomb to uni1ECD |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1ECC |
 |  ^  | Shaper didn't attach glyph01293 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
+|  ^  | Shaper didn't attach tildecomb to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
 |  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to uni1EB9 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach tildecomb to uni1ECD |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach tildecomb to uni1EB9 |
@@ -55792,15 +55792,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01293 to uni1EE4 |
 | nga_Latn (Ngbaka) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -55830,31 +55830,31 @@ notequal
 |  ^  | Shaper didn't attach uni030C to utilde |
 |  ^  | Shaper didn't attach glyph01286 to Utilde |
 | dnj_Latn_LR (Dan) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to uni0275 |
-|  ^  | Shaper didn't attach glyph01278 to uni019F |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach glyph01276 to uni019F |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach uni0302 to uni0275 |
+|  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni0275 |
 |  ^  | Shaper didn't attach glyph01281 to uni019F |
-|  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
-|  ^  | Shaper didn't attach uni0302 to uni0275 |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach gravecomb to itilde |
+|  ^  | Shaper didn't attach gravecomb to uni0275 |
 |  ^  | Shaper didn't attach gravecomb to atilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni019F |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| kzr_Latn (Karang) | Shaper didn't attach glyph01278 to uni0228 |
-|  ^  | Shaper didn't attach uni0327 to uacute |
-|  ^  | Shaper didn't attach uni0327 to oacute |
-|  ^  | Shaper didn't attach uni0327 to Oacute |
-|  ^  | Shaper didn't attach uni0327 to Uacute |
-|  ^  | Shaper didn't attach uni0327 to aacute |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kzr_Latn (Karang) | Shaper didn't attach uni0327 to iacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
-|  ^  | Shaper didn't attach uni0327 to iacute |
+|  ^  | Shaper didn't attach uni0327 to uacute |
 |  ^  | Shaper didn't attach uni0327 to Iacute |
+|  ^  | Shaper didn't attach uni0327 to Oacute |
+|  ^  | Shaper didn't attach uni0327 to oacute |
+|  ^  | Shaper didn't attach glyph01278 to uni0228 |
+|  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
+|  ^  | Shaper didn't attach uni0327 to Uacute |
 |  ^  | Shaper didn't attach uni0327 to aacute |
 |  ^  | Shaper didn't attach uni0327 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to uni0229 |
@@ -55867,10 +55867,10 @@ notequal
 |  ^  | Shaper didn't attach uni0327 to Uacute |
 | gvl_Latn (Gulay) | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-| ish_Latn (Esan) | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+| ish_Latn (Esan) | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1ECD |
@@ -55879,34 +55879,34 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-| igb_Latn (Ebira) | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+| igb_Latn (Ebira) | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
-|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
-|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach acutecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach gravecomb to uni1EB9 |
+|  ^  | Shaper didn't attach glyph01276 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1ECA |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01278 to uni1EE4 |
+|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach acutecomb to uni1ECD |
+|  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach glyph01278 to uni1ECC |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach acutecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
@@ -55935,15 +55935,15 @@ notequal
 |  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
 |  ^  | Shaper didn't attach uni0304 to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
-| fvr_Latn (Fur) | Shaper didn't attach uni0331 to acircumflex |
+| fvr_Latn (Fur) | Shaper didn't attach uni0331 to Acircumflex |
+|  ^  | Shaper didn't attach uni0331 to uni01CE |
 |  ^  | Shaper didn't attach uni0331 to uni01CD |
-|  ^  | Shaper didn't attach uni0331 to Acircumflex |
-|  ^  | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0331 to aacute |
-|  ^  | Shaper didn't attach uni0331 to uni01CE |
+|  ^  | Shaper didn't attach uni0331 to Aacute |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
+|  ^  | Shaper didn't attach uni0331 to acircumflex |
 |  ^  | Shaper didn't attach uni0331 to aacute |
 |  ^  | Shaper didn't attach uni0331 to Aacute |
 |  ^  | Shaper didn't attach uni0331 to acircumflex |
@@ -55953,26 +55953,26 @@ notequal
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
-| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01276 to uni1EE4 |
-|  ^  | Shaper didn't attach uni0304 to uni1ECD |
-|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+| ekp_Latn (Ekpeye) | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01276 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECC |
+|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
+|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
 |  ^  | Shaper didn't attach gravecomb to uni1EE5 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
-|  ^  | Shaper didn't attach gravecomb to glyph00797 |
-|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
-|  ^  | Shaper didn't attach gravecomb to uni1ECD |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECC |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
-|  ^  | Shaper didn't attach glyph01295 to uni1EE4 |
 |  ^  | Shaper didn't attach glyph01295 to uni1ECA |
-|  ^  | Shaper didn't attach uni0304 to glyph00797 |
-|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
-|  ^  | Shaper didn't attach uni0304 to uni1EB9 |
+|  ^  | Shaper didn't attach gravecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01276 to uni1ECA |
-|  ^  | Shaper didn't attach glyph01281 to uni1EE4 |
+|  ^  | Shaper didn't attach glyph01295 to uni1EB8 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach uni0304 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0302 to uni1EE5 |
+|  ^  | Shaper didn't attach uni0304 to uni1ECD |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach uni0304 to glyph00797 |
+|  ^  | Shaper didn't attach gravecomb to uni1ECD |
+|  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach gravecomb to uni1EB9 |
 |  ^  | Shaper didn't attach glyph01276 to uni1EB8 |
 |  ^  | Shaper didn't attach uni0304 to uni1EB9 |
@@ -56001,18 +56001,18 @@ notequal
 |  ^  | Shaper didn't attach glyph01286 to uni1ECC |
 |  ^  | Shaper didn't attach uni030C to uni1EE5 |
 |  ^  | Shaper didn't attach glyph01286 to uni1EE4 |
-| mge_Latn (Mango) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to Aacute |
-|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
-|  ^  | Shaper didn't attach uni0330 to agrave |
-|  ^  | Shaper didn't attach acutecomb to uni1E75 |
+| mge_Latn (Mango) | Shaper didn't attach acutecomb to uni1E75 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
-|  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00800 |
 |  ^  | Shaper didn't attach uni0330 to aacute |
+|  ^  | Shaper didn't attach uni0330 to Agrave |
+|  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach gravecomb to glyph00800 |
+|  ^  | Shaper didn't attach glyph01276 to uni1E2C |
+|  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
+|  ^  | Shaper didn't attach uni0330 to agrave |
+|  ^  | Shaper didn't attach glyph01278 to uni1E74 |
 |  ^  | Shaper didn't attach uni0330 to agrave |
 |  ^  | Shaper didn't attach uni0330 to Agrave |
 |  ^  | Shaper didn't attach uni0330 to aacute |
@@ -56042,28 +56042,28 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to uni1E74 |
 |  ^  | Shaper didn't attach uni0304 to uni1E75 |
 |  ^  | Shaper didn't attach glyph01295 to uni1E74 |
-| sld_Latn (Sissala) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Itilde |
+| sld_Latn (Sissala) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-| bkm_Latn (Kom) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
+| bkm_Latn (Kom) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
-| sba_Latn (Ngambay) | Shaper didn't attach gravecomb to uni1E1B |
-|  ^  | Shaper didn't attach acutecomb to uni1E1B |
+| sba_Latn (Ngambay) | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach glyph01276 to uni1E1A |
+|  ^  | Shaper didn't attach acutecomb to uni1E1B |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
+|  ^  | Shaper didn't attach gravecomb to uni1E1B |
 |  ^  | Shaper didn't attach glyph01278 to uni1E1A |
-|  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to aacute |
 |  ^  | Shaper didn't attach uni0330 to Aacute |
 |  ^  | Shaper didn't attach gravecomb to uni1E1B |
@@ -56075,32 +56075,32 @@ notequal
 |  ^  | Shaper didn't attach glyph01278 to Iogonek |
 |  ^  | Shaper didn't attach acutecomb to uogonek |
 |  ^  | Shaper didn't attach glyph01278 to Uogonek |
-| lgg_Latn (Lugbara) | Shaper didn't attach acutecomb to glyph00799 |
-|  ^  | Shaper didn't attach gravecomb to glyph00799 |
-|  ^  | Shaper didn't attach uni030C to glyph00799 |
+| lgg_Latn (Lugbara) | Shaper didn't attach gravecomb to glyph00799 |
+|  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
+|  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach gravecomb to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 | mor_Latn (Moro) | Some base glyphs were missing: Ꟈ, ꟈ |
 |  ^  | Shaper produced a .notdef |
-| ozm_Latn (Koonzime) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach acutecomb to glyph00799 |
+| ozm_Latn (Koonzime) | Shaper didn't attach acutecomb to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 |  ^  | Shaper didn't attach acutecomb to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni030C to glyph00799 |
 | bqc_Latn (Boko) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
@@ -56111,16 +56111,16 @@ notequal
 |  ^  | Shaper didn't attach glyph01276 to Itilde |
 |  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
-| avu_Latn (Avokaya) | Shaper didn't attach glyph01293 to uni1EA0 |
-|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to glyph00797 |
-|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+| avu_Latn (Avokaya) | Shaper didn't attach glyph01278 to uni1ECA |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
-|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
-|  ^  | Shaper didn't attach glyph01278 to uni1ECA |
-|  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach tildecomb to uni1EA1 |
+|  ^  | Shaper didn't attach acutecomb to glyph00797 |
+|  ^  | Shaper didn't attach uni0302 to glyph00797 |
+|  ^  | Shaper didn't attach tildecomb to glyph00797 |
+|  ^  | Shaper didn't attach glyph01281 to uni1ECA |
+|  ^  | Shaper didn't attach glyph01293 to uni1EA0 |
+|  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach acutecomb to uni1EA1 |
 |  ^  | Shaper didn't attach glyph01278 to uni1EA0 |
 |  ^  | Shaper didn't attach acutecomb to glyph00797 |
@@ -56132,15 +56132,15 @@ notequal
 |  ^  | Shaper didn't attach tildecomb to glyph00797 |
 |  ^  | Shaper didn't attach glyph01293 to uni1ECA |
 | tbz_Latn (Ditammari) | Shaper didn't attach glyph01276 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach gravecomb to itilde |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach gravecomb to atilde |
+|  ^  | Shaper didn't attach gravecomb to utilde |
 |  ^  | Shaper didn't attach acutecomb to itilde |
-|  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Utilde |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach gravecomb to atilde |
 |  ^  | Shaper didn't attach glyph01276 to Atilde |
 |  ^  | Shaper didn't attach acutecomb to atilde |
@@ -56182,21 +56182,21 @@ notequal
 | dnj_Latn (Dan) | Some base glyphs were missing: Ɤ, Ɤ̀, Ɤ́, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̏ |
 |  ^  | Shaper produced a .notdef |
 |  ^  | Shaper produced a .notdef |
-| nzk_Latn (Nzakara) | Shaper didn't attach uni0302 to glyph00799 |
-|  ^  | Shaper didn't attach uni0308 to glyph00799 |
+| nzk_Latn (Nzakara) | Shaper didn't attach uni0308 to glyph00799 |
+|  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0302 to glyph00799 |
 |  ^  | Shaper didn't attach uni0308 to glyph00799 |
-| kst_Latn (Winyé) | Shaper didn't attach glyph01278 to uni1EBC |
-|  ^  | Shaper didn't attach glyph01278 to Atilde |
+| kst_Latn (Winyé) | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-|  ^  | Shaper didn't attach acutecomb to atilde |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
+|  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to Atilde |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach acutecomb to atilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
-| soy_Latn (Miyobe) | Shaper didn't attach glyph01278 to uni1EBC |
+| soy_Latn (Miyobe) | Shaper didn't attach acutecomb to uni1EBD |
+|  ^  | Shaper didn't attach glyph01278 to uni1EBC |
 |  ^  | Shaper didn't attach glyph01278 to Itilde |
-|  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach acutecomb to itilde |
 |  ^  | Shaper didn't attach acutecomb to uni1EBD |
 |  ^  | Shaper didn't attach glyph01278 to uni1EBC |
@@ -56515,7 +56515,7 @@ notequal
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition
  * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
@@ -56531,12 +56531,12 @@ notequal
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
  * U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition
  * U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, math, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, coptic, old-permic, math, tifinagh
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, malayalam, syriac, coptic, tai-le, canadian-aboriginal, math, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -56555,7 +56555,7 @@ notequal
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
  * U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, caucasian-albanian, tifinagh
+ * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, cherokee, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
@@ -56599,9 +56599,9 @@ notequal
  * U+2007 FIGURE SPACE: not included in any glyphset definition
  * U+2008 PUNCTUATION SPACE: not included in any glyphset definition
  * U+200A HAIR SPACE: not included in any glyphset definition
- * U+200C ZERO WIDTH NON-JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, hatran, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+200D ZERO WIDTH JOINER: try adding one of: cham, limbu, tagalog, tai-le, thaana, lao, duployan, balinese, kayah-li, batak, masaram-gondi, mandaic, pahawh-hmong, saurashtra, tirhuta, hanifi-rohingya, sinhala, gunjala-gondi, meetei-mayek, malayalam, new-tai-lue, bengali, oriya, warang-citi, hanunoo, siddham, kannada, arabic, buhid, tagbanwa, buginese, tibetan, sundanese, newa, nko, tai-viet, modi, sharada, zanabazar-square, devanagari, syloti-nagri, tai-tham, mahajani, khojki, psalter-pahlavi, takri, gujarati, avestan, khmer, chakma, telugu, grantha, javanese, mongolian, myanmar, gurmukhi, lepcha, kharoshthi, kaithi, khudawadi, manichaean, brahmi, old-hungarian, phags-pa, rejang, tamil, thai, syriac, yi, hebrew, sogdian, bhaiksuki, tifinagh, dogra
- * U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi
+ * U+200C ZERO WIDTH NON-JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, hatran, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+200D ZERO WIDTH JOINER: try adding one of: javanese, pahawh-hmong, limbu, tagalog, grantha, khojki, zanabazar-square, syriac, batak, phags-pa, tai-le, tibetan, balinese, mongolian, rejang, myanmar, siddham, kaithi, hanunoo, hanifi-rohingya, bengali, avestan, saurashtra, chakma, syloti-nagri, tai-tham, lepcha, telugu, masaram-gondi, tirhuta, brahmi, yi, warang-citi, bhaiksuki, thaana, dogra, mahajani, oriya, hebrew, malayalam, gurmukhi, takri, mandaic, khmer, kharoshthi, meetei-mayek, devanagari, newa, kannada, old-hungarian, sundanese, tamil, new-tai-lue, kayah-li, buginese, tai-viet, gujarati, lao, nko, khudawadi, sogdian, tifinagh, modi, sharada, thai, buhid, arabic, manichaean, cham, gunjala-gondi, sinhala, duployan, tagbanwa, psalter-pahlavi
+ * U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi
  * U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition
  * U+2021 DOUBLE DAGGER: try adding adlam
  * U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi
@@ -56668,7 +56668,7 @@ notequal
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25CA LOZENGE: try adding one of: math, symbols
- * U+25CC DOTTED CIRCLE: try adding one of: duployan, balinese, kayah-li, coptic, malayalam, sharada, symbols, osage, psalter-pahlavi, telugu, javanese, lepcha, manichaean, phags-pa, rejang, elbasan, bhaiksuki, limbu, tagalog, tai-le, pahawh-hmong, sinhala, gunjala-gondi, soyombo, oriya, miao, warang-citi, tagbanwa, syloti-nagri, tai-tham, music, caucasian-albanian, gujarati, khmer, mongolian, gurmukhi, brahmi, marchen, thai, hebrew, cham, ahom, thaana, batak, masaram-gondi, saurashtra, wancho, hanifi-rohingya, old-permic, siddham, kannada, buhid, canadian-aboriginal, buginese, tibetan, nko, tai-viet, zanabazar-square, grantha, adlam, myanmar, kharoshthi, kaithi, tamil, syriac, sogdian, lao, tirhuta, mandaic, mende-kikakui, meetei-mayek, new-tai-lue, bengali, hanunoo, bassa-vah, armenian, sundanese, newa, modi, devanagari, khojki, takri, math, chakma, khudawadi, yi, mahajani, tifinagh, dogra
+ * U+25CC DOTTED CIRCLE: try adding one of: limbu, khojki, batak, tibetan, saurashtra, mende-kikakui, canadian-aboriginal, yi, bhaiksuki, armenian, hebrew, mandaic, kharoshthi, sundanese, nko, khudawadi, tifinagh, sharada, buhid, sinhala, tagbanwa, psalter-pahlavi, warang-citi, mongolian, rejang, myanmar, caucasian-albanian, hanunoo, hanifi-rohingya, tai-tham, masaram-gondi, dogra, mahajani, oriya, gurmukhi, soyombo, meetei-mayek, new-tai-lue, kayah-li, buginese, gujarati, music, elbasan, manichaean, cham, duployan, tagalog, grantha, syriac, coptic, siddham, kaithi, bengali, telugu, tirhuta, takri, marchen, wancho, lao, symbols, modi, gunjala-gondi, ahom, old-permic, syloti-nagri, javanese, pahawh-hmong, osage, zanabazar-square, phags-pa, tai-le, balinese, chakma, lepcha, brahmi, thaana, adlam, malayalam, khmer, miao, devanagari, newa, kannada, tamil, tai-viet, sogdian, bassa-vah, thai, math
  * U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition
  * U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition
  * U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition
