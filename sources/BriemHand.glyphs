@@ -125356,15 +125356,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 name = Thin;
@@ -125378,15 +125369,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-}
-);
 }
 );
 name = ExtraLight;
@@ -125400,15 +125382,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 name = Light;
@@ -125422,15 +125395,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 name = Regular;
@@ -125443,15 +125407,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
 }
 );
 name = Medium;
@@ -125465,15 +125420,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
 }
 );
 name = SemiBold;
@@ -125487,15 +125433,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 isBold = 1;
@@ -125510,15 +125447,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-}
-);
 }
 );
 name = ExtraBold;
@@ -125532,15 +125460,6 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 name = Black;
