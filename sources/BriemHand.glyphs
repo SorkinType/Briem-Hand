@@ -22,7 +22,7 @@ ziznzrzuzjzy
 zc zezuðzx px
 oi",
 "þ",
-"ƀh
+"a/a.b ƃģpƀh
 eb"
 );
 axes = (
@@ -48,61 +48,56 @@ code = "b bdotaccent bdotbelow bhook bmacronbelow bstroke h hbar hbrevebelow hca
 name = LowercaseAsc;
 },
 {
-code = "a ae aeacute aemacron aogonek.loclNAV d dcaron dcedilla dcircumflexbelow dcroat ddotaccent ddotbelow dmacronbelow dz dzcaron dhookandtail g gacute gbreve gcaron gcircumflex gcommaaccent gdotaccent ghook gsingle gstroke aogonek.latnNAV aogonek.loclNAV q qhooktail
-";
+code = "a ae d dhook dz dhookandtail g gsingle gstroke q qhooktail ";
 name = a_left;
 },
 {
-code = "a alpha-latin dcaron dcedilla dcircumflexbelow dcroat ddotaccent ddotbelow dmacronbelow h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow hhook hmacronbelow i idotless iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek iota-latin itilde itildebelow l lacute lbar lcaron lcircumflexbelow lcommaaccent ldot ldotbelow ldotbelowmacron ldoublebar lmacronbelow lslash m macute mdotaccent mdotbelow n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave nhookleft nj nmacronbelow ntilde u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udblgrave udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute utildebelow uogonek.loclNAV
+code = "a alpha-latin d h hhook i idotless iota-latin l lbar ldoublebar m n nhookleft nj u
 ";
 name = a_right;
 },
 {
-code = "b bdotaccent bdotbelow bmacronbelow bstroke bhook bstroke btopbar f fdotaccent h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow hmacronbelow hhook thorn k kacute kcaron kcommaaccent kdotbelow kmacronbelow l lacute lcaron lcircumflexbelow lcommaaccent ldot ldotbelow lbar ldotbelowmacron ldoublebar lj lmacronbelow lcommaaccent.loclMAH lslash thorn t tbar tcaron tcedilla tcircumflexbelow tcircumflexbelow tcommaaccent tdiagonalstroke
-";
+code = "b bhook btopbar f florin h hhook thorn k l lbar ldoublebar lj lslash thorn t tbar tdiagonalstroke ";
 name = b_left;
 },
 {
-code = "c cacute cbar ccaron ccedilla ccedillaacute ccircumflex cdotaccent chook cstroke o oacute obreve ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccent odotaccentmacron odotbelow obarred ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron omacronacute omacrongrave oogonek oslash oslashacute otilde otildeacute oogonek.loclNAV otildedieresis otildemacron oe e eacute ebreve ecaron ecedilla ecedillabreve ecircumflex ecircumflexacute ecircumflexbelow ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron eogonek edblgrave emacronacute emacrongrave estroke etilde etildebelow eth
-";
+code = "c cbar chook cstroke o obarred oe e estroke eth ";
 name = c_left;
 },
 {
-code = "t tbar tcaron tcedilla tcircumflexbelow tcommaaccent tdiagonalstroke tdieresis tdotaccent tdotbelow thook tmacronbelow tretroflexhook";
+code = "t tbar tdiagonalstroke thook tretroflexhook";
 name = t_left;
 },
 {
-code = "f fdotaccent fi fl f_f";
+code = "f fi fl f_f florin";
 name = f_left;
 },
 {
-code = "i idotless iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek iota-latin istroke istroke.dotless itilde itildebelow ij ij_acutecomb j jdotless jacute jcaron jcircumflex jdotlessstroke jstroke r racute rcaron rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron rinvertedbreve rmacronbelow rtail n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave nhookleft nj nmacronbelow ntilde eng m macute mdotaccent mdotbelow mhook u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udblgrave udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute utildebelow uogonek.loclNAV
-";
+code = "i idotless iogonek iota-latin istroke istroke.dotless ij ij_acutecomb j jdotless jdotlessstroke jstroke r rtail n nhookleft nj eng m mhook u ubar ";
 name = i_left;
 },
 {
-code = "kgreenlandic m macute mdotaccent mdotbelow n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave eng nhookleft nj nmacronbelow ntilde pstroke r racute rcaron rcommaaccent rdotaccent rdotbelow rdotbelowmacron rinvertedbreve rmacronbelow y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave
-";
+code = "kgreenlandic m n eng nhookleft nj pstroke r y ";
 name = n_left;
 },
 {
-code = "p pacute pdotaccent phook pstroke";
+code = "p phook pstroke";
 name = p_left;
 },
 {
-code = "s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent sobliquestroke";
+code = "s scarondotaccent sobliquestroke";
 name = s_left;
 },
 {
-code = "u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udblgrave udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute utildebelow uogonek.loclNAV";
+code = "u ubar ";
 name = u_left;
 },
 {
-code = "v vtilde vdotbelow w wacute wcircumflex wdieresis wdotaccent wdotbelow wgrave whook wring";
+code = "v w whook ";
 name = v_left;
 },
 {
-code = "x xdieresis xdotaccent";
+code = "x ";
 name = x_left;
 },
 {
@@ -110,7 +105,7 @@ code = "mediumspace-math emquad emspace enquad enspace punctuationspace sixperem
 name = spaces_right;
 },
 {
-code = "z zacute zcaron zcircumflex zdotaccent zdotbelow zmacronbelow zstroke";
+code = "z zstroke";
 name = z_left;
 }
 );
@@ -283,6 +278,9 @@ lookup ccmp_latn_1 {
 	sub arighthalfring by a ringhalfright;
 	sub atilde by a tildecomb;
 	sub astroke by a diagonalstrokecomb;
+	
+	sub aeacute by ae acutecomb;
+	sub aemacron by ae macroncomb;
 
 	sub bdotaccent by b dotaccentcomb;
 	sub bdotbelow by b dotbelowcomb;
@@ -327,8 +325,16 @@ lookup ccmp_latn_1 {
 	sub etilde by e tildecomb;
 	sub etildebelow by e tildebelowcomb;
 	sub edblgrave by e dblgravecomb;
+	sub emacronacute by e macroncomb_acutecomb;
+	sub emacrongrave by e macroncomb_gravecomb;
 
 	sub fdotaccent by f dotaccentcomb;
+
+	sub gcircumflex by g circumflexcomb;
+	sub gcommaaccent by g commaturnedabovecomb;
+	sub gdotaccent by g dotaccentcomb;
+	sub gacute by g acutecomb;
+	sub gbreve by g brevecomb;
 
 	sub hbar by h asc.cross_part;
 	sub hcaron by h caroncomb;
@@ -355,6 +361,10 @@ lookup ccmp_latn_1 {
 	sub imacron by idotless macroncomb;
 	sub itilde by idotless tildecomb;
 	sub itildebelow by i tildebelowcomb;
+
+	sub jacute by jdotless acutecomb;
+	sub jcaron by jdotless caroncomb;
+	sub jcircumflex by jdotless circumflexcomb;
 
 	sub kacute by k acutecomb;
 	sub kcaron by k caroncomb;
@@ -415,6 +425,10 @@ lookup ccmp_latn_1 {
 	sub oogonek by o ogonekcomb;
 	sub oogonekmacron by o ogonekcomb macroncomb;
 	sub otilde by o tildecomb;
+	sub otildeacute by o tildecomb_acutecomb;
+	sub otildedieresis by o tildecomb dieresiscomb;
+	sub otildemacron by o tildecomb macroncomb;
+
 	sub oslash by o diagonalstrokecomb;
 	sub oslashacute by o diagonalstrokecomb acutecomb;
 
@@ -439,6 +453,7 @@ lookup ccmp_latn_1 {
 	sub sdotaccent by s dotaccentcomb;
 	sub sdotbelow by s dotbelowcomb;
 	sub sdotbelowdotaccent by s dotaccentcomb dotbelowcomb;
+	sub sacutedotaccent by s acutecomb dotaccentcomb;
 
 	sub tcedilla by t cedillacomb;
 	sub tcaron by t caroncomb.alt;
@@ -472,13 +487,34 @@ lookup ccmp_latn_1 {
 	sub uhungarumlaut by u hungarumlautcomb;
 	sub uinvertedbreve by u breveinvertedcomb;
 	sub udotbelow by u dotbelowcomb;
+	sub uhorn by u horncomb;
+	sub uhornacute by u horncomb acutecomb;
+	sub uhorndotbelow by u horncomb dotbelowcomb;
+	sub uhorngrave by u horncomb gravecomb;
+	sub uhornhookabove by u horncomb hookabovecomb;
+	sub uhorntilde by u horncomb tildecomb;
+	sub utildeacute by u tildecomb_acutecomb;
 
 	sub vdotbelow by v dotbelowcomb;
 	sub vtilde by v tildecomb;
 
+	sub wacute by w acutecomb;
+	sub wcircumflex by w circumflexcomb;
+	sub wdieresis by w dieresiscomb;
+	sub wdotaccent by w dotaccentcomb;
+	sub wdotbelow by w dotbelowcomb;
+	sub wgrave by w gravecomb;
+	sub wring by w ringcomb;
+
 	sub xdieresis by x dieresiscomb;
 	sub xdotaccent by x dotaccentcomb;
 
+	sub yacute by y acutecomb;
+	sub ycircumflex by y circumflexcomb;
+	sub ydieresis by y dieresiscomb;
+	sub ydotaccent by y dotaccentcomb;
+	sub ydotbelow by y dotbelowcomb;
+	sub ygrave by y gravecomb;
 	sub ymacron by y macroncomb;
 	sub yring by y ringcomb;
 	
@@ -663,10 +699,12 @@ sub a' @b_left by a a.b;
 sub a' @c_left by a a.c;
 sub a' @i_left by a a.a;
 sub a' @n_left by a a.a;
+sub a' @p_left by a a.b;
 sub a' @s_left by a a.s;
 sub a' @v_left by a a.v;
 sub a' @x_left by a a.x;
 sub a' @z_left by a a.v;
+
 sub b' @a_left by b b.a;
 sub b' @b_left by b b.b;
 sub b' @c_left by b b.c;
@@ -728,7 +766,6 @@ sub h' @b_left by h a.b;
 sub h' @i_left by h a.b;
 sub h' @n_left by h a.c;
 sub h' @t_left by h a.b;
-
 
 sub hhook' @a_left by hhook a.a;
 sub hhook' @t_left by hhook a.b;
@@ -910,7 +947,6 @@ sub tbar' @z_left by tbar t.z;
 sub tbar' [@a_left eth] by tbar t.a;
 sub tbar' [@n_left @i_left] by tbar t.n;
 
-
 sub thorn' @a_left by thorn b.a;
 sub thorn' @b_left by thorn b.b;
 sub thorn' @c_left by thorn b.c;
@@ -927,7 +963,6 @@ sub u' @n_left by u a.a;
 sub u' @s_left by u a.s;
 sub u' @v_left by u a.v;
 
-
 sub ubar' @a_left by ubar a.a;
 sub ubar' @b_left by ubar a.b;
 sub ubar' @c_left by ubar a.c;
@@ -935,7 +970,6 @@ sub ubar' @i_left by ubar a.a;
 sub ubar' @n_left by ubar a.a;
 sub ubar' @s_left by ubar a.s;
 sub ubar' @v_left by ubar a.v;
-
 
 sub v' @c_left by v v.c;
 sub v' @v_left by v v.v;
