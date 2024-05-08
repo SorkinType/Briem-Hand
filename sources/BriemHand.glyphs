@@ -1389,15 +1389,6 @@ value = 50;
 {
 name = underlinePosition;
 value = 350;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 guides = (
@@ -1676,15 +1667,6 @@ value = 50;
 {
 name = underlinePosition;
 value = 350;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 guides = (
@@ -128129,20 +128111,6 @@ value = 1;
 );
 name = Black;
 weightClass = 900;
-},
-{
-customParameters = (
-{
-name = "Variable Font Origin";
-value = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
-},
-{
-name = "Use Typo Metrics";
-value = 1;
-}
-);
-name = Regular;
-type = variable;
 }
 );
 kerningLTR = {
