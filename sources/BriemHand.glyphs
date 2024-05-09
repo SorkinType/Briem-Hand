@@ -88,7 +88,8 @@ code = "f fi fl f_f florin";
 name = f_left;
 },
 {
-code = "i idotless iogonek iota-latin istroke istroke.dotless ij ij_acutecomb j jdotless jdotlessstroke jstroke r rtail n nhookleft nj eng m mhook u ubar ";
+code = "i idotless iogonek iota-latin istroke istroke.dotless ij ij_acutecomb j jdotless jdotlessstroke jstroke r rtail n nhookleft nj eng m mhook u ubar p
+";
 name = i_left;
 },
 {
