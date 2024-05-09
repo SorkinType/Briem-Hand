@@ -3,5 +3,10 @@ sources:
   - BriemHand.glyphs
 shortFamilyName: Briem
 doGuidelines: true
-buildStatic: true
+buildStatic: false
 buildColorVariable: true
+variants:
+- name: Unjoined
+  steps:
+  - operation: remapLayout
+    args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
