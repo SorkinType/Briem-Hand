@@ -40,7 +40,9 @@ for codepoint in font["cmap"].getBestCmap().keys():
 
 
 for l in letters:
-     for r in letters:
+    if l in "qjg":
+        continue
+    for r in letters:
         if not is_connected(l,r):
             print(l+r, end=" ")
-     print("\n")
+    print("\n")
