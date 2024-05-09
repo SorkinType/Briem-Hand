@@ -36,7 +36,8 @@ eb",
 "฿₡",
 "₵",
 "/dieresiscomb_gravecomb.case",
-"/gravecomb_macroncomb.case/acutecomb_macroncomb.case"
+"/gravecomb_macroncomb.case/acutecomb_macroncomb.case",
+""
 );
 axes = (
 {
@@ -292,6 +293,7 @@ lookup ccmp_latn_1 {
 	sub arighthalfring by a ringhalfright;
 	sub atilde by a tildecomb;
 	sub astroke by a diagonalstrokecomb;
+	sub adotmacron by a dotaccentcomb macroncomb;
 	
 	sub aeacute by ae acutecomb;
 	sub aemacron by ae macroncomb;
@@ -342,6 +344,8 @@ lookup ccmp_latn_1 {
 	sub emacronacute by e macroncomb_acutecomb;
 	sub emacrongrave by e macroncomb_gravecomb;
 
+	sub ezhcaron by ezh caroncomb;
+
 	sub fdotaccent by f dotaccentcomb;
 
 	sub gcircumflex by g circumflexcomb;
@@ -349,6 +353,8 @@ lookup ccmp_latn_1 {
 	sub gdotaccent by g dotaccentcomb;
 	sub gacute by g acutecomb;
 	sub gbreve by g brevecomb;
+	sub gcaron by g caroncomb;
+	sub gmacron by g macroncomb;
 
 	sub hbar by h asc.cross_part;
 	sub hcaron by h caroncomb;
@@ -359,6 +365,8 @@ lookup ccmp_latn_1 {
 	sub hdotaccent by h dotaccentcomb;
 	sub hdotbelow by h dotbelowcomb;
 	sub hmacronbelow by h macronbelowcomb;
+
+	sub ij by i j;
 
 	sub iacute by idotless acutecomb;
 	sub ibreve by idotless brevecomb;
@@ -391,6 +399,7 @@ lookup ccmp_latn_1 {
 	sub lcircumflexbelow by l circumflexbelowcomb;
 	sub lcommaaccent by l commaaccentcomb;
 	sub ldotbelow by l dotbelowcomb;
+	sub ldotbelowmacron by l dotbelowcomb macroncomb;
 	sub lmiddletilde by l tildeoverlaycomb;
 	sub lbelt by l belt_part;
 
@@ -468,6 +477,7 @@ lookup ccmp_latn_1 {
 	sub sdotbelow by s dotbelowcomb;
 	sub sdotbelowdotaccent by s dotaccentcomb dotbelowcomb;
 	sub sacutedotaccent by s acutecomb dotaccentcomb;
+	sub scarondotaccent by s caroncomb dotaccentcomb;
 
 	sub tcedilla by t cedillacomb;
 	sub tcaron by t caroncomb.alt;
@@ -531,6 +541,8 @@ lookup ccmp_latn_1 {
 	sub ygrave by y gravecomb;
 	sub ymacron by y macroncomb;
 	sub yring by y ringcomb;
+	sub yhookabove by y hookabovecomb;
+	sub ytilde by y tildecomb;
 	
 	sub zacute by z acutecomb;
 	sub zcaron by z caroncomb;
