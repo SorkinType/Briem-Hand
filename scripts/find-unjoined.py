@@ -42,7 +42,6 @@ for codepoint in font["cmap"].getBestCmap().keys():
 for l in letters:
     if l in "qjg":
         continue
-    for r in letters:
-        if not is_connected(l,r):
-            print(l+r, end=" ")
-    print("\n")
+    unconnected = [l+r for r in letters if not is_connected(l, r)]
+    if unconnected:
+        print(" ".join(unconnected))
