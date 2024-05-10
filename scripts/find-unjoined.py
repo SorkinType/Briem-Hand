@@ -33,7 +33,7 @@ for codepoint in font["cmap"].getBestCmap().keys():
     d = ucd_data(codepoint)
     if d.get("Script") != "Latin":
         continue
-    if args.ascii_only and chr(codepoint) not in string.ascii_lowercase:
+    if args.ascii_only and chr(codepoint) not in "a á b d ð e é f g h i í j k l m n o ó p r s t u ú v x y ý þ æ ö ƙ ƥ":
         continue
     if d.get("General_Category") == "Ll":
         letters.append(chr(codepoint))
