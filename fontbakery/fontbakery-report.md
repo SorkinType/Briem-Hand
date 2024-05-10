@@ -5628,21 +5628,21 @@ GFTools is available at <a href="https://pypi.org/project/gftools/">https://pypi
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 in glyph 'v.v': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
+<pre><code>- Contour 0 point 0 in glyph 's.v' has a kink between location wght=100,GDLO=1 and location wght=900,GDLO=1
 
 - Contour 0 point 22 in glyph 'o.a' has a kink between location wght=100,GDLO=1 and location wght=900,GDLO=1
 
-- Contour 0 in glyph 'b.c': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
-
-- Contour 0 point 0 in glyph 's.v' has a kink between location wght=100,GDLO=1 and location wght=900,GDLO=1
-
 - Contour 1 start point differs in glyph 'section' between location wght=100,GDLO=1 and location wght=900,GDLO=1
-
-- Contour 0 start point differs in glyph 'o.v' between location wght=100,GDLO=1 and location wght=900,GDLO=1
 
 - Contour 0 start point differs in glyph 'o.z' between location wght=100,GDLO=1 and location wght=900,GDLO=1
 
+- Contour 0 in glyph 'v.v': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
+
 - Contour 0 start point differs in glyph 'o.c' between location wght=100,GDLO=1 and location wght=900,GDLO=1
+
+- Contour 0 start point differs in glyph 'o.v' between location wght=100,GDLO=1 and location wght=900,GDLO=1
+
+- Contour 0 in glyph 'b.c': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
 </code></pre>
  [code: interpolation-issues]
 
@@ -5719,8 +5719,8 @@ notequal</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: ј̀ ј́ ј̂ ј̃ ј̄ ј̆ ј̇ ј̈ ј̉ ј̊ ј̋ ј̌ ј̍ ј̏ ј̐ ј̑ ј̒ ј̓ ј᷄ ј᷅</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Zapotec (Latn, 490,000 speakers), Sar (Latn, 500,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ma’di (Latn, 584,000 speakers), Ebira (Latn, 2,200,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Cicipu (Latn, 44,000 speakers), Ekpeye (Latn, 226,000 speakers), Yala (Latn, 200,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Lithuanian (Latn, 2,357,094 speakers), Nateni (Latn, 100,000 speakers), South Central Banda (Latn, 244,000 speakers), Mango (Latn, 77,000 speakers), Dutch (Latn, 31,709,104 speakers), Gulay (Latn, 250,478 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Vute (Latn, 21,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Makaa (Latn, 221,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Kom (Latn, 360,685 speakers), Aghem (Latn, 38,843 speakers), Koonzime (Latn, 40,000 speakers), Avokaya (Latn, 100,000 speakers), Basaa (Latn, 332,940 speakers), Mfumte (Latn, 79,000 speakers), Fur (Latn, 1,230,163 speakers), Mundani (Latn, 34,000 speakers), Bafut (Latn, 158,146 speakers), Ejagham (Latn, 120,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Igbo (Latn, 27,823,640 speakers), Dii (Latn, 71,000 speakers), Lugbara (Latn, 2,200,000 speakers), Southern Kisi (Latn, 360,000 speakers), Dan (Latn, 1,099,244 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Bete-Bendi (Latn, 100,000 speakers), Ekpeye (Latn, 226,000 speakers), Nateni (Latn, 100,000 speakers), Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Ngbaka (Latn, 1,020,000 speakers), Cicipu (Latn, 44,000 speakers), Yala (Latn, 200,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Ebira (Latn, 2,200,000 speakers), Gulay (Latn, 250,478 speakers), South Central Banda (Latn, 244,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Navajo (Latn, 166,319 speakers), Nzakara (Latn, 50,000 speakers), Zapotec (Latn, 490,000 speakers), Sar (Latn, 500,000 speakers), Mango (Latn, 77,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Avokaya (Latn, 100,000 speakers), Vute (Latn, 21,000 speakers), Aghem (Latn, 38,843 speakers), Mfumte (Latn, 79,000 speakers), Southern Kisi (Latn, 360,000 speakers), Makaa (Latn, 221,000 speakers), Mundani (Latn, 34,000 speakers), Koonzime (Latn, 40,000 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Lugbara (Latn, 2,200,000 speakers), Dii (Latn, 71,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Basaa (Latn, 332,940 speakers), Dan (Latn, 1,099,244 speakers), Ejagham (Latn, 120,000 speakers), Bafut (Latn, 158,146 speakers), Kom (Latn, 360,685 speakers).</p>
  [code: soft-dotted]
 
 
@@ -5753,7 +5753,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -5769,9 +5769,9 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, math, coptic, tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, canadian-aboriginal, malayalam, syriac, tai-le, math, old-permic, coptic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -5793,7 +5793,7 @@ definitions.</p>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
 <li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, gothic, syriac, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, gothic, tifinagh, syriac, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -5802,39 +5802,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, elbasan, math</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, elbasan, math</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, elbasan, math</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, elbasan, math</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, elbasan, math</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, elbasan, math</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, elbasan, math</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, elbasan, math</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, elbasan, math</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, elbasan, math</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, elbasan, math</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, elbasan, math</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, elbasan, math</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, elbasan, math</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, elbasan, math</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, elbasan, math</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, elbasan, math</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -5870,9 +5870,9 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, hatran, limbu, meetei-mayek, saurashtra, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, old-hungarian, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, limbu, saurashtra, meetei-mayek, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, hatran, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, old-hungarian, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, yi, syloti-nagri</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
@@ -5918,14 +5918,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -5940,8 +5940,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: gurmukhi, kaithi, tagalog, cham, lao, sharada, music, limbu, mende-kikakui, math, modi, bengali, phags-pa, elbasan, sinhala, psalter-pahlavi, mandaic, balinese, javanese, newa, gunjala-gondi, khojki, armenian, syloti-nagri, khudawadi, tibetan, mongolian, nko, kayah-li, marchen, takri, gujarati, tai-le, miao, brahmi, telugu, duployan, hebrew, oriya, hanifi-rohingya, kharoshthi, tai-tham, tai-viet, batak, wancho, rejang, khmer, warang-citi, malayalam, buginese, ahom, thai, tirhuta, chakma, kannada, meetei-mayek, bassa-vah, devanagari, old-permic, tagbanwa, mahajani, buhid, tamil, symbols, grantha, yi, tifinagh, siddham, bhaiksuki, sogdian, caucasian-albanian, thaana, manichaean, canadian-aboriginal, soyombo, pahawh-hmong, masaram-gondi, zanabazar-square, osage, dogra, coptic, myanmar, saurashtra, syriac, adlam, hanunoo, lepcha, sundanese, new-tai-lue</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: lepcha, newa, batak, armenian, myanmar, tai-viet, telugu, oriya, hebrew, new-tai-lue, adlam, pahawh-hmong, soyombo, tirhuta, yi, tamil, tagalog, mahajani, sogdian, khojki, hanunoo, kaithi, music, canadian-aboriginal, symbols, ahom, kannada, dogra, tai-tham, manichaean, meetei-mayek, gujarati, coptic, mandaic, bengali, malayalam, caucasian-albanian, tibetan, hanifi-rohingya, sharada, tai-le, nko, kayah-li, thaana, devanagari, wancho, takri, tifinagh, chakma, javanese, modi, khmer, rejang, kharoshthi, bhaiksuki, gurmukhi, old-permic, mongolian, psalter-pahlavi, brahmi, masaram-gondi, zanabazar-square, thai, bassa-vah, sinhala, tagbanwa, buginese, lao, syloti-nagri, gunjala-gondi, osage, balinese, sundanese, miao, khudawadi, duployan, elbasan, mende-kikakui, marchen, grantha, cham, siddham, limbu, warang-citi, syriac, phags-pa, buhid, math, saurashtra</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -6299,11 +6299,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">lnl_Latn (South Central Banda)</td>
-<td align="left">Shaper didn't attach uni0308 to glyph00802</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
+<td align="left">Shaper didn't attach uni0308 to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -6341,11 +6341,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -6383,6 +6383,22 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">pnz_Latn (Pana (Central African Republic))</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 <tr>
@@ -6391,27 +6407,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
 </tr>
 </tbody>
 </table>
@@ -6476,7 +6476,27 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">dur_Latn (Dii)</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6488,31 +6508,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
 </tr>
 </tbody>
 </table>
@@ -6531,7 +6531,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">dow_Latn (Doyayo)</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6543,11 +6543,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Umacron</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach uni0327 to Umacron</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6555,7 +6555,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 </tbody>
 </table>
@@ -6578,15 +6578,27 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0327</td>
+<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6598,23 +6610,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6622,7 +6618,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+<td align="left">Shaper didn't attach acutecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6630,15 +6638,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 </tbody>
 </table>
@@ -6707,6 +6707,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">agq_Latn (Aghem)</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00802</td>
 </tr>
 <tr>
@@ -6716,10 +6720,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304 to glyph00802</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -6738,11 +6738,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ntm_Latn (Nateni)</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00803</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00803</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00803</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6750,7 +6750,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00803</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
 </tr>
 </tbody>
 </table>
@@ -6769,15 +6769,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mwm_Latn (Sar)</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to glyph00803</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+<td align="left">Shaper didn't attach uni0330 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6785,11 +6781,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00803</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Oacute</td>
+<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00803</td>
 </tr>
 </tbody>
 </table>
@@ -6808,11 +6808,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nzk_Latn (Nzakara)</td>
-<td align="left">Shaper didn't attach uni0308 to glyph00802</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
+<td align="left">Shaper didn't attach uni0308 to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -6912,7 +6912,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6924,7 +6924,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -6943,7 +6943,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mcp_Latn (Makaa)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6951,7 +6951,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6959,11 +6959,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
+<td align="left">Shaper didn't attach uni030C to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00802</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -7009,15 +7009,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -7036,15 +7036,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ekp_Latn (Ekpeye)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00800</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304 to glyph00800</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00800</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00800</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7067,7 +7067,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7079,7 +7079,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -7117,19 +7117,19 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kzr_Latn (Karang)</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
 </tr>
 </tbody>
 </table>
@@ -7148,11 +7148,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kcg_Latn (Tyap)</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
+<td align="left">Shaper didn't attach uni0331 to Iacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Iacute</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -7171,7 +7171,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7183,7 +7183,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -7202,11 +7202,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
-<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
+<td align="left">Shaper didn't attach uni0331 to Otilde</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Otilde</td>
+<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
 </tr>
 </tbody>
 </table>
@@ -7244,59 +7244,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mnf_Latn (Mundani)</td>
-<td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to glyph00802</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7304,11 +7252,63 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00802</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 </tbody>
 </table>
@@ -7327,15 +7327,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mge_Latn (Mango)</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00803</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7343,7 +7339,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00802</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7382,7 +7382,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">fvr_Latn (Fur)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7390,19 +7390,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00802</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
+<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00802</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00802</td>
 </tr>
 </tbody>
 </table>
@@ -12468,37 +12468,37 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 in glyph 'glyph00790': becomes underweight between wght=100 and wght=900.
+<pre><code>- Contour 0 start point differs in glyph 'glyph00795' between location wght=100 and location wght=900
 
-- Contour 1 in glyph 'glyph00790': becomes underweight between wght=100 and wght=900.
-
-- Contour 0 point 0 in glyph 'glyph00844' has a kink between location wght=100 and location wght=900
-
-- Contour 1 point 0 in glyph 'glyph00844' has a kink between location wght=100 and location wght=900
+- Contour 1 start point differs in glyph 'glyph00795' between location wght=100 and location wght=900
 
 - Contour 0 in glyph 'glyph00846': becomes underweight between wght=100 and wght=900.
 
 - Contour 1 in glyph 'glyph00846': becomes underweight between wght=100 and wght=900.
 
+- Contour 1 start point differs in glyph 'section' between location wght=100 and location wght=900
+
+- Contour 3 start point differs in glyph 'section' between location wght=100 and location wght=900
+
 - Contour 0 point 22 in glyph 'glyph00770' has a kink between location wght=100 and location wght=900
 
 - Contour 1 point 22 in glyph 'glyph00770' has a kink between location wght=100 and location wght=900
 
-- Contour 1 start point differs in glyph 'section' between location wght=100 and location wght=900
+- Contour 0 in glyph 'glyph00790': becomes underweight between wght=100 and wght=900.
 
-- Contour 3 start point differs in glyph 'section' between location wght=100 and location wght=900
+- Contour 1 in glyph 'glyph00790': becomes underweight between wght=100 and wght=900.
+
+- Contour 0 start point differs in glyph 'glyph00842' between location wght=100 and location wght=900
+
+- Contour 1 start point differs in glyph 'glyph00842' between location wght=100 and location wght=900
 
 - Contour 0 start point differs in glyph 'glyph00855' between location wght=100 and location wght=900
 
 - Contour 1 start point differs in glyph 'glyph00855' between location wght=100 and location wght=900
 
-- Contour 0 start point differs in glyph 'glyph00795' between location wght=100 and location wght=900
+- Contour 0 point 0 in glyph 'glyph00844' has a kink between location wght=100 and location wght=900
 
-- Contour 1 start point differs in glyph 'glyph00795' between location wght=100 and location wght=900
-
-- Contour 0 start point differs in glyph 'glyph00842' between location wght=100 and location wght=900
-
-- Contour 1 start point differs in glyph 'glyph00842' between location wght=100 and location wght=900
+- Contour 1 point 0 in glyph 'glyph00844' has a kink between location wght=100 and location wght=900
 </code></pre>
  [code: interpolation-issues]
 
@@ -12589,7 +12589,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -12605,9 +12605,9 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, math, coptic, tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, canadian-aboriginal, malayalam, syriac, tai-le, math, old-permic, coptic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -12629,7 +12629,7 @@ definitions.</p>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
 <li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, gothic, syriac, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, gothic, tifinagh, syriac, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -12638,39 +12638,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, elbasan, math</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, elbasan, math</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, elbasan, math</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, elbasan, math</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, elbasan, math</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, elbasan, math</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, elbasan, math</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, elbasan, math</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, elbasan, math</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, elbasan, math</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, elbasan, math</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, elbasan, math</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, elbasan, math</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, elbasan, math</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, elbasan, math</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, elbasan, math</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, elbasan, math</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -12706,9 +12706,9 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, hatran, limbu, meetei-mayek, saurashtra, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, old-hungarian, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, limbu, saurashtra, meetei-mayek, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, hatran, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, old-hungarian, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, yi, syloti-nagri</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
@@ -12754,14 +12754,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -12776,8 +12776,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: gurmukhi, kaithi, tagalog, cham, lao, sharada, music, limbu, mende-kikakui, math, modi, bengali, phags-pa, elbasan, sinhala, psalter-pahlavi, mandaic, balinese, javanese, newa, gunjala-gondi, khojki, armenian, syloti-nagri, khudawadi, tibetan, mongolian, nko, kayah-li, marchen, takri, gujarati, tai-le, miao, brahmi, telugu, duployan, hebrew, oriya, hanifi-rohingya, kharoshthi, tai-tham, tai-viet, batak, wancho, rejang, khmer, warang-citi, malayalam, buginese, ahom, thai, tirhuta, chakma, kannada, meetei-mayek, bassa-vah, devanagari, old-permic, tagbanwa, mahajani, buhid, tamil, symbols, grantha, yi, tifinagh, siddham, bhaiksuki, sogdian, caucasian-albanian, thaana, manichaean, canadian-aboriginal, soyombo, pahawh-hmong, masaram-gondi, zanabazar-square, osage, dogra, coptic, myanmar, saurashtra, syriac, adlam, hanunoo, lepcha, sundanese, new-tai-lue</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: lepcha, newa, batak, armenian, myanmar, tai-viet, telugu, oriya, hebrew, new-tai-lue, adlam, pahawh-hmong, soyombo, tirhuta, yi, tamil, tagalog, mahajani, sogdian, khojki, hanunoo, kaithi, music, canadian-aboriginal, symbols, ahom, kannada, dogra, tai-tham, manichaean, meetei-mayek, gujarati, coptic, mandaic, bengali, malayalam, caucasian-albanian, tibetan, hanifi-rohingya, sharada, tai-le, nko, kayah-li, thaana, devanagari, wancho, takri, tifinagh, chakma, javanese, modi, khmer, rejang, kharoshthi, bhaiksuki, gurmukhi, old-permic, mongolian, psalter-pahlavi, brahmi, masaram-gondi, zanabazar-square, thai, bassa-vah, sinhala, tagbanwa, buginese, lao, syloti-nagri, gunjala-gondi, osage, balinese, sundanese, miao, khudawadi, duployan, elbasan, mende-kikakui, marchen, grantha, cham, siddham, limbu, warang-citi, syriac, phags-pa, buhid, math, saurashtra</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -18000,21 +18000,21 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 in glyph 'glyph00847': becomes underweight between wght=100 and wght=900.
+<pre><code>- Contour 0 in glyph 'glyph00791': becomes underweight between wght=100 and wght=900.
 
-- Contour 0 start point differs in glyph 'glyph00856' between location wght=100 and location wght=900
+- Contour 0 in glyph 'glyph00847': becomes underweight between wght=100 and wght=900.
 
 - Contour 0 point 0 in glyph 'glyph00845' has a kink between location wght=100 and location wght=900
-
-- Contour 0 start point differs in glyph 'glyph00796' between location wght=100 and location wght=900
 
 - Contour 1 start point differs in glyph 'section' between location wght=100 and location wght=900
 
 - Contour 0 point 22 in glyph 'glyph00771' has a kink between location wght=100 and location wght=900
 
-- Contour 0 start point differs in glyph 'glyph00843' between location wght=100 and location wght=900
+- Contour 0 start point differs in glyph 'glyph00856' between location wght=100 and location wght=900
 
-- Contour 0 in glyph 'glyph00791': becomes underweight between wght=100 and wght=900.
+- Contour 0 start point differs in glyph 'glyph00796' between location wght=100 and location wght=900
+
+- Contour 0 start point differs in glyph 'glyph00843' between location wght=100 and location wght=900
 </code></pre>
  [code: interpolation-issues]
 
@@ -18105,7 +18105,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -18121,9 +18121,9 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, math, coptic, tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, canadian-aboriginal, malayalam, syriac, tai-le, math, old-permic, coptic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -18145,7 +18145,7 @@ definitions.</p>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
 <li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, gothic, syriac, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, gothic, tifinagh, syriac, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -18154,39 +18154,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, elbasan, math</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, elbasan, math</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, elbasan, math</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, elbasan, math</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, elbasan, math</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, elbasan, math</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, elbasan, math</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, elbasan, math</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, elbasan, math</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, elbasan, math</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, elbasan, math</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, elbasan, math</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, elbasan, math</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, elbasan, math</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, elbasan, math</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, elbasan, math</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, elbasan, math</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -18222,9 +18222,9 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, hatran, limbu, meetei-mayek, saurashtra, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, old-hungarian, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, limbu, saurashtra, meetei-mayek, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, hatran, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, old-hungarian, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, yi, syloti-nagri</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
@@ -18270,14 +18270,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -18292,8 +18292,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: gurmukhi, kaithi, tagalog, cham, lao, sharada, music, limbu, mende-kikakui, math, modi, bengali, phags-pa, elbasan, sinhala, psalter-pahlavi, mandaic, balinese, javanese, newa, gunjala-gondi, khojki, armenian, syloti-nagri, khudawadi, tibetan, mongolian, nko, kayah-li, marchen, takri, gujarati, tai-le, miao, brahmi, telugu, duployan, hebrew, oriya, hanifi-rohingya, kharoshthi, tai-tham, tai-viet, batak, wancho, rejang, khmer, warang-citi, malayalam, buginese, ahom, thai, tirhuta, chakma, kannada, meetei-mayek, bassa-vah, devanagari, old-permic, tagbanwa, mahajani, buhid, tamil, symbols, grantha, yi, tifinagh, siddham, bhaiksuki, sogdian, caucasian-albanian, thaana, manichaean, canadian-aboriginal, soyombo, pahawh-hmong, masaram-gondi, zanabazar-square, osage, dogra, coptic, myanmar, saurashtra, syriac, adlam, hanunoo, lepcha, sundanese, new-tai-lue</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: lepcha, newa, batak, armenian, myanmar, tai-viet, telugu, oriya, hebrew, new-tai-lue, adlam, pahawh-hmong, soyombo, tirhuta, yi, tamil, tagalog, mahajani, sogdian, khojki, hanunoo, kaithi, music, canadian-aboriginal, symbols, ahom, kannada, dogra, tai-tham, manichaean, meetei-mayek, gujarati, coptic, mandaic, bengali, malayalam, caucasian-albanian, tibetan, hanifi-rohingya, sharada, tai-le, nko, kayah-li, thaana, devanagari, wancho, takri, tifinagh, chakma, javanese, modi, khmer, rejang, kharoshthi, bhaiksuki, gurmukhi, old-permic, mongolian, psalter-pahlavi, brahmi, masaram-gondi, zanabazar-square, thai, bassa-vah, sinhala, tagbanwa, buginese, lao, syloti-nagri, gunjala-gondi, osage, balinese, sundanese, miao, khudawadi, duployan, elbasan, mende-kikakui, marchen, grantha, cham, siddham, limbu, warang-citi, syriac, phags-pa, buhid, math, saurashtra</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -23618,7 +23618,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -23634,9 +23634,9 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, math, coptic, tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, canadian-aboriginal, malayalam, syriac, tai-le, math, old-permic, coptic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -23658,7 +23658,7 @@ definitions.</p>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
 <li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, gothic, syriac, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, gothic, tifinagh, syriac, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -23667,39 +23667,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, elbasan, math</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, elbasan, math</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, elbasan, math</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, elbasan, math</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, elbasan, math</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, elbasan, math</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, elbasan, math</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, elbasan, math</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, elbasan, math</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, elbasan, math</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, elbasan, math</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, elbasan, math</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, elbasan, math</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, elbasan, math</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, elbasan, math</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, elbasan, math</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, elbasan, math</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -23735,9 +23735,9 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, hatran, limbu, meetei-mayek, saurashtra, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, old-hungarian, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, limbu, saurashtra, meetei-mayek, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, hatran, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, old-hungarian, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, yi, syloti-nagri</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
@@ -23783,14 +23783,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -23805,8 +23805,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: gurmukhi, kaithi, tagalog, cham, lao, sharada, music, limbu, mende-kikakui, math, modi, bengali, phags-pa, elbasan, sinhala, psalter-pahlavi, mandaic, balinese, javanese, newa, gunjala-gondi, khojki, armenian, syloti-nagri, khudawadi, tibetan, mongolian, nko, kayah-li, marchen, takri, gujarati, tai-le, miao, brahmi, telugu, duployan, hebrew, oriya, hanifi-rohingya, kharoshthi, tai-tham, tai-viet, batak, wancho, rejang, khmer, warang-citi, malayalam, buginese, ahom, thai, tirhuta, chakma, kannada, meetei-mayek, bassa-vah, devanagari, old-permic, tagbanwa, mahajani, buhid, tamil, symbols, grantha, yi, tifinagh, siddham, bhaiksuki, sogdian, caucasian-albanian, thaana, manichaean, canadian-aboriginal, soyombo, pahawh-hmong, masaram-gondi, zanabazar-square, osage, dogra, coptic, myanmar, saurashtra, syriac, adlam, hanunoo, lepcha, sundanese, new-tai-lue</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: lepcha, newa, batak, armenian, myanmar, tai-viet, telugu, oriya, hebrew, new-tai-lue, adlam, pahawh-hmong, soyombo, tirhuta, yi, tamil, tagalog, mahajani, sogdian, khojki, hanunoo, kaithi, music, canadian-aboriginal, symbols, ahom, kannada, dogra, tai-tham, manichaean, meetei-mayek, gujarati, coptic, mandaic, bengali, malayalam, caucasian-albanian, tibetan, hanifi-rohingya, sharada, tai-le, nko, kayah-li, thaana, devanagari, wancho, takri, tifinagh, chakma, javanese, modi, khmer, rejang, kharoshthi, bhaiksuki, gurmukhi, old-permic, mongolian, psalter-pahlavi, brahmi, masaram-gondi, zanabazar-square, thai, bassa-vah, sinhala, tagbanwa, buginese, lao, syloti-nagri, gunjala-gondi, osage, balinese, sundanese, miao, khudawadi, duployan, elbasan, mende-kikakui, marchen, grantha, cham, siddham, limbu, warang-citi, syriac, phags-pa, buhid, math, saurashtra</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -24128,11 +24128,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">lnl_Latn (South Central Banda)</td>
-<td align="left">Shaper didn't attach uni0308 to glyph00765</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
+<td align="left">Shaper didn't attach uni0308 to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24170,11 +24170,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24212,6 +24212,22 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">pnz_Latn (Pana (Central African Republic))</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 <tr>
@@ -24220,27 +24236,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
 </tr>
 </tbody>
 </table>
@@ -24305,7 +24305,27 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">dur_Latn (Dii)</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24317,31 +24337,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
 </tr>
 </tbody>
 </table>
@@ -24360,7 +24360,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">dow_Latn (Doyayo)</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24372,11 +24372,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Umacron</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach uni0327 to Umacron</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24384,7 +24384,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 </tbody>
 </table>
@@ -24407,15 +24407,27 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0327</td>
+<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24427,23 +24439,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24451,7 +24447,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+<td align="left">Shaper didn't attach acutecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24459,15 +24467,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 </tbody>
 </table>
@@ -24536,6 +24536,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">agq_Latn (Aghem)</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00765</td>
 </tr>
 <tr>
@@ -24545,10 +24549,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304 to glyph00765</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24567,11 +24567,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ntm_Latn (Nateni)</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00766</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00766</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00766</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24579,7 +24579,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00766</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
 </tr>
 </tbody>
 </table>
@@ -24598,15 +24598,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mwm_Latn (Sar)</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to glyph00766</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+<td align="left">Shaper didn't attach uni0330 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24614,11 +24610,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00766</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Oacute</td>
+<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00766</td>
 </tr>
 </tbody>
 </table>
@@ -24637,11 +24637,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nzk_Latn (Nzakara)</td>
-<td align="left">Shaper didn't attach uni0308 to glyph00765</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
+<td align="left">Shaper didn't attach uni0308 to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24741,7 +24741,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24753,7 +24753,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24772,7 +24772,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mcp_Latn (Makaa)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24780,7 +24780,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24788,11 +24788,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
+<td align="left">Shaper didn't attach uni030C to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00765</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24838,15 +24838,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24865,15 +24865,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ekp_Latn (Ekpeye)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00763</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304 to glyph00763</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00763</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00763</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24896,7 +24896,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24908,7 +24908,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -24946,19 +24946,19 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kzr_Latn (Karang)</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
 </tr>
 </tbody>
 </table>
@@ -24977,11 +24977,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kcg_Latn (Tyap)</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
+<td align="left">Shaper didn't attach uni0331 to Iacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Iacute</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -25000,7 +25000,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -25012,7 +25012,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -25031,11 +25031,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
-<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
+<td align="left">Shaper didn't attach uni0331 to Otilde</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Otilde</td>
+<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
 </tr>
 </tbody>
 </table>
@@ -25073,59 +25073,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mnf_Latn (Mundani)</td>
-<td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to glyph00765</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -25133,11 +25081,63 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00765</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 </tbody>
 </table>
@@ -25156,15 +25156,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mge_Latn (Mango)</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00766</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -25172,7 +25168,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00765</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -25211,7 +25211,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">fvr_Latn (Fur)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -25219,19 +25219,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00765</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
+<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00765</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00765</td>
 </tr>
 </tbody>
 </table>
@@ -30412,7 +30412,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, tifinagh, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -30428,9 +30428,9 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, malayalam, syriac, math, coptic, tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, canadian-aboriginal, malayalam, syriac, tai-le, math, old-permic, coptic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -30452,7 +30452,7 @@ definitions.</p>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
 <li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, gothic, syriac, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, gothic, tifinagh, syriac, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -30461,39 +30461,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, elbasan, math</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, elbasan, math</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, elbasan, math</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, elbasan, math</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, elbasan, math</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, elbasan, math</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, elbasan, math</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, elbasan, math</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, elbasan, math</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, elbasan, math</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, elbasan, math</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, elbasan, math</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, elbasan, math</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, elbasan, math</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, elbasan, math</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, elbasan, math</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, elbasan, math</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, elbasan, math</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -30529,9 +30529,9 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, hatran, limbu, meetei-mayek, saurashtra, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: zanabazar-square, gurmukhi, kaithi, gujarati, khmer, warang-citi, tagalog, tai-le, old-hungarian, malayalam, buginese, cham, dogra, lao, sharada, brahmi, myanmar, telugu, thai, duployan, chakma, kannada, hebrew, tirhuta, limbu, saurashtra, meetei-mayek, avestan, syriac, devanagari, modi, bengali, oriya, phags-pa, sinhala, psalter-pahlavi, mandaic, balinese, javanese, tagbanwa, newa, mahajani, buhid, tamil, hanifi-rohingya, hanunoo, gunjala-gondi, kharoshthi, lepcha, khojki, grantha, yi, syloti-nagri, tifinagh, tai-tham, tai-viet, siddham, arabic, batak, bhaiksuki, sogdian, khudawadi, tibetan, mongolian, rejang, nko, thaana, manichaean, kayah-li, sundanese, pahawh-hmong, masaram-gondi, takri, new-tai-lue</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, hatran, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: buginese, lao, syloti-nagri, nko, lepcha, kayah-li, zanabazar-square, thaana, gunjala-gondi, devanagari, newa, batak, arabic, myanmar, balinese, kannada, dogra, takri, sundanese, tifinagh, tai-viet, chakma, javanese, tai-tham, modi, manichaean, avestan, meetei-mayek, khudawadi, gujarati, duployan, telugu, khmer, mandaic, oriya, bengali, malayalam, kharoshthi, bhaiksuki, gurmukhi, rejang, hebrew, new-tai-lue, grantha, cham, old-hungarian, pahawh-hmong, tibetan, tirhuta, siddham, hanifi-rohingya, limbu, thai, warang-citi, tamil, sharada, tagalog, yi, mongolian, psalter-pahlavi, brahmi, mahajani, masaram-gondi, sogdian, syriac, tai-le, phags-pa, buhid, hanunoo, khojki, saurashtra, sinhala, tagbanwa, kaithi</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, yi, syloti-nagri</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
@@ -30577,14 +30577,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -30599,8 +30599,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: gurmukhi, kaithi, tagalog, cham, lao, sharada, music, limbu, mende-kikakui, math, modi, bengali, phags-pa, elbasan, sinhala, psalter-pahlavi, mandaic, balinese, javanese, newa, gunjala-gondi, khojki, armenian, syloti-nagri, khudawadi, tibetan, mongolian, nko, kayah-li, marchen, takri, gujarati, tai-le, miao, brahmi, telugu, duployan, hebrew, oriya, hanifi-rohingya, kharoshthi, tai-tham, tai-viet, batak, wancho, rejang, khmer, warang-citi, malayalam, buginese, ahom, thai, tirhuta, chakma, kannada, meetei-mayek, bassa-vah, devanagari, old-permic, tagbanwa, mahajani, buhid, tamil, symbols, grantha, yi, tifinagh, siddham, bhaiksuki, sogdian, caucasian-albanian, thaana, manichaean, canadian-aboriginal, soyombo, pahawh-hmong, masaram-gondi, zanabazar-square, osage, dogra, coptic, myanmar, saurashtra, syriac, adlam, hanunoo, lepcha, sundanese, new-tai-lue</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: lepcha, newa, batak, armenian, myanmar, tai-viet, telugu, oriya, hebrew, new-tai-lue, adlam, pahawh-hmong, soyombo, tirhuta, yi, tamil, tagalog, mahajani, sogdian, khojki, hanunoo, kaithi, music, canadian-aboriginal, symbols, ahom, kannada, dogra, tai-tham, manichaean, meetei-mayek, gujarati, coptic, mandaic, bengali, malayalam, caucasian-albanian, tibetan, hanifi-rohingya, sharada, tai-le, nko, kayah-li, thaana, devanagari, wancho, takri, tifinagh, chakma, javanese, modi, khmer, rejang, kharoshthi, bhaiksuki, gurmukhi, old-permic, mongolian, psalter-pahlavi, brahmi, masaram-gondi, zanabazar-square, thai, bassa-vah, sinhala, tagbanwa, buginese, lao, syloti-nagri, gunjala-gondi, osage, balinese, sundanese, miao, khudawadi, duployan, elbasan, mende-kikakui, marchen, grantha, cham, siddham, limbu, warang-citi, syriac, phags-pa, buhid, math, saurashtra</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
