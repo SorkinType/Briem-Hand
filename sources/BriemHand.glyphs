@@ -3,7 +3,8 @@
 .formatVersion = 3;
 DisplayStrings = (
 "iz ix ivï̂îo
- zx zv Hbz il"
+ zx zv Hbz il",
+"df dt"
 );
 axes = (
 {
@@ -722,17 +723,15 @@ sub b' @s_left by b b.s;
 sub b' [@v_left @x_left] by b b.v;
 sub b' @z_left by b b.z;
 
-sub c' @a_left by c c.a;
+sub c' [@a_left @i_left @n_left] by c c.a;
 sub c' @b_left by c c.b;
 sub c' @c_left by c c.c;
-sub c' @i_left by c c.a;
-sub c' @n_left by c c.a;
 sub c' @s_left by c c.s;
 sub c' @v_left by c c.v;
 sub c' @x_left by c c.x;
 sub c' @z_left by c c.z;
 sub d' @a_left by d d.a;
-sub d' @b_left by d a.b;
+sub d' [@b_left @f_left] by d a.b;
 sub d' @c_left by d a.c;
 sub d' @s_left by s a.s;
 sub d' @v_left by d a.v;
@@ -44113,7 +44112,7 @@ unicode = 7830;
 glyphname = i;
 kernLeft = KO_i;
 kernRight = KO_i;
-lastChange = "2024-05-06 12:05:35 +0000";
+lastChange = "2024-05-10 14:13:49 +0000";
 layers = (
 {
 anchors = (
