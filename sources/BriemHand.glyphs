@@ -59,7 +59,7 @@ code = "f fi fl f_f florin";
 name = f_left;
 },
 {
-code = "i idotless iogonek iota-latin istroke istroke.dotless ij ij_acutecomb j jdotless jdotlessstroke jstroke r rtail n nhookleft nj eng m mhook u ubar p
+code = "i idotless iogonek iota-latin istroke istroke.dotless ij ij_acutecomb j jdotless jdotlessstroke jstroke r rtail n nhookleft nj eng m mhook u ubar p phook
 ";
 name = i_left;
 },
@@ -811,7 +811,7 @@ sub idotless' @b_left by idotless a.a;
 sub idotless' @c_left by idotless a.c;
 sub idotless' @f_left by idotless a.b;
 sub idotless' @i_left by idotless a.a;
-sub idotless' @n_left by idotless a.a;
+sub idotless' [@n_left @p_left] by idotless a.a;
 sub idotless' @s_left by idotless a.s;
 sub idotless' @v_left by idotless a.v;
 sub idotless' @x_left by idotless d.x;
