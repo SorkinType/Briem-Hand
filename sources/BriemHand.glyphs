@@ -2,10 +2,8 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"nʋn/a.c ʋ",
-"/acutecomb_macroncomb",
-"weißwurst",
-"noȣno"
+"iz ix ivï̂îo
+ zx zv Hbz il"
 );
 axes = (
 {
@@ -128,9 +126,13 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
 }
 );
-date = "2024-05-06 01:58:42 +0000";
+date = "2024-05-10 05:41:27 +0000";
 familyName = "Briem Hand";
 featurePrefixes = (
 {
@@ -802,7 +804,7 @@ sub i' [@n_left @p_left] by i a.a;
 sub i' @s_left by i a.s;
 sub i' @v_left by i a.v;
 sub i' @x_left by i d.x;
-sub i' @z_left by i a.x;
+sub i' @z_left by i a.v;
 
 sub idotless' @a_left by idotless a.a;
 sub idotless' @b_left by idotless a.a;
@@ -1425,6 +1427,14 @@ axesValues = (
 );
 customParameters = (
 {
+name = winAscent;
+value = 1892;
+},
+{
+name = winDescent;
+value = 460;
+},
+{
 name = typoAscender;
 value = 1200;
 },
@@ -1435,14 +1445,6 @@ value = -300;
 {
 name = typoLineGap;
 value = 0;
-},
-{
-name = winAscent;
-value = 1892;
-},
-{
-name = winDescent;
-value = 460;
 },
 {
 name = hheaAscender;
@@ -1511,6 +1513,12 @@ pos = 499;
 }
 );
 name = Thin;
+stemValues = (
+55,
+42,
+40,
+35
+);
 userData = {
 GSOffsetHorizontal = 7;
 GSOffsetKeepCompatible = 1;
@@ -1808,6 +1816,12 @@ pos = 499;
 }
 );
 name = Black;
+stemValues = (
+220,
+217,
+86,
+70
+);
 userData = {
 GSOffsetHorizontal = 45;
 GSOffsetKeepCompatible = 1;
@@ -65211,7 +65225,7 @@ unicode = 654;
 glyphname = z;
 kernLeft = KO_z;
 kernRight = KO_z;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2024-05-10 05:32:43 +0000";
 layers = (
 {
 anchors = (
@@ -65997,7 +66011,7 @@ unicode = 42892;
 },
 {
 glyphname = a.a;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2024-05-10 05:31:47 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -66056,9 +66070,9 @@ shapes = (
 closed = 1;
 nodes = (
 (-9,123,o),
-(78,265,o),
-(78,359,cs),
-(78,378,o),
+(70,265,o),
+(70,359,cs),
+(70,378,o),
 (70,416,o),
 (59,391,cs),
 (29,321,o),
@@ -72387,7 +72401,7 @@ note = v.v;
 },
 {
 glyphname = z.v;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2024-05-10 05:35:34 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -72422,18 +72436,18 @@ nodes = (
 (-42,11,o),
 (-38,20,c),
 (8,111,o),
-(118,284,o),
-(112,365,cs),
-(107,444,o),
-(83,525,o),
-(85,489,cs),
-(91,357,o),
+(105,284,o),
+(99,365,cs),
+(94,444,o),
+(74,451,o),
+(74,411,cs),
+(74,332,o),
 (-22,186,o),
 (-91,73,c)
 );
 }
 );
-width = 55;
+width = 0;
 }
 );
 note = z.v;
@@ -72663,7 +72677,7 @@ note = x_x;
 {
 glyphname = b.z;
 kernLeft = KO_b.z;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2024-05-10 05:37:42 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -72671,25 +72685,11 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-25,133,o),
-(138,391,o),
-(143,465,cs),
-(144,493,o),
-(94,514,o),
-(91,461,cs),
-(85,370,o),
-(-21,234,o),
-(-100,155,c),
-(-110,124,o),
-(-178,24,o),
-(-167,32,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(103,446,o),
-(118,461,o),
+(-26,132,o),
+(128,374,o),
+(136,462,c),
+(142,463,o),
+(147,465,o),
 (153,466,cs),
 (176,469,o),
 (144,511,o),
@@ -72698,9 +72698,12 @@ nodes = (
 (92,511,o),
 (91,480,o),
 (91,461,cs),
-(91,449,o),
-(89,446,o),
-(93,446,cs)
+(85,370,o),
+(-21,234,o),
+(-100,155,c),
+(-110,124,o),
+(-178,24,o),
+(-167,32,cs)
 );
 }
 );
@@ -72712,36 +72715,25 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-25,133,o),
-(138,383,o),
-(143,457,cs),
-(144,485,o),
-(67,496,o),
-(63,443,cs),
-(58,380,o),
-(-24,266,o),
-(-103,187,c),
-(-113,156,o),
-(-178,24,o),
-(-167,32,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(73,405,o),
-(121,425,o),
-(178,425,cs),
-(216,425,o),
+(-40,122,o),
+(88,305,o),
+(121,419,c),
+(138,422,o),
+(157,426,o),
+(178,426,cs),
+(216,426,o),
 (154,511,o),
 (120,511,cs),
 (77,511,ls),
-(55,511,o),
-(53,460,o),
-(53,430,cs),
-(53,410,o),
-(50,405,o),
-(56,405,cs)
+(48,511,o),
+(54,437,o),
+(54,405,c),
+(29,341,o),
+(-38,252,o),
+(-103,187,c),
+(-113,156,o),
+(-178,24,o),
+(-167,32,cs)
 );
 }
 );
@@ -112226,7 +112218,7 @@ R = NoKerning;
 },
 {
 glyphname = circumflexcomb;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2024-05-10 05:27:21 +0000";
 layers = (
 {
 anchors = (
@@ -112244,36 +112236,36 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(5,597,o),
-(93,681,o),
-(151,729,c),
-(186,685,o),
-(248,597,o),
-(249,592,c),
-(251,593,o),
-(270,606,o),
-(270,616,cs),
-(270,625,o),
-(265,637,o),
-(260,645,cs),
-(239,681,o),
-(195,746,o),
-(165,785,cs),
-(161,790,o),
-(156,791,o),
-(153,791,cs),
-(149,791,o),
-(146,790,o),
-(141,785,cs),
-(123,770,o),
-(5,658,o),
-(-8,637,cs),
-(-11,632,o),
-(-13,626,o),
-(-13,621,cs),
-(-13,607,o),
-(0,595,o),
-(2,592,c)
+(32,597,o),
+(113,681,o),
+(171,729,c),
+(206,685,o),
+(268,597,o),
+(269,592,c),
+(271,593,o),
+(290,606,o),
+(290,616,cs),
+(290,625,o),
+(285,637,o),
+(280,645,cs),
+(259,681,o),
+(215,746,o),
+(185,785,cs),
+(181,790,o),
+(176,791,o),
+(173,791,cs),
+(169,791,o),
+(166,790,o),
+(161,785,cs),
+(143,770,o),
+(32,658,o),
+(19,637,cs),
+(16,632,o),
+(14,626,o),
+(14,621,cs),
+(14,607,o),
+(27,595,o),
+(29,592,c)
 );
 }
 );
@@ -112295,7 +112287,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(48,587,o),
+(57,590,o),
 (135,619,o),
 (169,631,cs),
 (196,617,o),
@@ -112317,14 +112309,14 @@ nodes = (
 (153,773,o),
 (136,762,cs),
 (89,732,o),
-(24,682,o),
-(9,663,cs),
-(-2,650,o),
-(-3,637,o),
-(-3,625,cs),
-(-3,613,o),
-(3,596,o),
-(29,571,cs)
+(33,685,o),
+(18,666,cs),
+(7,653,o),
+(6,640,o),
+(6,628,cs),
+(6,616,o),
+(12,599,o),
+(38,574,cs)
 );
 }
 );
@@ -128367,6 +128359,10 @@ metricRight = hyphen;
 );
 instances = (
 {
+name = Regular;
+type = variable;
+},
+{
 axesValues = (
 217
 );
@@ -128374,6 +128370,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 name = Thin;
@@ -128387,6 +128392,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
 }
 );
 name = ExtraLight;
@@ -128400,6 +128414,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 name = Light;
@@ -128413,6 +128436,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 name = Regular;
@@ -128425,6 +128457,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 name = Medium;
@@ -128438,6 +128479,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
 }
 );
 name = SemiBold;
@@ -128451,6 +128501,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 isBold = 1;
@@ -128465,6 +128524,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
 }
 );
 name = ExtraBold;
@@ -128478,6 +128546,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 name = Black;
@@ -175321,7 +175398,6 @@ vturned = -56;
 "@MMK_R_KO_asterisk" = -14;
 "@MMK_R_KO_at" = -13;
 "@MMK_R_KO_b" = -9;
-"@MMK_R_KO_b.z" = 100;
 "@MMK_R_KO_backslash" = -47;
 "@MMK_R_KO_beta" = -15;
 "@MMK_R_KO_braceright" = -59;
@@ -197651,7 +197727,6 @@ yogh = -51;
 zeroinferior = -6;
 };
 b.z = {
-z = 85;
 zacute = 85;
 zcaron = 85;
 zdotaccent = 85;
@@ -211486,6 +211561,22 @@ settings = {
 fontType = variable;
 previewRemoveOverlap = 0;
 };
+stems = (
+{
+name = "New Stem";
+},
+{
+name = "New Stem";
+},
+{
+horizontal = 1;
+name = "New Stem";
+},
+{
+horizontal = 1;
+name = "New Stem";
+}
+);
 unitsPerEm = 1000;
 userData = {
 KernOnKerningWeightLimit = 256000;
