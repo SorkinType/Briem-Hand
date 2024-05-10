@@ -3,7 +3,7 @@ sources:
   - BriemHand.glyphs
 shortFamilyName: Briem
 doGuidelines: true
-buildStatic: false
+buildStatic: true
 buildColorVariable: true
 variants:
 - name: Unjoined
