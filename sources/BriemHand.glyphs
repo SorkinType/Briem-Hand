@@ -4,7 +4,9 @@
 DisplayStrings = (
 "iz ix ivï̂îo
  zx zv Hbz il",
-"df dt"
+"df dt",
+"
+þz pz zf wf"
 );
 axes = (
 {
@@ -960,6 +962,15 @@ sub phook' @s_left by phook b.s;
 sub phook' [@v_left @x_left] by phook b.v;
 sub phook' @z_left by phook b.z;
 
+sub thorn' @a_left by thorn b.a;
+sub thorn' @b_left by thorn b.b;
+sub thorn' @c_left by thorn b.c;
+sub thorn' @i_left by thorn b.a;
+sub thorn' [@n_left @p_left @f_left] by thorn b.a;
+sub thorn' @s_left by thorn b.s;
+sub thorn' [@v_left @x_left] by thorn b.v;
+sub thorn' @z_left by thorn b.z;
+
 sub r' @a_left by r r.a;
 sub r' @b_left by r r.b;
 sub r' @c_left by r r.c;
@@ -1050,6 +1061,7 @@ sub v' @z_left by v v.z;
 sub w' @a_left by w v.a;
 sub w' @b_left by w v.b;
 sub w' @c_left by w v.c;
+sub w' [@n_left @u_left @p_left @i_left @f_left] by w v.i;
 sub w' @s_left by w v.s;
 sub w' @v_left by w v.v;
 sub w' [@i_left @n_left @p_left @x_left] by w v.i;
@@ -1079,6 +1091,7 @@ sub yhook' @z_left by yhook k.z;
 
 sub z' @a_left by z z.a;
 sub z' @c_left by z z.c;
+sub z' [@n_left @u_left @p_left @i_left @f_left] by z z.b;
 sub z' @s_left by z z.s;
 sub z' @v_left by z z.v;
 sub z' @x_left by z z.v;
@@ -1087,6 +1100,7 @@ sub z' [@b_left @n_left @i_left] by z z.b;
 
 sub zstroke' @a_left by zstroke z.a;
 sub zstroke' @c_left by zstroke z.c;
+sub zstroke' [@n_left @u_left @p_left @i_left @f_left] by zstroke z.b;
 sub zstroke' @s_left by zstroke z.s;
 sub zstroke' @v_left by zstroke z.v;
 sub zstroke' @x_left by zstroke z.v;
@@ -72676,7 +72690,7 @@ note = x_x;
 {
 glyphname = b.z;
 kernLeft = KO_b.z;
-lastChange = "2024-05-10 05:37:42 +0000";
+lastChange = "2024-05-13 03:53:54 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -182881,7 +182895,6 @@ vturned = -56;
 "@MMK_R_KO_asterisk" = -14;
 "@MMK_R_KO_at" = -13;
 "@MMK_R_KO_b" = -9;
-"@MMK_R_KO_b.z" = 99;
 "@MMK_R_KO_backslash" = -47;
 "@MMK_R_KO_beta" = -15;
 "@MMK_R_KO_braceright" = -59;
@@ -186435,7 +186448,6 @@ vturned = -56;
 "@MMK_R_KO_a" = -18;
 "@MMK_R_KO_adieresis" = -18;
 "@MMK_R_KO_b" = -25;
-"@MMK_R_KO_b.z" = 75;
 "@MMK_R_KO_bracketright" = -110;
 "@MMK_R_KO_colon" = -25;
 "@MMK_R_KO_comma" = -38;
