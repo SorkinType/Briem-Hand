@@ -1,12 +1,11 @@
 {
-.appVersion = "3306";
+.appVersion = "3243";
 .formatVersion = 3;
 DisplayStrings = (
 "iz ix ivï̂îo
  zx zv Hbz il",
 "df dt",
-"
-þz pz zf wf"
+x
 );
 axes = (
 {
@@ -1501,7 +1500,7 @@ pos = 756;
 pos = 652;
 },
 {
-pos = 524;
+pos = 510;
 },
 {
 over = -14;
@@ -1804,7 +1803,7 @@ pos = 756;
 pos = 652;
 },
 {
-pos = 524;
+pos = 510;
 },
 {
 over = -14;
