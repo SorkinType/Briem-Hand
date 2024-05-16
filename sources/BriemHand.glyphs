@@ -2,43 +2,8 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"iz ix ivï̂îo
- zx zv Hbz il",
-"df dt",
-"y+
-yago yæ hybrid lycee cyd yð yen yf yg yh ying yj yk yl ym yn yoga yp yq lyrics abyss yß myth yþ yudi yvone byway pyxis sayyid syzygy
-
-+y 
-ay by cy dy ðy eyelash joyful gyms hype riyal jynx kyoto lyman mynah irony enjoy pyro qy very syro styptic uy vy wyoming xylene yy lazy ßy
-
-z+
-zaza zæ whizbang mezcal Erzdiözese zð zelia putzfrau metzgerei zhaha zizou muzjik zk zl zmar zn zola izpeg zq zr zs zß zt zþ zulu zv zw zx zyste ozy pizza
-
-+z  
-azure subbzone czar adze ðz fez klopfzeichen zigzag machzor friz lkjz okz colzq hamza influenza ozark pzpa qzt orzo grosz blitz zuz evzone blowzy noxzema syzygy fizzy ßz
-
-ß+
-gelaß bß cß dß abschließen fß gß hß iß jß kß lß mß nß großyacht pß qß rß ßs stoßtrupp uß vß wß xß yß zß 
-
-+ß
-großaspach bß cß dß eß fß gß hß iß jß kß lß mß nß oß pß qß rß sß tß fußball rußverschmiert vß wß xß großyacht zß reißverschluss
-weißwurst sweißzeichnung ẞ“ ẞ« ẞ’ ẞ?
-
-þ+
-þa þb þc þd þe þf þg þh þi þj þk þl þm þn þo þp þq þr þs þt þu þv þw þx þy þz þþ þð
-
-+þ  
-aþ bþ cþ dþ eþ fþ gþ hþ iþ jþ kþ lþ mþ nþ oþ pþ qþ rþ sþ tþ vþ vþ wþ xþ yþ zþ ðþ",
-"/a.a/n.z",
-"Ƀ",
-"/dotaccentcomb.case Ǡ",
-"N/macronbelowcomb.case Ṉ",
-"Ꞩ",
-"/horncomb.case Ư",
-"̛ư",
-"₴",
-"̭ṷ",
-"Ɯ"
+"H•H",
+"H•H"
 );
 axes = (
 {
@@ -98987,7 +98952,7 @@ R = NoKerning;
 },
 {
 glyphname = section;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2024-05-16 03:33:55 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -99100,7 +99065,7 @@ nodes = (
 (491,131,cs),
 (491,187,o),
 (461,226,o),
-(431,238,cs),
+(431,238,c),
 (500,284,o),
 (517,326,o),
 (517,383,cs),
@@ -99133,7 +99098,7 @@ nodes = (
 (105,508,cs),
 (105,452,o),
 (134,415,o),
-(165,401,cs),
+(165,401,c),
 (95,357,o),
 (79,313,o),
 (79,255,cs),
@@ -99174,7 +99139,7 @@ nodes = (
 (208,321,cs),
 (208,341,o),
 (220,361,o),
-(236,370,cs),
+(236,370,c),
 (248,368,o),
 (342,368,o),
 (369,350,cs),
@@ -99183,7 +99148,7 @@ nodes = (
 (388,316,cs),
 (388,295,o),
 (374,275,o),
-(360,266,cs)
+(360,266,c)
 );
 }
 );
