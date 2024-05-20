@@ -1,5 +1,5 @@
 {
-.appVersion = "3306";
+.appVersion = "3243";
 .formatVersion = 3;
 DisplayStrings = (
 "H•H",
@@ -720,12 +720,12 @@ sub b' @a_left by b b.a;
 sub b' @b_left by b b.b;
 sub b' @c_left by b b.c;
 sub b' @i_left by b b.a;
-sub b' [@n_left @p_left] by b b.a;
+sub b' [@n_left @p_left @f_left] by b b.a;
 sub b' @s_left by b b.s;
 sub b' [@v_left @x_left] by b b.v;
 sub b' @z_left by b b.z;
 
-sub c' [@a_left @i_left @n_left] by c c.a;
+sub c' [@a_left @i_left @n_left @f_left] by c c.a;
 sub c' @b_left by c c.b;
 sub c' @c_left by c c.c;
 sub c' @s_left by c c.s;
@@ -871,7 +871,7 @@ sub l' @b_left by l a.b;
 sub l' @c_left by l a.c;
 sub l' [@i_left @n_left @p_left @f_left] by l a.a;
 sub l' @s_left by l a.s;
-sub l' [@v_left @x_left] by l a.v;
+sub l' [@v_left @x_left @z_left] by l a.v;
 
 sub ldot' @a_left by ldot d.a;
 sub ldot' @b_left by ldot a.b;
