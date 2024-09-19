@@ -31,6 +31,12 @@ fontbakery version: 0.12.10
 </ul>
 </li>
 <li>
+<p>'BriemHand Color' was found in:</p>
+<ul>
+<li>BriemHandColor[wght,GDLO].ttf (nameID 16)</li>
+</ul>
+</li>
+<li>
 <p>'BriemHand' was found in:</p>
 <ul>
 <li>BriemHand[wght].ttf (nameID 16)</li>
@@ -46,12 +52,6 @@ fontbakery version: 0.12.10
 <p>'BriemHand Unjoined' was found in:</p>
 <ul>
 <li>BriemHandUnjoined[wght].ttf (nameID 16)</li>
-</ul>
-</li>
-<li>
-<p>'BriemHand Color' was found in:</p>
-<ul>
-<li>BriemHandColor[wght,GDLO].ttf (nameID 16)</li>
 </ul>
 </li>
 </ul>
@@ -303,2367 +303,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">nfr_Latn (Nafaanra)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndv_Latn (Ndut)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcn_Latn (Masana)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lns_Latn (Lamnso’)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sig_Latn (Paasaal)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dje_Latn (Zarma)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bex_Latn (Jur Modo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nza_Latn (Tigon Mbembe)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nyb_Latn (Nyangbo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tem_Latn (Timne)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lok_Latn (Loko)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kpo_Latn (Ikposo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">rub_Latn (Gungu)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ted_Latn (Krumen, Tepo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuf_Latn (Pular)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">shz_Latn (Syenara Senoufo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sok_Latn (Sokoro)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfq_Latn (Moba)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xwe_Latn (Gbe, Xwela)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">neb_Latn (Toura)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agc_Latn (Agatu)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xuo_Latn (Kuo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahs_Latn (Ashe)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndz_Latn (Ndogo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lem_Latn (Nomaande)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ken_Latn (Kenyang)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tpm_Latn (Tampulma)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nym_Latn (Nyamwezi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kmy_Latn (Koma)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">azo_Latn (Awing)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xrb_Latn (Karaboro, Eastern)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wan_Latn (Wan)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vag_Latn (Vagla)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cae_Latn (Lehar)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xon_Latn (Konkomba)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dno_Latn (Ndrulo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">meq_Latn (Merey)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mas_Latn (Masai)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">naw_Latn (Nawuri)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ach_Latn (Acoli)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mzw_Latn (Deg)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kqs_Latn (Kissi, Northern)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">jgo_Latn (Ngomba)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">biv_Latn (Birifor, Southern)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bkm_Latn (Kom)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">las_Latn (Lama, Togo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ktj_Latn (Krumen, Plapo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">laj_Latn (Lango, Uganda)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dgi_Latn (Northern Dagara)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahl_Latn (Igo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lia_Latn (Limba, West-Central)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dts_Latn (Dogon, Toro So)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dip_Latn (Dinka, Northeastern)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tcd_Latn (Tafi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tvu_Latn (Tunen)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bjt_Latn (Balanta-Ganja)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fod_Latn (Foodo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ffm_Latn (Maasina Fulfulde)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tik_Latn (Tikar)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xed_Latn (Hdi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
 <td align="left">kdh_Latn (Tem)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bum_Latn (Bulu)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ade_Latn (Adele)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mor_Latn (Moro)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lee_Latn (Lyélé)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avu_Latn (Avokaya)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yav_Latn (Yangben)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gng_Latn (Ngangam)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gjn_Latn (Gonja)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsc_Latn (Bassari)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">idu_Latn (Idoma)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bza_Latn (Bandi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dnj_Latn (Dan)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">The locl feature did not affect uni0181</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">csk_Latn (Jola-Kasa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bav_Latn (Vengo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fvr_Latn (Fur)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sav_Latn (Saafi-Saafi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pug_Latn (Phuie)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sef_Latn (Cebaara Senoufo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fan_Latn (Fang)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfv_Latn (Mandjak)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">saf_Latn (Safaliba)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nuv_Latn (Nuni, Northern)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn (Kasem)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqv_Latn (Koro Wachi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">log_Latn (Logo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bze_Latn (Jenaama Bozo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">anv_Latn (Denya)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfi_Latn (Wandala)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tuq_Latn (Tedaga)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lig_Latn (Ligbi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdj_Latn (Mangbetu)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kye_Latn (Krache)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ajg_Latn (Aja)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfa_Latn (Bari)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bud_Latn (Ntcham)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">byv_Latn (Medumba)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wo_Latn (Wolof)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ntr_Latn (Delo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">acd_Latn (Gikyode)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">loq_Latn (Lobala)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kkj_Latn (Kako)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">spp_Latn (Sénoufo, Supyire)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sil_Latn (Sisaala, Tumulung)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfd_Latn (Bafut)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuc_Latn (Pulaar)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hag_Latn (Hanga)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mur_Latn (Murle)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dua_Latn (Duala)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nus_Latn (Nuer)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">daa_Latn (Dangaléat)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gna_Latn (Kaansa)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2709,7 +349,15 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0272</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0272</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2728,7 +376,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">nus_Latn (Nuer)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2747,7 +395,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">sef_Latn (Cebaara Senoufo)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2766,7 +414,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">bm_Latn (Bambara)</td>
+<td align="left">bud_Latn (Ntcham)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2785,7 +433,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">muy_Latn (Muyang)</td>
+<td align="left">bib_Latn (Bissa)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2804,7 +452,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">keu_Latn (Akebu)</td>
+<td align="left">bza_Latn (Bandi)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2823,7 +471,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">ekm_Latn (Elip)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2842,7 +490,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">ewo_Latn (Ewondo)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2861,7 +509,1489 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">mdt_Latn (Mbere)</td>
+<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">myk_Latn (Mamara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sbd_Latn (Southern Samo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mls_Latn (Masalit)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kvf_Latn (Kabalai)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">knp_Latn (Kwanja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lg_Latn (Ganda)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dua_Latn (Duala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">byv_Latn (Medumba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yav_Latn (Yangben)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sil_Latn (Sisaala, Tumulung)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqp_Latn (Kimré)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bss_Latn (Akoose)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xuo_Latn (Kuo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cme_Latn (Cerma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcu_Latn (Mambila, Cameroon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tem_Latn (Timne)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xwe_Latn (Gbe, Xwela)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vag_Latn (Vagla)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cou_Latn (Wamey)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mor_Latn (Moro)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nym_Latn (Nyamwezi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mmu_Latn (Mmaala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kye_Latn (Krache)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sxw_Latn (Saxwe Gbe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agq_Latn (Aghem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dop_Latn (Lukpa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bas_Latn (Basaa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bjt_Latn (Balanta-Ganja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ajg_Latn (Aja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fan_Latn (Fang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbj_Latn (Ghomala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahs_Latn (Ashe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">daa_Latn (Dangaléat)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dje_Latn (Zarma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ach_Latn (Acoli)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sig_Latn (Paasaal)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avn_Latn (Avatime)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqv_Latn (Koro Wachi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tpm_Latn (Tampulma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bex_Latn (Jur Modo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ikx_Latn (Ik)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhu_Latn (Noone)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ksf_Latn (Bafia)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lee_Latn (Lyélé)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqj_Latn (Bandial)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dip_Latn (Dinka, Northeastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bcw_Latn (Bana)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cko_Latn (Anufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndz_Latn (Ndogo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agc_Latn (Agatu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kmy_Latn (Koma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nuv_Latn (Nuni, Northern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">spp_Latn (Sénoufo, Supyire)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcp_Latn (Makaa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bze_Latn (Jenaama Bozo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">shz_Latn (Syenara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lia_Latn (Limba, West-Central)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ee_Latn (Ewe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">neb_Latn (Toura)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2903,7 +2033,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">nhb_Latn (Beng)</td>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2922,7 +2052,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">fvr_Latn (Fur)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2941,7 +2071,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">avu_Latn (Avokaya)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2960,7 +2090,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">yam_Latn (Yamba)</td>
+<td align="left">nfu_Latn (Mfumte)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -2979,11 +2109,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">vut_Latn (Vute)</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
+<td align="left">bkm_Latn (Kom)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3002,7 +2128,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">avn_Latn (Avatime)</td>
+<td align="left">keu_Latn (Akebu)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3021,7 +2147,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">mcn_Latn (Masana)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3040,7 +2166,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">ig_Latn (Igbo)</td>
+<td align="left">sld_Latn (Sissala)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3059,7 +2185,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">bfa_Latn (Bari)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3078,870 +2204,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">moa_Latn (Mwan)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cme_Latn (Cerma)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mua_Latn (Mundang)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcp_Latn (Makaa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ddn_Latn (Dendi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bib_Latn (Bissa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nku_Latn (Kulango, Bouna)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyo_Latn (Jola-Fonyi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">adj_Latn (Adioukrou)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">srr_Latn (Serer)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kia_Latn (Kim)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">emk_Latn (Maninkakan, Eastern)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cko_Latn (Anufo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ksf_Latn (Bafia)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">udu_Latn (Uduk)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">taq_Latn (Tamasheq (Latin))</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lg_Latn (Ganda)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dop_Latn (Lukpa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sxw_Latn (Saxwe Gbe)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcu_Latn (Mambila, Cameroon)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhu_Latn (Noone)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nmz_Latn (Nawdm)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">giz_Latn (Southern Giziga)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bcw_Latn (Bana)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knf_Latn (Mankanya)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ekm_Latn (Elip)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kao_Latn (Xaasongaxango)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kqp_Latn (Kimré)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0272</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0272</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">myk_Latn (Mamara Senoufo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mwk_Latn (Kita Maninkakan)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzr_Latn (Karang)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nmg_Latn (Kwasio)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pbi_Latn (Parkwa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mbu_Latn (Mbula-Bwazza)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">god_Latn (Godié)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">blo_Latn (Anii)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ses_Latn (Koyraboro Senni)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kyf_Latn (Kouya)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgc_Latn (Morokodo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ybb_Latn (Yemba)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gux_Latn (Gourmanchéma)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agq_Latn (Aghem)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">kkj_Latn (Kako)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3979,7 +2242,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">xon_Latn (Konkomba)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3998,7 +2261,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">ee_Latn (Ewe)</td>
+<td align="left">biv_Latn (Birifor, Southern)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4017,7 +2280,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">bas_Latn (Basaa)</td>
+<td align="left">lok_Latn (Loko)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4036,7 +2299,83 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tik_Latn (Tikar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fod_Latn (Foodo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yat_Latn (Yambeta)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4082,7 +2421,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">lam_Latn (Lamba)</td>
+<td align="left">fuc_Latn (Pulaar)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4101,7 +2440,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">gjn_Latn (Gonja)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4120,7 +2459,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">mua_Latn (Mundang)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4139,7 +2478,30 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">dnj_Latn (Dan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni0181</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4158,748 +2520,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">kyq_Latn (Kenga)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sld_Latn (Sissala)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knp_Latn (Kwanja)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bax_Latn (Bamun (Latin))</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kib_Latn (Koalib)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">snf_Latn (Noon)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gej_Latn (Gen)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">khq_Latn (Koyra Chiini)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mls_Latn (Masalit)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vai_Latn (Vai (Latin))</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bss_Latn (Akoose)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ncu_Latn (Chumburung)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzw_Latn (Basa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dur_Latn (Dii)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">twq_Latn (Tasawaq)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pil_Latn (Yom)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">toq_Latn (Toposa)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kss_Latn (Southern Kisi)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyu_Latn (Dyula)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bim_Latn (Bimoba)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gde_Latn (Gude)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nnh_Latn (Ngiemboon)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gur_Latn (Frafra)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ikx_Latn (Ik)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">krs_Latn (Gbaya, Sudan)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dow_Latn (Doyayo)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cou_Latn (Wamey)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kvf_Latn (Kabalai)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dag_Latn (Dagbani)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yat_Latn (Yambeta)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mmu_Latn (Mmaala)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqj_Latn (Bandial)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wci_Latn (Gbe, Waci)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fue_Latn (Fulfulde, Borgu)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tnr_Latn (Ménik)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mev_Latn (Mano)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wwa_Latn (Waama)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
-<td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">naw_Latn (Nawuri)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4937,7 +2558,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">ewo_Latn (Ewondo)</td>
+<td align="left">lam_Latn (Lamba)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4956,7 +2577,1835 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vai_Latn (Vai (Latin))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dts_Latn (Dogon, Toro So)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ncu_Latn (Chumburung)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">idu_Latn (Idoma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">god_Latn (Godié)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ted_Latn (Krumen, Tepo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfv_Latn (Mandjak)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">giz_Latn (Southern Giziga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">blo_Latn (Anii)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuf_Latn (Pular)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nyb_Latn (Nyangbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xsm_Latn (Kasem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tuq_Latn (Tedaga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xed_Latn (Hdi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cae_Latn (Lehar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">snf_Latn (Noon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tnr_Latn (Ménik)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyo_Latn (Jola-Fonyi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ken_Latn (Kenyang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">log_Latn (Logo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">knf_Latn (Mankanya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ntr_Latn (Delo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mev_Latn (Mano)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdj_Latn (Mangbetu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bav_Latn (Vengo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gna_Latn (Kaansa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gng_Latn (Ngangam)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bm_Latn (Bambara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hag_Latn (Hanga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">moa_Latn (Mwan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ade_Latn (Adele)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">meq_Latn (Merey)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kib_Latn (Koalib)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wwa_Latn (Waama)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yam_Latn (Yamba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">acd_Latn (Gikyode)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lig_Latn (Ligbi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wan_Latn (Wan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sok_Latn (Sokoro)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">taq_Latn (Tamasheq (Latin))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bim_Latn (Bimoba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wo_Latn (Wolof)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dag_Latn (Dagbani)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">rub_Latn (Gungu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lns_Latn (Lamnso’)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mzw_Latn (Deg)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">krs_Latn (Gbaya, Sudan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gej_Latn (Gen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">anv_Latn (Denya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfr_Latn (Nafaanra)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">khq_Latn (Koyra Chiini)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyu_Latn (Dyula)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pil_Latn (Yom)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pug_Latn (Phuie)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">twq_Latn (Tasawaq)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhb_Latn (Beng)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">srr_Latn (Serer)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzw_Latn (Basa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">saf_Latn (Safaliba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bax_Latn (Bamun (Latin))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tvu_Latn (Tunen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndv_Latn (Ndut)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bum_Latn (Bulu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kia_Latn (Kim)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4994,7 +4443,7 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">mas_Latn (Masai)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -5013,7 +4462,558 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">mfq_Latn (Moba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">laj_Latn (Lango, Uganda)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gde_Latn (Gude)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mur_Latn (Murle)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">las_Latn (Lama, Togo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nnh_Latn (Ngiemboon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ktj_Latn (Krumen, Plapo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xrb_Latn (Karaboro, Eastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lem_Latn (Nomaande)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">azo_Latn (Awing)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">muy_Latn (Muyang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">udu_Latn (Uduk)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">loq_Latn (Lobala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">toq_Latn (Toposa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfi_Latn (Wandala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gur_Latn (Frafra)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahl_Latn (Igo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqs_Latn (Kissi, Northern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dno_Latn (Ndrulo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">adj_Latn (Adioukrou)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdt_Latn (Mbere)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -5108,27 +5108,8 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">mgy_Latn (Mbunga)</td>
-<td align="left">No exemplar glyphs were defined for language Mbunga</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hna_Latn (Mina)</td>
-<td align="left">No exemplar glyphs were defined for language Mina</td>
+<td align="left">amo_Latn (Amo)</td>
+<td align="left">No exemplar glyphs were defined for language Amo</td>
 </tr>
 </tbody>
 </table>
@@ -5184,8 +5165,8 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">amo_Latn (Amo)</td>
-<td align="left">No exemplar glyphs were defined for language Amo</td>
+<td align="left">kfo_Latn (Koro)</td>
+<td align="left">No exemplar glyphs were defined for language Koro</td>
 </tr>
 </tbody>
 </table>
@@ -5203,8 +5184,27 @@ fontbakery version: 0.12.10
 </thead>
 <tbody>
 <tr>
-<td align="left">kfo_Latn (Koro)</td>
-<td align="left">No exemplar glyphs were defined for language Koro</td>
+<td align="left">mgy_Latn (Mbunga)</td>
+<td align="left">No exemplar glyphs were defined for language Mbunga</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hna_Latn (Mina)</td>
+<td align="left">No exemplar glyphs were defined for language Mina</td>
 </tr>
 </tbody>
 </table>
@@ -5388,13 +5388,7 @@ GFTools is available at <a href="https://pypi.org/project/gftools/">https://pypi
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 in glyph 'v.v': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
-
-- Contour 0 start point differs in glyph 'x.asc' between location wght=100,GDLO=1 and location wght=900,GDLO=1
-
-- Contour 0 in glyph 'x.asc': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
-
-- Contour 0 point 31 in glyph 'r.a' has a kink between location wght=100,GDLO=1 and location wght=900,GDLO=1
+<pre><code>- Contour 0 point 31 in glyph 'r.a' has a kink between location wght=100,GDLO=1 and location wght=900,GDLO=1
 
 - Contour 1 start point differs in glyph 'section' between location wght=100,GDLO=1 and location wght=900,GDLO=1
 
@@ -5402,7 +5396,13 @@ GFTools is available at <a href="https://pypi.org/project/gftools/">https://pypi
 
 - Contour 0 in glyph 'b.c': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
 
+- Contour 0 start point differs in glyph 'x.asc' between location wght=100,GDLO=1 and location wght=900,GDLO=1
+
+- Contour 0 in glyph 'x.asc': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
+
 - Contour 0 start point differs in glyph 'o.z' between location wght=100,GDLO=1 and location wght=900,GDLO=1
+
+- Contour 0 in glyph 'v.v': becomes underweight between wght=100,GDLO=1 and wght=900,GDLO=1.
 </code></pre>
  [code: interpolation-issues]
 
@@ -5424,9 +5424,9 @@ GFTools is available at <a href="https://pypi.org/project/gftools/">https://pypi
 * ⚠️ **WARN** <p>The most common width is 550 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 540:
-less, lessequal</p>
+lessequal, less</p>
 <p>Width = 530:
-greaterequal, greater</p>
+greater, greaterequal</p>
 <p>Width = 489:
 logicalnot</p>
 <p>Width = 459:
@@ -5492,7 +5492,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -5509,11 +5509,11 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, old-permic, syriac, malayalam, coptic, tai-le, math, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, math, malayalam, old-permic, syriac, tifinagh, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
@@ -5532,8 +5532,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, gothic, caucasian-albanian, syriac, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, tifinagh, cherokee, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -5542,39 +5542,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, math, elbasan</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, math, elbasan</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, math, elbasan</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, math, elbasan</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, math, elbasan</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, math, elbasan</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, math, elbasan</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, math, elbasan</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, math, elbasan</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, math, elbasan</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, math, elbasan</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, math, elbasan</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, math, elbasan</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, math, elbasan</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, math, elbasan</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, math, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -5610,12 +5610,12 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, hatran, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, old-hungarian, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, arabic, syloti-nagri</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hatran, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, old-hungarian, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
 <li>U+2042 ASTERISM: not included in any glyphset definition</li>
@@ -5658,14 +5658,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -5680,8 +5680,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: modi, mende-kikakui, saurashtra, tai-viet, syriac, tai-tham, adlam, thaana, mahajani, miao, kharoshthi, devanagari, music, soyombo, sundanese, khudawadi, grantha, rejang, tagbanwa, buginese, khmer, canadian-aboriginal, sharada, zanabazar-square, batak, math, telugu, tagalog, syloti-nagri, hebrew, lepcha, balinese, mandaic, chakma, kaithi, old-permic, kannada, siddham, masaram-gondi, tirhuta, tamil, yi, coptic, warang-citi, thai, dogra, oriya, phags-pa, javanese, gujarati, bassa-vah, wancho, hanunoo, gurmukhi, takri, hanifi-rohingya, brahmi, psalter-pahlavi, elbasan, cham, manichaean, khojki, caucasian-albanian, sinhala, mongolian, bengali, new-tai-lue, meetei-mayek, malayalam, armenian, pahawh-hmong, bhaiksuki, nko, tibetan, gunjala-gondi, buhid, newa, tai-le, limbu, tifinagh, myanmar, ahom, symbols, sogdian, lao, marchen, kayah-li, osage, duployan</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: telugu, takri, sinhala, sundanese, devanagari, thai, kannada, myanmar, dogra, modi, old-permic, tagalog, grantha, meetei-mayek, batak, hanifi-rohingya, hanunoo, malayalam, warang-citi, kayah-li, tifinagh, syloti-nagri, tamil, phags-pa, mahajani, gunjala-gondi, buhid, new-tai-lue, balinese, javanese, manichaean, brahmi, ahom, khojki, rejang, kaithi, limbu, sharada, yi, sogdian, oriya, music, osage, tai-le, gurmukhi, khmer, psalter-pahlavi, tai-tham, coptic, hebrew, pahawh-hmong, kharoshthi, miao, wancho, tirhuta, lepcha, nko, marchen, syriac, armenian, cham, zanabazar-square, tai-viet, mandaic, canadian-aboriginal, buginese, lao, newa, mende-kikakui, adlam, symbols, caucasian-albanian, masaram-gondi, khudawadi, math, soyombo, tagbanwa, bhaiksuki, bengali, duployan, saurashtra, elbasan, thaana, bassa-vah, chakma, siddham, mongolian, tibetan, gujarati</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -5736,8 +5736,8 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: ʲ̀ ʲ́ ʲ̂ ʲ̃ ʲ̄ ʲ̆ ʲ̇ ʲ̈ ʲ̉ ʲ̊ ʲ̋ ʲ̌ ʲ̍ ʲ̏ ʲ̐ ʲ̑ ʲ̒ ʲ̓ ʲ᷄ ʲ᷅</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers), Ekpeye (Latn, 226,000 speakers), Mango (Latn, 77,000 speakers), Ebira (Latn, 2,200,000 speakers), Gulay (Latn, 250,478 speakers), Dutch (Latn, 31,709,104 speakers), Nzakara (Latn, 50,000 speakers), Sar (Latn, 500,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Yala (Latn, 200,000 speakers), South Central Banda (Latn, 244,000 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Navajo (Latn, 166,319 speakers), Zapotec (Latn, 490,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Nateni (Latn, 100,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Kom (Latn, 360,685 speakers), Fur (Latn, 1,230,163 speakers), Mundani (Latn, 34,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Igbo (Latn, 27,823,640 speakers), Bafut (Latn, 158,146 speakers), Vute (Latn, 21,000 speakers), Ejagham (Latn, 120,000 speakers), Koonzime (Latn, 40,000 speakers), Southern Kisi (Latn, 360,000 speakers), Dii (Latn, 71,000 speakers), Aghem (Latn, 38,843 speakers), Makaa (Latn, 221,000 speakers), Dan (Latn, 1,099,244 speakers), Avokaya (Latn, 100,000 speakers), Mfumte (Latn, 79,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Nateni (Latn, 100,000 speakers), Zapotec (Latn, 490,000 speakers), Sar (Latn, 500,000 speakers), Navajo (Latn, 166,319 speakers), Mango (Latn, 77,000 speakers), Dutch (Latn, 31,709,104 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Nzakara (Latn, 50,000 speakers), Yala (Latn, 200,000 speakers), South Central Banda (Latn, 244,000 speakers), Ebira (Latn, 2,200,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Makaa (Latn, 221,000 speakers), Dii (Latn, 71,000 speakers), Koonzime (Latn, 40,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Mundani (Latn, 34,000 speakers), Southern Kisi (Latn, 360,000 speakers), Lugbara (Latn, 2,200,000 speakers), Bafut (Latn, 158,146 speakers), Igbo (Latn, 27,823,640 speakers), Mfumte (Latn, 79,000 speakers), Ejagham (Latn, 120,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Basaa (Latn, 332,940 speakers), Vute (Latn, 21,000 speakers), Kom (Latn, 360,685 speakers), Fur (Latn, 1,230,163 speakers), Dan (Latn, 1,099,244 speakers), Aghem (Latn, 38,843 speakers), Avokaya (Latn, 100,000 speakers).</p>
  [code: soft-dotted]
 
 
@@ -6015,8 +6015,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00806</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0272</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0272</td>
 </tr>
 </tbody>
 </table>
@@ -6034,333 +6038,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ntm_Latn (Nateni)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00808</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00808</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ijs_Latn (Ijo, Southeast)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tcd_Latn (Tafi)</td>
-<td align="left">Shaper didn't attach uni1DC6 to Utilde</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dnj_Latn_LR (Liberian Dan)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0275</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0275</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0275</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
-<td align="left">Shaper didn't attach uni0331 to Otilde</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avu_Latn (Avokaya)</td>
-<td align="left">Shaper didn't attach tildecomb to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00805</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
+<td align="left">lnl_Latn (South Central Banda)</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fvr_Latn (Fur)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mhi_Latn (Ma’di)</td>
-<td align="left">Shaper didn't attach tildecomb to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00805</td>
+<td align="left">Shaper didn't attach uni0308 to glyph00807</td>
 </tr>
 </tbody>
 </table>
@@ -6379,100 +6062,104 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nzk_Latn (Nzakara)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0308 to glyph00807</td>
 </tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ntm_Latn (Nateni)</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+</tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00808</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00808</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agq_Latn (Aghem)</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00807</td>
 </tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
 <tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">igb_Latn (Ebira)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfd_Latn (Bafut)</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00807</td>
 </tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 </tbody>
 </table>
@@ -6513,12 +6200,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">lnl_Latn (South Central Banda)</td>
-<td align="left">Shaper didn't attach uni0308 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+<td align="left">sba_Latn (Ngambay)</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -6536,122 +6219,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">etu_Latn (Ejagham)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnf_Latn (Mundani)</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vut_Latn (Vute)</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6659,31 +6228,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6691,7 +6236,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6699,11 +6256,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 </tbody>
 </table>
@@ -6721,31 +6274,43 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kcg_Latn (Tyap)</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Iacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ig_Latn (Igbo)</td>
+<td align="left">mhi_Latn (Ma’di)</td>
 <td align="left">Shaper didn't attach acutecomb to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to glyph00805</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">igb_Latn (Ebira)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00805</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6772,10 +6337,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
@@ -6788,111 +6349,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sba_Latn (Ngambay)</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0272</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0272</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzr_Latn (Karang)</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agq_Latn (Aghem)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00807</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 </tbody>
 </table>
@@ -6910,75 +6371,36 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mge_Latn (Mango)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00808</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+<td align="left">Shaper didn't attach uni0327 to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+<td align="left">Shaper didn't attach gravecomb to uni0327</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00807</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Omacron</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dur_Latn (Dii)</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6986,7 +6408,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6994,15 +6420,251 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach uni030C to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0327</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00806</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
+<td align="left">Shaper didn't attach uni0331 to Otilde</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">Shaper didn't attach uni0331 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to glyph00805</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00807</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nga_Latn (Ngbaka)</td>
+<td align="left">Shaper didn't attach uni030D to Atilde</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030D to Itilde</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030D to Utilde</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mwm_Latn (Sar)</td>
+<td align="left">Shaper didn't attach uni0330 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Omacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00808</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00808</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -7021,15 +6683,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ekp_Latn (Ekpeye)</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00805</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00805</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00805</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7051,16 +6713,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dow_Latn (Doyayo)</td>
-<td align="left">Shaper didn't attach uni0327 to Imacron</td>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Amacron</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7068,11 +6726,55 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Umacron</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7094,28 +6796,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mwm_Latn (Sar)</td>
-<td align="left">Shaper didn't attach uni0330 to Omacron</td>
+<td align="left">kcg_Latn (Tyap)</td>
+<td align="left">Shaper didn't attach uni0331 to Iacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00808</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00808</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -7160,16 +6846,330 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nga_Latn (Ngbaka)</td>
-<td align="left">Shaper didn't attach uni030D to Atilde</td>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030D to Itilde</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030D to Utilde</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dnj_Latn_LR (Liberian Dan)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0275</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0275</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0275</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">Shaper didn't attach uni0327 to Imacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Umacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mge_Latn (Mango)</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00808</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Omacron</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">Shaper didn't attach uni1DC6 to Utilde</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00807</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00807</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00807</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00807</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00805</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ijs_Latn (Ijo, Southeast)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00805</td>
 </tr>
 </tbody>
 </table>
@@ -7210,2424 +7210,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nfr_Latn (Nafaanra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndv_Latn (Ndut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcn_Latn (Masana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lns_Latn (Lamnso’)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sig_Latn (Paasaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dje_Latn (Zarma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bex_Latn (Jur Modo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nza_Latn (Tigon Mbembe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nyb_Latn (Nyangbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tem_Latn (Timne)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lok_Latn (Loko)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kpo_Latn (Ikposo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">rub_Latn (Gungu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ted_Latn (Krumen, Tepo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuf_Latn (Pular)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">shz_Latn (Syenara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sok_Latn (Sokoro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfq_Latn (Moba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xwe_Latn (Gbe, Xwela)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">neb_Latn (Toura)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agc_Latn (Agatu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xuo_Latn (Kuo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahs_Latn (Ashe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndz_Latn (Ndogo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lem_Latn (Nomaande)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ken_Latn (Kenyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tpm_Latn (Tampulma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nym_Latn (Nyamwezi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kmy_Latn (Koma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">azo_Latn (Awing)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xrb_Latn (Karaboro, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wan_Latn (Wan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vag_Latn (Vagla)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cae_Latn (Lehar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xon_Latn (Konkomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dno_Latn (Ndrulo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">meq_Latn (Merey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mas_Latn (Masai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">naw_Latn (Nawuri)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ach_Latn (Acoli)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mzw_Latn (Deg)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kqs_Latn (Kissi, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">jgo_Latn (Ngomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">biv_Latn (Birifor, Southern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bkm_Latn (Kom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">las_Latn (Lama, Togo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgy_Latn (Mbunga)</td>
-<td align="left">No exemplar glyphs were defined for language Mbunga</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ktj_Latn (Krumen, Plapo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">laj_Latn (Lango, Uganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dgi_Latn (Northern Dagara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahl_Latn (Igo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lia_Latn (Limba, West-Central)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dts_Latn (Dogon, Toro So)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dip_Latn (Dinka, Northeastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tcd_Latn (Tafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tvu_Latn (Tunen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bjt_Latn (Balanta-Ganja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fod_Latn (Foodo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ffm_Latn (Maasina Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tik_Latn (Tikar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xed_Latn (Hdi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
 <td align="left">kdh_Latn (Tem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bum_Latn (Bulu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ade_Latn (Adele)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mor_Latn (Moro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lee_Latn (Lyélé)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avu_Latn (Avokaya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yav_Latn (Yangben)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gng_Latn (Ngangam)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gjn_Latn (Gonja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsc_Latn (Bassari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">idu_Latn (Idoma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bza_Latn (Bandi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dnj_Latn (Dan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">No variant glyphs were found for uni0181</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">csk_Latn (Jola-Kasa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bav_Latn (Vengo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fvr_Latn (Fur)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sav_Latn (Saafi-Saafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pug_Latn (Phuie)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sef_Latn (Cebaara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fan_Latn (Fang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfv_Latn (Mandjak)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">saf_Latn (Safaliba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hna_Latn (Mina)</td>
-<td align="left">No exemplar glyphs were defined for language Mina</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nuv_Latn (Nuni, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn (Kasem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqv_Latn (Koro Wachi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">log_Latn (Logo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bze_Latn (Jenaama Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">anv_Latn (Denya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfi_Latn (Wandala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tuq_Latn (Tedaga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lig_Latn (Ligbi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdj_Latn (Mangbetu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kye_Latn (Krache)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ajg_Latn (Aja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfa_Latn (Bari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cch_Latn (Atsam)</td>
-<td align="left">No exemplar glyphs were defined for language Atsam</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bud_Latn (Ntcham)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">byv_Latn (Medumba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wo_Latn (Wolof)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ntr_Latn (Delo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">acd_Latn (Gikyode)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">loq_Latn (Lobala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kkj_Latn (Kako)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">spp_Latn (Sénoufo, Supyire)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sil_Latn (Sisaala, Tumulung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfd_Latn (Bafut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuc_Latn (Pulaar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hag_Latn (Hanga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mur_Latn (Murle)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dua_Latn (Duala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nus_Latn (Nuer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">daa_Latn (Dangaléat)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gna_Latn (Kaansa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -9673,7 +7256,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -9692,7 +7275,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">nus_Latn (Nuer)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -9711,7 +7294,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">sef_Latn (Cebaara Senoufo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -9730,387 +7313,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bm_Latn (Bambara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">muy_Latn (Muyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">keu_Latn (Akebu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yas_Latn (Nugunu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsp_Latn (Baga Sitemu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdt_Latn (Mbere)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnf_Latn (Mundani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhb_Latn (Beng)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mbo_Latn (Mbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ny_Latn (Nyanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yam_Latn (Yamba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vut_Latn (Vute)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avn_Latn (Avatime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnk_Latn (Mandinka)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ig_Latn (Igbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgo_Latn (Metaʼ)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">moa_Latn (Mwan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cme_Latn (Cerma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mua_Latn (Mundang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcp_Latn (Makaa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">bud_Latn (Ntcham)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10148,426 +7351,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
-<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">bza_Latn (Bandi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyo_Latn (Jola-Fonyi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">adj_Latn (Adioukrou)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">srr_Latn (Serer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kia_Latn (Kim)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">emk_Latn (Maninkakan, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cko_Latn (Anufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ksf_Latn (Bafia)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">udu_Latn (Uduk)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">taq_Latn (Tamasheq (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lg_Latn (Ganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dop_Latn (Lukpa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sxw_Latn (Saxwe Gbe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcu_Latn (Mambila, Cameroon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhu_Latn (Noone)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nmz_Latn (Nawdm)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">giz_Latn (Southern Giziga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bcw_Latn (Bana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knf_Latn (Mankanya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">amo_Latn (Amo)</td>
-<td align="left">No exemplar glyphs were defined for language Amo</td>
 </tr>
 </tbody>
 </table>
@@ -10604,7 +7389,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">ewo_Latn (Ewondo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10623,26 +7408,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kqp_Latn (Kimré)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">nko_Latn (Nkonya)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10680,7 +7446,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">sbd_Latn (Southern Samo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10699,7 +7465,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kzr_Latn (Karang)</td>
+<td align="left">mls_Latn (Masalit)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10718,7 +7484,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">kvf_Latn (Kabalai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10737,7 +7503,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">knp_Latn (Kwanja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10756,7 +7522,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10775,7 +7541,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">god_Latn (Godié)</td>
+<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10794,7 +7560,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">blo_Latn (Anii)</td>
+<td align="left">lg_Latn (Ganda)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10813,7 +7579,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">dua_Latn (Duala)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10832,7 +7598,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">byv_Latn (Medumba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10851,7 +7617,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">yav_Latn (Yangben)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10870,7 +7636,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">sil_Latn (Sisaala, Tumulung)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10889,7 +7655,330 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqp_Latn (Kimré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bss_Latn (Akoose)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xuo_Latn (Kuo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cme_Latn (Cerma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcu_Latn (Mambila, Cameroon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tem_Latn (Timne)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xwe_Latn (Gbe, Xwela)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vag_Latn (Vagla)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cou_Latn (Wamey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mor_Latn (Moro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nym_Latn (Nyamwezi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mmu_Latn (Mmaala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kye_Latn (Krache)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sxw_Latn (Saxwe Gbe)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -10927,64 +8016,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kus_Latn (Kusaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lun_Latn (Lunda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lmp_Latn (Limbum)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ee_Latn (Ewe)</td>
+<td align="left">dop_Latn (Lukpa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11022,7 +8054,1223 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
+<td align="left">bjt_Latn (Balanta-Ganja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ajg_Latn (Aja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fan_Latn (Fang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbj_Latn (Ghomala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahs_Latn (Ashe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">daa_Latn (Dangaléat)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dje_Latn (Zarma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ach_Latn (Acoli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sig_Latn (Paasaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avn_Latn (Avatime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqv_Latn (Koro Wachi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tpm_Latn (Tampulma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bex_Latn (Jur Modo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ikx_Latn (Ik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhu_Latn (Noone)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ksf_Latn (Bafia)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lee_Latn (Lyélé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqj_Latn (Bandial)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dip_Latn (Dinka, Northeastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bcw_Latn (Bana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cko_Latn (Anufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndz_Latn (Ndogo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agc_Latn (Agatu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kmy_Latn (Koma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nuv_Latn (Nuni, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">spp_Latn (Sénoufo, Supyire)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcp_Latn (Makaa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bze_Latn (Jenaama Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">shz_Latn (Syenara Senoufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lia_Latn (Limba, West-Central)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ee_Latn (Ewe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">neb_Latn (Toura)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">keu_Latn (Akebu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcn_Latn (Masana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sld_Latn (Sissala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfa_Latn (Bari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kkj_Latn (Kako)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lun_Latn (Lunda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xon_Latn (Konkomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">biv_Latn (Birifor, Southern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lok_Latn (Loko)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tik_Latn (Tikar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fod_Latn (Foodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yat_Latn (Yambeta)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11068,7 +9316,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">lam_Latn (Lamba)</td>
+<td align="left">amo_Latn (Amo)</td>
+<td align="left">No exemplar glyphs were defined for language Amo</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuc_Latn (Pulaar)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11087,7 +9354,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">cch_Latn (Atsam)</td>
+<td align="left">No exemplar glyphs were defined for language Atsam</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gjn_Latn (Gonja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11106,7 +9392,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">mua_Latn (Mundang)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11125,7 +9411,49 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">dnj_Latn (Dan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">No variant glyphs were found for uni0181</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
+<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11144,786 +9472,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyq_Latn (Kenga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sld_Latn (Sissala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knp_Latn (Kwanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bax_Latn (Bamun (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kib_Latn (Koalib)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">snf_Latn (Noon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gej_Latn (Gen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">khq_Latn (Koyra Chiini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mls_Latn (Masalit)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vai_Latn (Vai (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bss_Latn (Akoose)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kfo_Latn (Koro)</td>
-<td align="left">No exemplar glyphs were defined for language Koro</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ncu_Latn (Chumburung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzw_Latn (Basa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">syi_Latn (Seki)</td>
-<td align="left">No exemplar glyphs were defined for language Seki</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dur_Latn (Dii)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">twq_Latn (Tasawaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pil_Latn (Yom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">toq_Latn (Toposa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kss_Latn (Southern Kisi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyu_Latn (Dyula)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bim_Latn (Bimoba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gde_Latn (Gude)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nnh_Latn (Ngiemboon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gur_Latn (Frafra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ikx_Latn (Ik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">krs_Latn (Gbaya, Sudan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dow_Latn (Doyayo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cou_Latn (Wamey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kvf_Latn (Kabalai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dag_Latn (Dagbani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yat_Latn (Yambeta)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mmu_Latn (Mmaala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqj_Latn (Bandial)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wci_Latn (Gbe, Waci)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fue_Latn (Fulfulde, Borgu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tnr_Latn (Ménik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mev_Latn (Mano)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wwa_Latn (Waama)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">naw_Latn (Nawuri)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11961,7 +9510,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ewo_Latn (Ewondo)</td>
+<td align="left">lam_Latn (Lamba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -11980,7 +9529,1888 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vai_Latn (Vai (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dts_Latn (Dogon, Toro So)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ncu_Latn (Chumburung)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">idu_Latn (Idoma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">god_Latn (Godié)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ted_Latn (Krumen, Tepo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kfo_Latn (Koro)</td>
+<td align="left">No exemplar glyphs were defined for language Koro</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfv_Latn (Mandjak)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">giz_Latn (Southern Giziga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">blo_Latn (Anii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuf_Latn (Pular)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nyb_Latn (Nyangbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xsm_Latn (Kasem)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tuq_Latn (Tedaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xed_Latn (Hdi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cae_Latn (Lehar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">snf_Latn (Noon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tnr_Latn (Ménik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyo_Latn (Jola-Fonyi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ken_Latn (Kenyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">log_Latn (Logo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">knf_Latn (Mankanya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ntr_Latn (Delo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mev_Latn (Mano)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdj_Latn (Mangbetu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bav_Latn (Vengo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gna_Latn (Kaansa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gng_Latn (Ngangam)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bm_Latn (Bambara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hag_Latn (Hanga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">moa_Latn (Mwan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ade_Latn (Adele)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">meq_Latn (Merey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kib_Latn (Koalib)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wwa_Latn (Waama)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yam_Latn (Yamba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">acd_Latn (Gikyode)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lig_Latn (Ligbi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wan_Latn (Wan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sok_Latn (Sokoro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">taq_Latn (Tamasheq (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bim_Latn (Bimoba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wo_Latn (Wolof)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgy_Latn (Mbunga)</td>
+<td align="left">No exemplar glyphs were defined for language Mbunga</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dag_Latn (Dagbani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">rub_Latn (Gungu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lns_Latn (Lamnso’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mzw_Latn (Deg)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">krs_Latn (Gbaya, Sudan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gej_Latn (Gen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">anv_Latn (Denya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfr_Latn (Nafaanra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">khq_Latn (Koyra Chiini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyu_Latn (Dyula)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pil_Latn (Yom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pug_Latn (Phuie)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">twq_Latn (Tasawaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhb_Latn (Beng)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">srr_Latn (Serer)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hna_Latn (Mina)</td>
+<td align="left">No exemplar glyphs were defined for language Mina</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzw_Latn (Basa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">saf_Latn (Safaliba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bax_Latn (Bamun (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tvu_Latn (Tunen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndv_Latn (Ndut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bum_Latn (Bulu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kia_Latn (Kim)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -12018,7 +11448,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">mas_Latn (Masai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -12037,7 +11467,577 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">mfq_Latn (Moba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">laj_Latn (Lango, Uganda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gde_Latn (Gude)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mur_Latn (Murle)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">las_Latn (Lama, Togo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nnh_Latn (Ngiemboon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ktj_Latn (Krumen, Plapo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xrb_Latn (Karaboro, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lem_Latn (Nomaande)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">azo_Latn (Awing)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">muy_Latn (Muyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">udu_Latn (Uduk)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">syi_Latn (Seki)</td>
+<td align="left">No exemplar glyphs were defined for language Seki</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">loq_Latn (Lobala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">toq_Latn (Toposa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfi_Latn (Wandala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gur_Latn (Frafra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahl_Latn (Igo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqs_Latn (Kissi, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dno_Latn (Ndrulo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">adj_Latn (Adioukrou)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdt_Latn (Mbere)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -12207,7 +12207,11 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 start point differs in glyph 'glyph00795' between location wght=100 and location wght=900
+<pre><code>- Contour 0 in glyph 'glyph00846': becomes underweight between wght=100 and wght=900.
+
+- Contour 1 in glyph 'glyph00846': becomes underweight between wght=100 and wght=900.
+
+- Contour 0 start point differs in glyph 'glyph00795' between location wght=100 and location wght=900
 
 - Contour 0 in glyph 'glyph00795': becomes underweight between wght=100 and wght=900.
 
@@ -12215,21 +12219,17 @@ definitions.</p>
 
 - Contour 1 in glyph 'glyph00795': becomes underweight between wght=100 and wght=900.
 
-- Contour 0 start point differs in glyph 'glyph00857' between location wght=100 and location wght=900
+- Contour 1 start point differs in glyph 'section' between location wght=100 and location wght=900
 
-- Contour 1 start point differs in glyph 'glyph00857' between location wght=100 and location wght=900
+- Contour 3 start point differs in glyph 'section' between location wght=100 and location wght=900
 
 - Contour 0 point 31 in glyph 'glyph00778' has a kink between location wght=100 and location wght=900
 
 - Contour 1 point 31 in glyph 'glyph00778' has a kink between location wght=100 and location wght=900
 
-- Contour 0 in glyph 'glyph00846': becomes underweight between wght=100 and wght=900.
+- Contour 0 start point differs in glyph 'glyph00857' between location wght=100 and location wght=900
 
-- Contour 1 in glyph 'glyph00846': becomes underweight between wght=100 and wght=900.
-
-- Contour 1 start point differs in glyph 'section' between location wght=100 and location wght=900
-
-- Contour 3 start point differs in glyph 'section' between location wght=100 and location wght=900
+- Contour 1 start point differs in glyph 'glyph00857' between location wght=100 and location wght=900
 </code></pre>
  [code: interpolation-issues]
 
@@ -12251,9 +12251,9 @@ definitions.</p>
 * ⚠️ **WARN** <p>The most common width is 550 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 540:
-less, lessequal</p>
+lessequal, less</p>
 <p>Width = 530:
-greaterequal, greater</p>
+greater, greaterequal</p>
 <p>Width = 489:
 logicalnot</p>
 <p>Width = 459:
@@ -12319,7 +12319,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -12336,11 +12336,11 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, old-permic, syriac, malayalam, coptic, tai-le, math, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, math, malayalam, old-permic, syriac, tifinagh, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
@@ -12359,8 +12359,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, gothic, caucasian-albanian, syriac, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, tifinagh, cherokee, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -12369,39 +12369,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, math, elbasan</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, math, elbasan</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, math, elbasan</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, math, elbasan</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, math, elbasan</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, math, elbasan</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, math, elbasan</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, math, elbasan</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, math, elbasan</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, math, elbasan</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, math, elbasan</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, math, elbasan</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, math, elbasan</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, math, elbasan</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, math, elbasan</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, math, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -12437,12 +12437,12 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, hatran, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, old-hungarian, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, arabic, syloti-nagri</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hatran, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, old-hungarian, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
 <li>U+2042 ASTERISM: not included in any glyphset definition</li>
@@ -12485,14 +12485,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -12507,8 +12507,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: modi, mende-kikakui, saurashtra, tai-viet, syriac, tai-tham, adlam, thaana, mahajani, miao, kharoshthi, devanagari, music, soyombo, sundanese, khudawadi, grantha, rejang, tagbanwa, buginese, khmer, canadian-aboriginal, sharada, zanabazar-square, batak, math, telugu, tagalog, syloti-nagri, hebrew, lepcha, balinese, mandaic, chakma, kaithi, old-permic, kannada, siddham, masaram-gondi, tirhuta, tamil, yi, coptic, warang-citi, thai, dogra, oriya, phags-pa, javanese, gujarati, bassa-vah, wancho, hanunoo, gurmukhi, takri, hanifi-rohingya, brahmi, psalter-pahlavi, elbasan, cham, manichaean, khojki, caucasian-albanian, sinhala, mongolian, bengali, new-tai-lue, meetei-mayek, malayalam, armenian, pahawh-hmong, bhaiksuki, nko, tibetan, gunjala-gondi, buhid, newa, tai-le, limbu, tifinagh, myanmar, ahom, symbols, sogdian, lao, marchen, kayah-li, osage, duployan</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: telugu, takri, sinhala, sundanese, devanagari, thai, kannada, myanmar, dogra, modi, old-permic, tagalog, grantha, meetei-mayek, batak, hanifi-rohingya, hanunoo, malayalam, warang-citi, kayah-li, tifinagh, syloti-nagri, tamil, phags-pa, mahajani, gunjala-gondi, buhid, new-tai-lue, balinese, javanese, manichaean, brahmi, ahom, khojki, rejang, kaithi, limbu, sharada, yi, sogdian, oriya, music, osage, tai-le, gurmukhi, khmer, psalter-pahlavi, tai-tham, coptic, hebrew, pahawh-hmong, kharoshthi, miao, wancho, tirhuta, lepcha, nko, marchen, syriac, armenian, cham, zanabazar-square, tai-viet, mandaic, canadian-aboriginal, buginese, lao, newa, mende-kikakui, adlam, symbols, caucasian-albanian, masaram-gondi, khudawadi, math, soyombo, tagbanwa, bhaiksuki, bengali, duployan, saurashtra, elbasan, thaana, bassa-vah, chakma, siddham, mongolian, tibetan, gujarati</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -12706,6 +12706,29 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0272</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0272</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td align="left">mnf_Latn (Mundani)</td>
 <td align="left">Shaper didn't attach uni0327 to uni0268</td>
 </tr>
@@ -12734,1302 +12757,6 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0272</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0272</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfr_Latn (Nafaanra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndv_Latn (Ndut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcn_Latn (Masana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lns_Latn (Lamnso’)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sig_Latn (Paasaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dje_Latn (Zarma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bex_Latn (Jur Modo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nza_Latn (Tigon Mbembe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nyb_Latn (Nyangbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tem_Latn (Timne)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lok_Latn (Loko)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kpo_Latn (Ikposo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">rub_Latn (Gungu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ted_Latn (Krumen, Tepo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuf_Latn (Pular)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">shz_Latn (Syenara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sok_Latn (Sokoro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfq_Latn (Moba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xwe_Latn (Gbe, Xwela)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">neb_Latn (Toura)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agc_Latn (Agatu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xuo_Latn (Kuo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahs_Latn (Ashe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndz_Latn (Ndogo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lem_Latn (Nomaande)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ken_Latn (Kenyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tpm_Latn (Tampulma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nym_Latn (Nyamwezi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kmy_Latn (Koma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">azo_Latn (Awing)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xrb_Latn (Karaboro, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wan_Latn (Wan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vag_Latn (Vagla)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cae_Latn (Lehar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xon_Latn (Konkomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dno_Latn (Ndrulo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">meq_Latn (Merey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mas_Latn (Masai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">naw_Latn (Nawuri)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ach_Latn (Acoli)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mzw_Latn (Deg)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kqs_Latn (Kissi, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">jgo_Latn (Ngomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">biv_Latn (Birifor, Southern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bkm_Latn (Kom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">las_Latn (Lama, Togo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgy_Latn (Mbunga)</td>
-<td align="left">No exemplar glyphs were defined for language Mbunga</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ktj_Latn (Krumen, Plapo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">laj_Latn (Lango, Uganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dgi_Latn (Northern Dagara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahl_Latn (Igo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lia_Latn (Limba, West-Central)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dts_Latn (Dogon, Toro So)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dip_Latn (Dinka, Northeastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tcd_Latn (Tafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tvu_Latn (Tunen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bjt_Latn (Balanta-Ganja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fod_Latn (Foodo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ffm_Latn (Maasina Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tik_Latn (Tikar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xed_Latn (Hdi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
 * ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
 <table>
 <thead>
@@ -14041,1150 +12768,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kdh_Latn (Tem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bum_Latn (Bulu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ade_Latn (Adele)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mor_Latn (Moro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lee_Latn (Lyélé)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avu_Latn (Avokaya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yav_Latn (Yangben)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gng_Latn (Ngangam)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gjn_Latn (Gonja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsc_Latn (Bassari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">idu_Latn (Idoma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bza_Latn (Bandi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dnj_Latn (Dan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">No variant glyphs were found for uni0181</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">csk_Latn (Jola-Kasa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bav_Latn (Vengo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fvr_Latn (Fur)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sav_Latn (Saafi-Saafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pug_Latn (Phuie)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sef_Latn (Cebaara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fan_Latn (Fang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfv_Latn (Mandjak)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">saf_Latn (Safaliba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hna_Latn (Mina)</td>
-<td align="left">No exemplar glyphs were defined for language Mina</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nuv_Latn (Nuni, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn (Kasem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqv_Latn (Koro Wachi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">log_Latn (Logo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bze_Latn (Jenaama Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">anv_Latn (Denya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfi_Latn (Wandala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tuq_Latn (Tedaga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lig_Latn (Ligbi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdj_Latn (Mangbetu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kye_Latn (Krache)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ajg_Latn (Aja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfa_Latn (Bari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cch_Latn (Atsam)</td>
-<td align="left">No exemplar glyphs were defined for language Atsam</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bud_Latn (Ntcham)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">byv_Latn (Medumba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wo_Latn (Wolof)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ntr_Latn (Delo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">acd_Latn (Gikyode)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">loq_Latn (Lobala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kkj_Latn (Kako)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">spp_Latn (Sénoufo, Supyire)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sil_Latn (Sisaala, Tumulung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfd_Latn (Bafut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuc_Latn (Pulaar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hag_Latn (Hanga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mur_Latn (Murle)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dua_Latn (Duala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nus_Latn (Nuer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">daa_Latn (Dangaléat)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gna_Latn (Kaansa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -15230,7 +12813,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -15249,7 +12832,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">nus_Latn (Nuer)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -15268,7 +12851,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">sef_Latn (Cebaara Senoufo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -15287,387 +12870,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bm_Latn (Bambara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">muy_Latn (Muyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">keu_Latn (Akebu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yas_Latn (Nugunu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsp_Latn (Baga Sitemu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdt_Latn (Mbere)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnf_Latn (Mundani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhb_Latn (Beng)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mbo_Latn (Mbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ny_Latn (Nyanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yam_Latn (Yamba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vut_Latn (Vute)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avn_Latn (Avatime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnk_Latn (Mandinka)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ig_Latn (Igbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgo_Latn (Metaʼ)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">moa_Latn (Mwan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cme_Latn (Cerma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mua_Latn (Mundang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcp_Latn (Makaa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">bud_Latn (Ntcham)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -15705,426 +12908,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
-<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">bza_Latn (Bandi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyo_Latn (Jola-Fonyi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">adj_Latn (Adioukrou)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">srr_Latn (Serer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kia_Latn (Kim)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">emk_Latn (Maninkakan, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cko_Latn (Anufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ksf_Latn (Bafia)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">udu_Latn (Uduk)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">taq_Latn (Tamasheq (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lg_Latn (Ganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dop_Latn (Lukpa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sxw_Latn (Saxwe Gbe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcu_Latn (Mambila, Cameroon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhu_Latn (Noone)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nmz_Latn (Nawdm)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">giz_Latn (Southern Giziga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bcw_Latn (Bana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knf_Latn (Mankanya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">amo_Latn (Amo)</td>
-<td align="left">No exemplar glyphs were defined for language Amo</td>
 </tr>
 </tbody>
 </table>
@@ -16161,7 +12946,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">ewo_Latn (Ewondo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16180,26 +12965,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kqp_Latn (Kimré)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">nko_Latn (Nkonya)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16237,7 +13003,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">sbd_Latn (Southern Samo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16256,7 +13022,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kzr_Latn (Karang)</td>
+<td align="left">mls_Latn (Masalit)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16275,7 +13041,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">kvf_Latn (Kabalai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16294,7 +13060,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">knp_Latn (Kwanja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16313,7 +13079,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16332,7 +13098,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">god_Latn (Godié)</td>
+<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16351,7 +13117,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">blo_Latn (Anii)</td>
+<td align="left">lg_Latn (Ganda)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16370,7 +13136,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">dua_Latn (Duala)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16389,7 +13155,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">byv_Latn (Medumba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16408,7 +13174,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">yav_Latn (Yangben)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16427,7 +13193,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">sil_Latn (Sisaala, Tumulung)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16446,7 +13212,330 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqp_Latn (Kimré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bss_Latn (Akoose)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xuo_Latn (Kuo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cme_Latn (Cerma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcu_Latn (Mambila, Cameroon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tem_Latn (Timne)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xwe_Latn (Gbe, Xwela)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vag_Latn (Vagla)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cou_Latn (Wamey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mor_Latn (Moro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nym_Latn (Nyamwezi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mmu_Latn (Mmaala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kye_Latn (Krache)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sxw_Latn (Saxwe Gbe)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16484,64 +13573,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kus_Latn (Kusaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lun_Latn (Lunda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lmp_Latn (Limbum)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ee_Latn (Ewe)</td>
+<td align="left">dop_Latn (Lukpa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16579,7 +13611,1223 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
+<td align="left">bjt_Latn (Balanta-Ganja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ajg_Latn (Aja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fan_Latn (Fang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbj_Latn (Ghomala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahs_Latn (Ashe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">daa_Latn (Dangaléat)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dje_Latn (Zarma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ach_Latn (Acoli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sig_Latn (Paasaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avn_Latn (Avatime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqv_Latn (Koro Wachi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tpm_Latn (Tampulma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bex_Latn (Jur Modo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ikx_Latn (Ik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhu_Latn (Noone)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ksf_Latn (Bafia)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lee_Latn (Lyélé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqj_Latn (Bandial)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dip_Latn (Dinka, Northeastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bcw_Latn (Bana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cko_Latn (Anufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndz_Latn (Ndogo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agc_Latn (Agatu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kmy_Latn (Koma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nuv_Latn (Nuni, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">spp_Latn (Sénoufo, Supyire)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcp_Latn (Makaa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bze_Latn (Jenaama Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">shz_Latn (Syenara Senoufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lia_Latn (Limba, West-Central)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ee_Latn (Ewe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">neb_Latn (Toura)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">keu_Latn (Akebu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcn_Latn (Masana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sld_Latn (Sissala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfa_Latn (Bari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kkj_Latn (Kako)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lun_Latn (Lunda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xon_Latn (Konkomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">biv_Latn (Birifor, Southern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lok_Latn (Loko)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tik_Latn (Tikar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fod_Latn (Foodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yat_Latn (Yambeta)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16625,7 +14873,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">lam_Latn (Lamba)</td>
+<td align="left">amo_Latn (Amo)</td>
+<td align="left">No exemplar glyphs were defined for language Amo</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuc_Latn (Pulaar)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16644,7 +14911,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">cch_Latn (Atsam)</td>
+<td align="left">No exemplar glyphs were defined for language Atsam</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gjn_Latn (Gonja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16663,7 +14949,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">mua_Latn (Mundang)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16682,7 +14968,49 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">dnj_Latn (Dan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">No variant glyphs were found for uni0181</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
+<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -16701,786 +15029,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyq_Latn (Kenga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sld_Latn (Sissala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knp_Latn (Kwanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bax_Latn (Bamun (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kib_Latn (Koalib)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">snf_Latn (Noon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gej_Latn (Gen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">khq_Latn (Koyra Chiini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mls_Latn (Masalit)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vai_Latn (Vai (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bss_Latn (Akoose)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kfo_Latn (Koro)</td>
-<td align="left">No exemplar glyphs were defined for language Koro</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ncu_Latn (Chumburung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzw_Latn (Basa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">syi_Latn (Seki)</td>
-<td align="left">No exemplar glyphs were defined for language Seki</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dur_Latn (Dii)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">twq_Latn (Tasawaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pil_Latn (Yom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">toq_Latn (Toposa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kss_Latn (Southern Kisi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyu_Latn (Dyula)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bim_Latn (Bimoba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gde_Latn (Gude)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nnh_Latn (Ngiemboon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gur_Latn (Frafra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ikx_Latn (Ik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">krs_Latn (Gbaya, Sudan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dow_Latn (Doyayo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cou_Latn (Wamey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kvf_Latn (Kabalai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dag_Latn (Dagbani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yat_Latn (Yambeta)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mmu_Latn (Mmaala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqj_Latn (Bandial)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wci_Latn (Gbe, Waci)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fue_Latn (Fulfulde, Borgu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tnr_Latn (Ménik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mev_Latn (Mano)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wwa_Latn (Waama)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">naw_Latn (Nawuri)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -17518,7 +15067,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ewo_Latn (Ewondo)</td>
+<td align="left">lam_Latn (Lamba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -17537,7 +15086,1888 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vai_Latn (Vai (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dts_Latn (Dogon, Toro So)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ncu_Latn (Chumburung)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">idu_Latn (Idoma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">god_Latn (Godié)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ted_Latn (Krumen, Tepo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kfo_Latn (Koro)</td>
+<td align="left">No exemplar glyphs were defined for language Koro</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfv_Latn (Mandjak)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">giz_Latn (Southern Giziga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">blo_Latn (Anii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuf_Latn (Pular)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nyb_Latn (Nyangbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xsm_Latn (Kasem)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tuq_Latn (Tedaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xed_Latn (Hdi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cae_Latn (Lehar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">snf_Latn (Noon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tnr_Latn (Ménik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyo_Latn (Jola-Fonyi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ken_Latn (Kenyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">log_Latn (Logo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">knf_Latn (Mankanya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ntr_Latn (Delo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mev_Latn (Mano)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdj_Latn (Mangbetu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bav_Latn (Vengo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gna_Latn (Kaansa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gng_Latn (Ngangam)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bm_Latn (Bambara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hag_Latn (Hanga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">moa_Latn (Mwan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ade_Latn (Adele)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">meq_Latn (Merey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kib_Latn (Koalib)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wwa_Latn (Waama)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yam_Latn (Yamba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">acd_Latn (Gikyode)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lig_Latn (Ligbi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wan_Latn (Wan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sok_Latn (Sokoro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">taq_Latn (Tamasheq (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bim_Latn (Bimoba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wo_Latn (Wolof)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgy_Latn (Mbunga)</td>
+<td align="left">No exemplar glyphs were defined for language Mbunga</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dag_Latn (Dagbani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">rub_Latn (Gungu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lns_Latn (Lamnso’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mzw_Latn (Deg)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">krs_Latn (Gbaya, Sudan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gej_Latn (Gen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">anv_Latn (Denya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfr_Latn (Nafaanra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">khq_Latn (Koyra Chiini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyu_Latn (Dyula)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pil_Latn (Yom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pug_Latn (Phuie)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">twq_Latn (Tasawaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhb_Latn (Beng)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">srr_Latn (Serer)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hna_Latn (Mina)</td>
+<td align="left">No exemplar glyphs were defined for language Mina</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzw_Latn (Basa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">saf_Latn (Safaliba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bax_Latn (Bamun (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tvu_Latn (Tunen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndv_Latn (Ndut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bum_Latn (Bulu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kia_Latn (Kim)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -17575,7 +17005,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">mas_Latn (Masai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -17594,7 +17024,577 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">mfq_Latn (Moba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">laj_Latn (Lango, Uganda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gde_Latn (Gude)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mur_Latn (Murle)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">las_Latn (Lama, Togo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nnh_Latn (Ngiemboon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ktj_Latn (Krumen, Plapo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xrb_Latn (Karaboro, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lem_Latn (Nomaande)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">azo_Latn (Awing)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">muy_Latn (Muyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">udu_Latn (Uduk)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">syi_Latn (Seki)</td>
+<td align="left">No exemplar glyphs were defined for language Seki</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">loq_Latn (Lobala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">toq_Latn (Toposa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfi_Latn (Wandala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gur_Latn (Frafra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahl_Latn (Igo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqs_Latn (Kissi, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dno_Latn (Ndrulo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">adj_Latn (Adioukrou)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdt_Latn (Mbere)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -17733,13 +17733,13 @@ definitions.</p>
 
 - Contour 0 in glyph 'glyph00847': becomes underweight between wght=100 and wght=900.
 
-- Contour 0 start point differs in glyph 'glyph00796' between location wght=100 and location wght=900
-
-- Contour 0 in glyph 'glyph00796': becomes underweight between wght=100 and wght=900.
+- Contour 1 start point differs in glyph 'section' between location wght=100 and location wght=900
 
 - Contour 0 start point differs in glyph 'glyph00858' between location wght=100 and location wght=900
 
-- Contour 1 start point differs in glyph 'section' between location wght=100 and location wght=900
+- Contour 0 start point differs in glyph 'glyph00796' between location wght=100 and location wght=900
+
+- Contour 0 in glyph 'glyph00796': becomes underweight between wght=100 and wght=900.
 </code></pre>
  [code: interpolation-issues]
 
@@ -17761,9 +17761,9 @@ definitions.</p>
 * ⚠️ **WARN** <p>The most common width is 550 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 540:
-less, lessequal</p>
+lessequal, less</p>
 <p>Width = 530:
-greaterequal, greater</p>
+greater, greaterequal</p>
 <p>Width = 489:
 logicalnot</p>
 <p>Width = 459:
@@ -17829,7 +17829,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -17846,11 +17846,11 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, old-permic, syriac, malayalam, coptic, tai-le, math, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, math, malayalam, old-permic, syriac, tifinagh, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
@@ -17869,8 +17869,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, gothic, caucasian-albanian, syriac, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, tifinagh, cherokee, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -17879,39 +17879,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, math, elbasan</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, math, elbasan</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, math, elbasan</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, math, elbasan</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, math, elbasan</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, math, elbasan</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, math, elbasan</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, math, elbasan</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, math, elbasan</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, math, elbasan</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, math, elbasan</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, math, elbasan</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, math, elbasan</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, math, elbasan</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, math, elbasan</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, math, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -17947,12 +17947,12 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, hatran, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, old-hungarian, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, arabic, syloti-nagri</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hatran, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, old-hungarian, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
 <li>U+2042 ASTERISM: not included in any glyphset definition</li>
@@ -17995,14 +17995,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -18017,8 +18017,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: modi, mende-kikakui, saurashtra, tai-viet, syriac, tai-tham, adlam, thaana, mahajani, miao, kharoshthi, devanagari, music, soyombo, sundanese, khudawadi, grantha, rejang, tagbanwa, buginese, khmer, canadian-aboriginal, sharada, zanabazar-square, batak, math, telugu, tagalog, syloti-nagri, hebrew, lepcha, balinese, mandaic, chakma, kaithi, old-permic, kannada, siddham, masaram-gondi, tirhuta, tamil, yi, coptic, warang-citi, thai, dogra, oriya, phags-pa, javanese, gujarati, bassa-vah, wancho, hanunoo, gurmukhi, takri, hanifi-rohingya, brahmi, psalter-pahlavi, elbasan, cham, manichaean, khojki, caucasian-albanian, sinhala, mongolian, bengali, new-tai-lue, meetei-mayek, malayalam, armenian, pahawh-hmong, bhaiksuki, nko, tibetan, gunjala-gondi, buhid, newa, tai-le, limbu, tifinagh, myanmar, ahom, symbols, sogdian, lao, marchen, kayah-li, osage, duployan</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: telugu, takri, sinhala, sundanese, devanagari, thai, kannada, myanmar, dogra, modi, old-permic, tagalog, grantha, meetei-mayek, batak, hanifi-rohingya, hanunoo, malayalam, warang-citi, kayah-li, tifinagh, syloti-nagri, tamil, phags-pa, mahajani, gunjala-gondi, buhid, new-tai-lue, balinese, javanese, manichaean, brahmi, ahom, khojki, rejang, kaithi, limbu, sharada, yi, sogdian, oriya, music, osage, tai-le, gurmukhi, khmer, psalter-pahlavi, tai-tham, coptic, hebrew, pahawh-hmong, kharoshthi, miao, wancho, tirhuta, lepcha, nko, marchen, syriac, armenian, cham, zanabazar-square, tai-viet, mandaic, canadian-aboriginal, buginese, lao, newa, mende-kikakui, adlam, symbols, caucasian-albanian, masaram-gondi, khudawadi, math, soyombo, tagbanwa, bhaiksuki, bengali, duployan, saurashtra, elbasan, thaana, bassa-vah, chakma, siddham, mongolian, tibetan, gujarati</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -18296,8 +18296,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00772</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0272</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0272</td>
 </tr>
 </tbody>
 </table>
@@ -18315,333 +18319,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ntm_Latn (Nateni)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00774</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00774</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ijs_Latn (Ijo, Southeast)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tcd_Latn (Tafi)</td>
-<td align="left">Shaper didn't attach uni1DC6 to Utilde</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dnj_Latn_LR (Liberian Dan)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0275</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0275</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0275</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
-<td align="left">Shaper didn't attach uni0331 to Otilde</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avu_Latn (Avokaya)</td>
-<td align="left">Shaper didn't attach tildecomb to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00771</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
+<td align="left">lnl_Latn (South Central Banda)</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fvr_Latn (Fur)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mhi_Latn (Ma’di)</td>
-<td align="left">Shaper didn't attach tildecomb to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00771</td>
+<td align="left">Shaper didn't attach uni0308 to glyph00773</td>
 </tr>
 </tbody>
 </table>
@@ -18660,100 +18343,104 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nzk_Latn (Nzakara)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0308 to glyph00773</td>
 </tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ntm_Latn (Nateni)</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+</tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00774</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00774</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agq_Latn (Aghem)</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00773</td>
 </tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
 <tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">igb_Latn (Ebira)</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfd_Latn (Bafut)</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00773</td>
 </tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 </tbody>
 </table>
@@ -18794,12 +18481,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">lnl_Latn (South Central Banda)</td>
-<td align="left">Shaper didn't attach uni0308 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+<td align="left">sba_Latn (Ngambay)</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -18817,122 +18500,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">etu_Latn (Ejagham)</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnf_Latn (Mundani)</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vut_Latn (Vute)</td>
-<td align="left">Shaper didn't attach uni0327 to uni0268</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -18940,31 +18509,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0327</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -18972,7 +18517,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -18980,11 +18537,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
 </tr>
 </tbody>
 </table>
@@ -19002,31 +18555,43 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kcg_Latn (Tyap)</td>
-<td align="left">Shaper didn't attach uni0331 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to Iacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ig_Latn (Igbo)</td>
+<td align="left">mhi_Latn (Ma’di)</td>
 <td align="left">Shaper didn't attach acutecomb to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to glyph00771</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">igb_Latn (Ebira)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00771</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -19053,10 +18618,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
@@ -19069,111 +18630,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sba_Latn (Ngambay)</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0272</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0272</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzr_Latn (Karang)</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agq_Latn (Aghem)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00773</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
 </tr>
 </tbody>
 </table>
@@ -19191,75 +18652,36 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mge_Latn (Mango)</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00774</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+<td align="left">Shaper didn't attach uni0327 to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+<td align="left">Shaper didn't attach gravecomb to uni0327</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00773</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D3</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Ograve</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Omacron</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dur_Latn (Dii)</td>
-<td align="left">Shaper didn't attach uni0327 to Uacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Iacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+<td align="left">Shaper didn't attach uni0327 to uni01D1</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -19267,7 +18689,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+<td align="left">Shaper didn't attach uni0327 to uni01CD</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -19275,15 +18701,251 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+<td align="left">Shaper didn't attach uni030C to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0327</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00772</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
+<td align="left">Shaper didn't attach uni0331 to Otilde</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to uni1EBC</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">Shaper didn't attach uni0331 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to uni01CD</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to glyph00771</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00773</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nga_Latn (Ngbaka)</td>
+<td align="left">Shaper didn't attach uni030D to Atilde</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030D to Itilde</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030D to Utilde</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mwm_Latn (Sar)</td>
+<td align="left">Shaper didn't attach uni0330 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Omacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00774</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00774</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -19302,15 +18964,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">ekp_Latn (Ekpeye)</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00771</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to glyph00771</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00771</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -19332,16 +18994,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dow_Latn (Doyayo)</td>
-<td align="left">Shaper didn't attach uni0327 to Imacron</td>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Amacron</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -19349,11 +19007,55 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Umacron</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni0268</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0327</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ugrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -19375,28 +19077,12 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mwm_Latn (Sar)</td>
-<td align="left">Shaper didn't attach uni0330 to Omacron</td>
+<td align="left">kcg_Latn (Tyap)</td>
+<td align="left">Shaper didn't attach uni0331 to Iacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Aacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to glyph00774</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to glyph00774</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Oacute</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+<td align="left">Shaper didn't attach uni0331 to Aacute</td>
 </tr>
 </tbody>
 </table>
@@ -19441,16 +19127,330 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nga_Latn (Ngbaka)</td>
-<td align="left">Shaper didn't attach uni030D to Atilde</td>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030D to Itilde</td>
+<td align="left">Shaper didn't attach uni0327 to Uacute</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030D to Utilde</td>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dnj_Latn_LR (Liberian Dan)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0275</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0275</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0275</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">Shaper didn't attach uni0327 to Imacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Umacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Igrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to Iacute</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mge_Latn (Mango)</td>
+<td align="left">Shaper didn't attach uni0330 to Agrave</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00774</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Aacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Amacron</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Oacute</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Ograve</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to Omacron</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">Shaper didn't attach uni1DC6 to Utilde</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00773</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00773</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">Shaper didn't attach uni0302 to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00773</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to glyph00773</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to glyph00771</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ijs_Latn (Ijo, Southeast)</td>
+<td align="left">Shaper didn't attach acutecomb to glyph00771</td>
 </tr>
 </tbody>
 </table>
@@ -19491,2424 +19491,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nfr_Latn (Nafaanra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndv_Latn (Ndut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcn_Latn (Masana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lns_Latn (Lamnso’)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sig_Latn (Paasaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dje_Latn (Zarma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bex_Latn (Jur Modo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nza_Latn (Tigon Mbembe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nyb_Latn (Nyangbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tem_Latn (Timne)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lok_Latn (Loko)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kpo_Latn (Ikposo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">rub_Latn (Gungu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ted_Latn (Krumen, Tepo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuf_Latn (Pular)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">shz_Latn (Syenara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sok_Latn (Sokoro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfq_Latn (Moba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xwe_Latn (Gbe, Xwela)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">neb_Latn (Toura)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agc_Latn (Agatu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xuo_Latn (Kuo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahs_Latn (Ashe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndz_Latn (Ndogo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lem_Latn (Nomaande)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ken_Latn (Kenyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tpm_Latn (Tampulma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nym_Latn (Nyamwezi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kmy_Latn (Koma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">azo_Latn (Awing)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xrb_Latn (Karaboro, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wan_Latn (Wan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vag_Latn (Vagla)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cae_Latn (Lehar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xon_Latn (Konkomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dno_Latn (Ndrulo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">meq_Latn (Merey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mas_Latn (Masai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">naw_Latn (Nawuri)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ach_Latn (Acoli)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mzw_Latn (Deg)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kqs_Latn (Kissi, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">jgo_Latn (Ngomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">biv_Latn (Birifor, Southern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bkm_Latn (Kom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">las_Latn (Lama, Togo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgy_Latn (Mbunga)</td>
-<td align="left">No exemplar glyphs were defined for language Mbunga</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ktj_Latn (Krumen, Plapo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">laj_Latn (Lango, Uganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dgi_Latn (Northern Dagara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahl_Latn (Igo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lia_Latn (Limba, West-Central)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dts_Latn (Dogon, Toro So)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dip_Latn (Dinka, Northeastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tcd_Latn (Tafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tvu_Latn (Tunen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bjt_Latn (Balanta-Ganja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fod_Latn (Foodo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ffm_Latn (Maasina Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tik_Latn (Tikar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xed_Latn (Hdi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
 <td align="left">kdh_Latn (Tem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bum_Latn (Bulu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ade_Latn (Adele)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mor_Latn (Moro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lee_Latn (Lyélé)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avu_Latn (Avokaya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yav_Latn (Yangben)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gng_Latn (Ngangam)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gjn_Latn (Gonja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsc_Latn (Bassari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">idu_Latn (Idoma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bza_Latn (Bandi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dnj_Latn (Dan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">No variant glyphs were found for uni0181</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">csk_Latn (Jola-Kasa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bav_Latn (Vengo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fvr_Latn (Fur)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sav_Latn (Saafi-Saafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pug_Latn (Phuie)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sef_Latn (Cebaara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fan_Latn (Fang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfv_Latn (Mandjak)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">saf_Latn (Safaliba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hna_Latn (Mina)</td>
-<td align="left">No exemplar glyphs were defined for language Mina</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nuv_Latn (Nuni, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn (Kasem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqv_Latn (Koro Wachi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">log_Latn (Logo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bze_Latn (Jenaama Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">anv_Latn (Denya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfi_Latn (Wandala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tuq_Latn (Tedaga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lig_Latn (Ligbi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdj_Latn (Mangbetu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kye_Latn (Krache)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ajg_Latn (Aja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfa_Latn (Bari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cch_Latn (Atsam)</td>
-<td align="left">No exemplar glyphs were defined for language Atsam</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bud_Latn (Ntcham)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">byv_Latn (Medumba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wo_Latn (Wolof)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ntr_Latn (Delo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">acd_Latn (Gikyode)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">loq_Latn (Lobala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kkj_Latn (Kako)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">spp_Latn (Sénoufo, Supyire)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sil_Latn (Sisaala, Tumulung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfd_Latn (Bafut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuc_Latn (Pulaar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hag_Latn (Hanga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mur_Latn (Murle)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dua_Latn (Duala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nus_Latn (Nuer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">daa_Latn (Dangaléat)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gna_Latn (Kaansa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -21954,7 +19537,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -21973,7 +19556,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">nus_Latn (Nuer)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -21992,7 +19575,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">sef_Latn (Cebaara Senoufo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -22011,387 +19594,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bm_Latn (Bambara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">muy_Latn (Muyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">keu_Latn (Akebu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yas_Latn (Nugunu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsp_Latn (Baga Sitemu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdt_Latn (Mbere)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnf_Latn (Mundani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhb_Latn (Beng)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mbo_Latn (Mbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ny_Latn (Nyanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yam_Latn (Yamba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vut_Latn (Vute)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avn_Latn (Avatime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnk_Latn (Mandinka)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ig_Latn (Igbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgo_Latn (Metaʼ)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">moa_Latn (Mwan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cme_Latn (Cerma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mua_Latn (Mundang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcp_Latn (Makaa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">bud_Latn (Ntcham)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -22429,426 +19632,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
-<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">bza_Latn (Bandi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyo_Latn (Jola-Fonyi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">adj_Latn (Adioukrou)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">srr_Latn (Serer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kia_Latn (Kim)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">emk_Latn (Maninkakan, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cko_Latn (Anufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ksf_Latn (Bafia)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">udu_Latn (Uduk)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">taq_Latn (Tamasheq (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lg_Latn (Ganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dop_Latn (Lukpa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sxw_Latn (Saxwe Gbe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcu_Latn (Mambila, Cameroon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhu_Latn (Noone)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nmz_Latn (Nawdm)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">giz_Latn (Southern Giziga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bcw_Latn (Bana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knf_Latn (Mankanya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">amo_Latn (Amo)</td>
-<td align="left">No exemplar glyphs were defined for language Amo</td>
 </tr>
 </tbody>
 </table>
@@ -22885,7 +19670,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">ewo_Latn (Ewondo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -22904,26 +19689,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kqp_Latn (Kimré)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">nko_Latn (Nkonya)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -22961,7 +19727,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">sbd_Latn (Southern Samo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -22980,7 +19746,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kzr_Latn (Karang)</td>
+<td align="left">mls_Latn (Masalit)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -22999,7 +19765,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">kvf_Latn (Kabalai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23018,7 +19784,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">knp_Latn (Kwanja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23037,7 +19803,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23056,7 +19822,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">god_Latn (Godié)</td>
+<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23075,7 +19841,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">blo_Latn (Anii)</td>
+<td align="left">lg_Latn (Ganda)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23094,7 +19860,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">dua_Latn (Duala)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23113,7 +19879,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">byv_Latn (Medumba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23132,7 +19898,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">yav_Latn (Yangben)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23151,7 +19917,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">sil_Latn (Sisaala, Tumulung)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23170,7 +19936,330 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqp_Latn (Kimré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bss_Latn (Akoose)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xuo_Latn (Kuo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cme_Latn (Cerma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcu_Latn (Mambila, Cameroon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tem_Latn (Timne)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xwe_Latn (Gbe, Xwela)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vag_Latn (Vagla)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cou_Latn (Wamey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mor_Latn (Moro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nym_Latn (Nyamwezi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mmu_Latn (Mmaala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kye_Latn (Krache)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sxw_Latn (Saxwe Gbe)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23208,64 +20297,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kus_Latn (Kusaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lun_Latn (Lunda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lmp_Latn (Limbum)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ee_Latn (Ewe)</td>
+<td align="left">dop_Latn (Lukpa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23303,7 +20335,1223 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
+<td align="left">bjt_Latn (Balanta-Ganja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ajg_Latn (Aja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fan_Latn (Fang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbj_Latn (Ghomala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahs_Latn (Ashe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">daa_Latn (Dangaléat)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dje_Latn (Zarma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ach_Latn (Acoli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sig_Latn (Paasaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avn_Latn (Avatime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqv_Latn (Koro Wachi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tpm_Latn (Tampulma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bex_Latn (Jur Modo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ikx_Latn (Ik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhu_Latn (Noone)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ksf_Latn (Bafia)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lee_Latn (Lyélé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqj_Latn (Bandial)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dip_Latn (Dinka, Northeastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bcw_Latn (Bana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cko_Latn (Anufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndz_Latn (Ndogo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agc_Latn (Agatu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kmy_Latn (Koma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nuv_Latn (Nuni, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">spp_Latn (Sénoufo, Supyire)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcp_Latn (Makaa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bze_Latn (Jenaama Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">shz_Latn (Syenara Senoufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lia_Latn (Limba, West-Central)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ee_Latn (Ewe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">neb_Latn (Toura)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">keu_Latn (Akebu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcn_Latn (Masana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sld_Latn (Sissala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfa_Latn (Bari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kkj_Latn (Kako)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lun_Latn (Lunda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xon_Latn (Konkomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">biv_Latn (Birifor, Southern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lok_Latn (Loko)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tik_Latn (Tikar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fod_Latn (Foodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yat_Latn (Yambeta)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23349,7 +21597,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">lam_Latn (Lamba)</td>
+<td align="left">amo_Latn (Amo)</td>
+<td align="left">No exemplar glyphs were defined for language Amo</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuc_Latn (Pulaar)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23368,7 +21635,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">cch_Latn (Atsam)</td>
+<td align="left">No exemplar glyphs were defined for language Atsam</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gjn_Latn (Gonja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23387,7 +21673,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">mua_Latn (Mundang)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23406,7 +21692,49 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">dnj_Latn (Dan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">No variant glyphs were found for uni0181</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
+<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -23425,786 +21753,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyq_Latn (Kenga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sld_Latn (Sissala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knp_Latn (Kwanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bax_Latn (Bamun (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kib_Latn (Koalib)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">snf_Latn (Noon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gej_Latn (Gen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">khq_Latn (Koyra Chiini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mls_Latn (Masalit)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vai_Latn (Vai (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bss_Latn (Akoose)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kfo_Latn (Koro)</td>
-<td align="left">No exemplar glyphs were defined for language Koro</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ncu_Latn (Chumburung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzw_Latn (Basa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">syi_Latn (Seki)</td>
-<td align="left">No exemplar glyphs were defined for language Seki</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dur_Latn (Dii)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">twq_Latn (Tasawaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pil_Latn (Yom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">toq_Latn (Toposa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kss_Latn (Southern Kisi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyu_Latn (Dyula)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bim_Latn (Bimoba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gde_Latn (Gude)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nnh_Latn (Ngiemboon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gur_Latn (Frafra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ikx_Latn (Ik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">krs_Latn (Gbaya, Sudan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dow_Latn (Doyayo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cou_Latn (Wamey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kvf_Latn (Kabalai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dag_Latn (Dagbani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yat_Latn (Yambeta)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mmu_Latn (Mmaala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqj_Latn (Bandial)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wci_Latn (Gbe, Waci)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fue_Latn (Fulfulde, Borgu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tnr_Latn (Ménik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mev_Latn (Mano)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wwa_Latn (Waama)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">naw_Latn (Nawuri)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -24242,7 +21791,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ewo_Latn (Ewondo)</td>
+<td align="left">lam_Latn (Lamba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -24261,7 +21810,1888 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vai_Latn (Vai (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dts_Latn (Dogon, Toro So)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ncu_Latn (Chumburung)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">idu_Latn (Idoma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">god_Latn (Godié)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ted_Latn (Krumen, Tepo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kfo_Latn (Koro)</td>
+<td align="left">No exemplar glyphs were defined for language Koro</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfv_Latn (Mandjak)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">giz_Latn (Southern Giziga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">blo_Latn (Anii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuf_Latn (Pular)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nyb_Latn (Nyangbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xsm_Latn (Kasem)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tuq_Latn (Tedaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xed_Latn (Hdi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cae_Latn (Lehar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">snf_Latn (Noon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tnr_Latn (Ménik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyo_Latn (Jola-Fonyi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ken_Latn (Kenyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">log_Latn (Logo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">knf_Latn (Mankanya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ntr_Latn (Delo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mev_Latn (Mano)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdj_Latn (Mangbetu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bav_Latn (Vengo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gna_Latn (Kaansa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gng_Latn (Ngangam)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bm_Latn (Bambara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hag_Latn (Hanga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">moa_Latn (Mwan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ade_Latn (Adele)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">meq_Latn (Merey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kib_Latn (Koalib)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wwa_Latn (Waama)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yam_Latn (Yamba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">acd_Latn (Gikyode)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lig_Latn (Ligbi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wan_Latn (Wan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sok_Latn (Sokoro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">taq_Latn (Tamasheq (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bim_Latn (Bimoba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wo_Latn (Wolof)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgy_Latn (Mbunga)</td>
+<td align="left">No exemplar glyphs were defined for language Mbunga</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dag_Latn (Dagbani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">rub_Latn (Gungu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lns_Latn (Lamnso’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mzw_Latn (Deg)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">krs_Latn (Gbaya, Sudan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gej_Latn (Gen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">anv_Latn (Denya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfr_Latn (Nafaanra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">khq_Latn (Koyra Chiini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyu_Latn (Dyula)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pil_Latn (Yom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pug_Latn (Phuie)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">twq_Latn (Tasawaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhb_Latn (Beng)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">srr_Latn (Serer)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hna_Latn (Mina)</td>
+<td align="left">No exemplar glyphs were defined for language Mina</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzw_Latn (Basa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">saf_Latn (Safaliba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bax_Latn (Bamun (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tvu_Latn (Tunen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndv_Latn (Ndut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bum_Latn (Bulu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kia_Latn (Kim)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -24299,7 +23729,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">mas_Latn (Masai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -24318,7 +23748,577 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">mfq_Latn (Moba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">laj_Latn (Lango, Uganda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gde_Latn (Gude)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mur_Latn (Murle)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">las_Latn (Lama, Togo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nnh_Latn (Ngiemboon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ktj_Latn (Krumen, Plapo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xrb_Latn (Karaboro, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lem_Latn (Nomaande)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">azo_Latn (Awing)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">muy_Latn (Muyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">udu_Latn (Uduk)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">syi_Latn (Seki)</td>
+<td align="left">No exemplar glyphs were defined for language Seki</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">loq_Latn (Lobala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">toq_Latn (Toposa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfi_Latn (Wandala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gur_Latn (Frafra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahl_Latn (Igo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqs_Latn (Kissi, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dno_Latn (Ndrulo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">adj_Latn (Adioukrou)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdt_Latn (Mbere)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -24555,9 +24555,9 @@ definitions.</p>
 * ⚠️ **WARN** <p>The most common width is 550 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 540:
-less, lessequal</p>
+lessequal, less</p>
 <p>Width = 530:
-greaterequal, greater</p>
+greater, greaterequal</p>
 <p>Width = 489:
 logicalnot</p>
 <p>Width = 459:
@@ -24623,7 +24623,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -24640,11 +24640,11 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, old-permic, syriac, malayalam, coptic, tai-le, math, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, math, malayalam, old-permic, syriac, tifinagh, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
@@ -24663,8 +24663,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, gothic, caucasian-albanian, syriac, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, tifinagh, cherokee, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -24673,39 +24673,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, math, elbasan</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, math, elbasan</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, math, elbasan</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, math, elbasan</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, math, elbasan</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, math, elbasan</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, math, elbasan</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, math, elbasan</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, math, elbasan</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, math, elbasan</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, math, elbasan</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, math, elbasan</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, math, elbasan</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, math, elbasan</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, math, elbasan</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, math, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -24741,12 +24741,12 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, hatran, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, old-hungarian, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, arabic, syloti-nagri</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hatran, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, old-hungarian, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
 <li>U+2042 ASTERISM: not included in any glyphset definition</li>
@@ -24789,14 +24789,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -24811,8 +24811,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: modi, mende-kikakui, saurashtra, tai-viet, syriac, tai-tham, adlam, thaana, mahajani, miao, kharoshthi, devanagari, music, soyombo, sundanese, khudawadi, grantha, rejang, tagbanwa, buginese, khmer, canadian-aboriginal, sharada, zanabazar-square, batak, math, telugu, tagalog, syloti-nagri, hebrew, lepcha, balinese, mandaic, chakma, kaithi, old-permic, kannada, siddham, masaram-gondi, tirhuta, tamil, yi, coptic, warang-citi, thai, dogra, oriya, phags-pa, javanese, gujarati, bassa-vah, wancho, hanunoo, gurmukhi, takri, hanifi-rohingya, brahmi, psalter-pahlavi, elbasan, cham, manichaean, khojki, caucasian-albanian, sinhala, mongolian, bengali, new-tai-lue, meetei-mayek, malayalam, armenian, pahawh-hmong, bhaiksuki, nko, tibetan, gunjala-gondi, buhid, newa, tai-le, limbu, tifinagh, myanmar, ahom, symbols, sogdian, lao, marchen, kayah-li, osage, duployan</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: telugu, takri, sinhala, sundanese, devanagari, thai, kannada, myanmar, dogra, modi, old-permic, tagalog, grantha, meetei-mayek, batak, hanifi-rohingya, hanunoo, malayalam, warang-citi, kayah-li, tifinagh, syloti-nagri, tamil, phags-pa, mahajani, gunjala-gondi, buhid, new-tai-lue, balinese, javanese, manichaean, brahmi, ahom, khojki, rejang, kaithi, limbu, sharada, yi, sogdian, oriya, music, osage, tai-le, gurmukhi, khmer, psalter-pahlavi, tai-tham, coptic, hebrew, pahawh-hmong, kharoshthi, miao, wancho, tirhuta, lepcha, nko, marchen, syriac, armenian, cham, zanabazar-square, tai-viet, mandaic, canadian-aboriginal, buginese, lao, newa, mende-kikakui, adlam, symbols, caucasian-albanian, masaram-gondi, khudawadi, math, soyombo, tagbanwa, bhaiksuki, bengali, duployan, saurashtra, elbasan, thaana, bassa-vah, chakma, siddham, mongolian, tibetan, gujarati</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -25010,6 +25010,29 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0272</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0272</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td align="left">mnf_Latn (Mundani)</td>
 <td align="left">Shaper didn't attach uni0327 to uni0268</td>
 </tr>
@@ -25038,1302 +25061,6 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0272</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0272</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfr_Latn (Nafaanra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndv_Latn (Ndut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcn_Latn (Masana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lns_Latn (Lamnso’)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sig_Latn (Paasaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dje_Latn (Zarma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bex_Latn (Jur Modo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nza_Latn (Tigon Mbembe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nyb_Latn (Nyangbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tem_Latn (Timne)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lok_Latn (Loko)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kpo_Latn (Ikposo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">rub_Latn (Gungu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ted_Latn (Krumen, Tepo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuf_Latn (Pular)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">shz_Latn (Syenara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sok_Latn (Sokoro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfq_Latn (Moba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xwe_Latn (Gbe, Xwela)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">neb_Latn (Toura)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">agc_Latn (Agatu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xuo_Latn (Kuo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahs_Latn (Ashe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ndz_Latn (Ndogo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lem_Latn (Nomaande)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ken_Latn (Kenyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tpm_Latn (Tampulma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nym_Latn (Nyamwezi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kmy_Latn (Koma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">azo_Latn (Awing)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xrb_Latn (Karaboro, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wan_Latn (Wan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vag_Latn (Vagla)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cae_Latn (Lehar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xon_Latn (Konkomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dno_Latn (Ndrulo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">meq_Latn (Merey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mas_Latn (Masai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">naw_Latn (Nawuri)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ach_Latn (Acoli)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mzw_Latn (Deg)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kqs_Latn (Kissi, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">jgo_Latn (Ngomba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">biv_Latn (Birifor, Southern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bkm_Latn (Kom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">las_Latn (Lama, Togo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgy_Latn (Mbunga)</td>
-<td align="left">No exemplar glyphs were defined for language Mbunga</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ktj_Latn (Krumen, Plapo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">laj_Latn (Lango, Uganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dgi_Latn (Northern Dagara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ahl_Latn (Igo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lia_Latn (Limba, West-Central)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dts_Latn (Dogon, Toro So)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dip_Latn (Dinka, Northeastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tcd_Latn (Tafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tvu_Latn (Tunen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bjt_Latn (Balanta-Ganja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fod_Latn (Foodo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ffm_Latn (Maasina Fulfulde)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tik_Latn (Tikar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xed_Latn (Hdi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
 * ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
 <table>
 <thead>
@@ -26345,1150 +25072,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kdh_Latn (Tem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bum_Latn (Bulu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ade_Latn (Adele)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mor_Latn (Moro)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lee_Latn (Lyélé)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avu_Latn (Avokaya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yav_Latn (Yangben)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gng_Latn (Ngangam)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gjn_Latn (Gonja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsc_Latn (Bassari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">idu_Latn (Idoma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bza_Latn (Bandi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dnj_Latn (Dan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">No variant glyphs were found for uni0181</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">csk_Latn (Jola-Kasa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bav_Latn (Vengo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fvr_Latn (Fur)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lgg_Latn (Lugbara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sav_Latn (Saafi-Saafi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pug_Latn (Phuie)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sef_Latn (Cebaara Senoufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fan_Latn (Fang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfv_Latn (Mandjak)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">saf_Latn (Safaliba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hna_Latn (Mina)</td>
-<td align="left">No exemplar glyphs were defined for language Mina</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nuv_Latn (Nuni, Northern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn (Kasem)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqv_Latn (Koro Wachi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">log_Latn (Logo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bze_Latn (Jenaama Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">anv_Latn (Denya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfi_Latn (Wandala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tuq_Latn (Tedaga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lig_Latn (Ligbi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdj_Latn (Mangbetu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kye_Latn (Krache)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ajg_Latn (Aja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfa_Latn (Bari)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cch_Latn (Atsam)</td>
-<td align="left">No exemplar glyphs were defined for language Atsam</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bud_Latn (Ntcham)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">byv_Latn (Medumba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wo_Latn (Wolof)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ntr_Latn (Delo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ozm_Latn (Koonzime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">acd_Latn (Gikyode)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">loq_Latn (Lobala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kkj_Latn (Kako)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">spp_Latn (Sénoufo, Supyire)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sil_Latn (Sisaala, Tumulung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfd_Latn (Bafut)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fuc_Latn (Pulaar)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">hag_Latn (Hanga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mur_Latn (Murle)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dua_Latn (Duala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nus_Latn (Nuer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">daa_Latn (Dangaléat)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gna_Latn (Kaansa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -27534,7 +25117,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -27553,7 +25136,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">nus_Latn (Nuer)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -27572,7 +25155,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">sef_Latn (Cebaara Senoufo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -27591,387 +25174,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">bm_Latn (Bambara)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">muy_Latn (Muyang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">keu_Latn (Akebu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yas_Latn (Nugunu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bsp_Latn (Baga Sitemu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mdt_Latn (Mbere)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnf_Latn (Mundani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhb_Latn (Beng)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mbo_Latn (Mbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ny_Latn (Nyanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yam_Latn (Yamba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vut_Latn (Vute)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">avn_Latn (Avatime)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mnk_Latn (Mandinka)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ig_Latn (Igbo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mgo_Latn (Metaʼ)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">moa_Latn (Mwan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cme_Latn (Cerma)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mua_Latn (Mundang)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcp_Latn (Makaa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">bud_Latn (Ntcham)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28009,426 +25212,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
-<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">bza_Latn (Bandi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyo_Latn (Jola-Fonyi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">adj_Latn (Adioukrou)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">srr_Latn (Serer)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kia_Latn (Kim)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">emk_Latn (Maninkakan, Eastern)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cko_Latn (Anufo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ksf_Latn (Bafia)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">udu_Latn (Uduk)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">taq_Latn (Tamasheq (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lg_Latn (Ganda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dop_Latn (Lukpa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sxw_Latn (Saxwe Gbe)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mcu_Latn (Mambila, Cameroon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nhu_Latn (Noone)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nmz_Latn (Nawdm)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">giz_Latn (Southern Giziga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bcw_Latn (Bana)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knf_Latn (Mankanya)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">amo_Latn (Amo)</td>
-<td align="left">No exemplar glyphs were defined for language Amo</td>
 </tr>
 </tbody>
 </table>
@@ -28465,7 +25250,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">ewo_Latn (Ewondo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28484,26 +25269,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kqp_Latn (Kimré)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">nko_Latn (Nkonya)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28541,7 +25307,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">sbd_Latn (Southern Samo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28560,7 +25326,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kzr_Latn (Karang)</td>
+<td align="left">mls_Latn (Masalit)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28579,7 +25345,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">kvf_Latn (Kabalai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28598,7 +25364,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">knp_Latn (Kwanja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28617,7 +25383,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28636,7 +25402,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">god_Latn (Godié)</td>
+<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28655,7 +25421,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">blo_Latn (Anii)</td>
+<td align="left">lg_Latn (Ganda)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28674,7 +25440,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">dua_Latn (Duala)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28693,7 +25459,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">byv_Latn (Medumba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28712,7 +25478,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">yav_Latn (Yangben)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28731,7 +25497,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">sil_Latn (Sisaala, Tumulung)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28750,7 +25516,330 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqp_Latn (Kimré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bss_Latn (Akoose)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xuo_Latn (Kuo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cme_Latn (Cerma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcu_Latn (Mambila, Cameroon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tem_Latn (Timne)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xwe_Latn (Gbe, Xwela)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vag_Latn (Vagla)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cou_Latn (Wamey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mor_Latn (Moro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nym_Latn (Nyamwezi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mmu_Latn (Mmaala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kye_Latn (Krache)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sxw_Latn (Saxwe Gbe)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28788,64 +25877,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kus_Latn (Kusaal)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lun_Latn (Lunda)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lmp_Latn (Limbum)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ee_Latn (Ewe)</td>
+<td align="left">dop_Latn (Lukpa)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28883,7 +25915,1223 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
+<td align="left">bjt_Latn (Balanta-Ganja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ajg_Latn (Aja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fan_Latn (Fang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbj_Latn (Ghomala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahs_Latn (Ashe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">daa_Latn (Dangaléat)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dje_Latn (Zarma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ach_Latn (Acoli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sig_Latn (Paasaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avn_Latn (Avatime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqv_Latn (Koro Wachi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tpm_Latn (Tampulma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bex_Latn (Jur Modo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ikx_Latn (Ik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhu_Latn (Noone)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ksf_Latn (Bafia)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lee_Latn (Lyélé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bqj_Latn (Bandial)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dip_Latn (Dinka, Northeastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bcw_Latn (Bana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cko_Latn (Anufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndz_Latn (Ndogo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">agc_Latn (Agatu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kmy_Latn (Koma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nuv_Latn (Nuni, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">spp_Latn (Sénoufo, Supyire)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcp_Latn (Makaa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bze_Latn (Jenaama Bozo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">shz_Latn (Syenara Senoufo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lia_Latn (Limba, West-Central)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ee_Latn (Ewe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">neb_Latn (Toura)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">keu_Latn (Akebu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mcn_Latn (Masana)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sld_Latn (Sissala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfa_Latn (Bari)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kkj_Latn (Kako)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lun_Latn (Lunda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xon_Latn (Konkomba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">biv_Latn (Birifor, Southern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lok_Latn (Loko)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tik_Latn (Tikar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fod_Latn (Foodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yat_Latn (Yambeta)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28929,7 +27177,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">lam_Latn (Lamba)</td>
+<td align="left">amo_Latn (Amo)</td>
+<td align="left">No exemplar glyphs were defined for language Amo</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuc_Latn (Pulaar)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28948,7 +27215,26 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">cch_Latn (Atsam)</td>
+<td align="left">No exemplar glyphs were defined for language Atsam</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gjn_Latn (Gonja)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28967,7 +27253,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">mua_Latn (Mundang)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -28986,7 +27272,49 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">dnj_Latn (Dan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">No variant glyphs were found for uni0181</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
+<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -29005,786 +27333,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">kyq_Latn (Kenga)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">sld_Latn (Sissala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">knp_Latn (Kwanja)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bax_Latn (Bamun (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kib_Latn (Koalib)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">snf_Latn (Noon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gej_Latn (Gen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">khq_Latn (Koyra Chiini)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mls_Latn (Masalit)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">vai_Latn (Vai (Latin))</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bss_Latn (Akoose)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kfo_Latn (Koro)</td>
-<td align="left">No exemplar glyphs were defined for language Koro</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ncu_Latn (Chumburung)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bzw_Latn (Basa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">syi_Latn (Seki)</td>
-<td align="left">No exemplar glyphs were defined for language Seki</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dur_Latn (Dii)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">twq_Latn (Tasawaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">pil_Latn (Yom)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">toq_Latn (Toposa)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kss_Latn (Southern Kisi)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dyu_Latn (Dyula)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bim_Latn (Bimoba)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gde_Latn (Gude)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">nnh_Latn (Ngiemboon)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">gur_Latn (Frafra)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ikx_Latn (Ik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">krs_Latn (Gbaya, Sudan)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dow_Latn (Doyayo)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">cou_Latn (Wamey)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kvf_Latn (Kabalai)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">dag_Latn (Dagbani)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">yat_Latn (Yambeta)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mmu_Latn (Mmaala)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bqj_Latn (Bandial)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wci_Latn (Gbe, Waci)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fue_Latn (Fulfulde, Borgu)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">tnr_Latn (Ménik)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">mev_Latn (Mano)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">wwa_Latn (Waama)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
-<td align="left">No variant glyphs were found for Eng</td>
-</tr>
-</tbody>
-</table>
- [code: warning-language-shaping]
-
-
-
-* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">WARN messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">naw_Latn (Nawuri)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -29822,7 +27371,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">ewo_Latn (Ewondo)</td>
+<td align="left">lam_Latn (Lamba)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -29841,7 +27390,1888 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vai_Latn (Vai (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dts_Latn (Dogon, Toro So)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ncu_Latn (Chumburung)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">idu_Latn (Idoma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">god_Latn (Godié)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ted_Latn (Krumen, Tepo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kfo_Latn (Koro)</td>
+<td align="left">No exemplar glyphs were defined for language Koro</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfv_Latn (Mandjak)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">giz_Latn (Southern Giziga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">blo_Latn (Anii)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuf_Latn (Pular)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nyb_Latn (Nyangbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xsm_Latn (Kasem)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tuq_Latn (Tedaga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xed_Latn (Hdi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cae_Latn (Lehar)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">snf_Latn (Noon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tnr_Latn (Ménik)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyo_Latn (Jola-Fonyi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ken_Latn (Kenyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">log_Latn (Logo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">knf_Latn (Mankanya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ntr_Latn (Delo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mev_Latn (Mano)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdj_Latn (Mangbetu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bav_Latn (Vengo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gna_Latn (Kaansa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gng_Latn (Ngangam)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bm_Latn (Bambara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hag_Latn (Hanga)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">moa_Latn (Mwan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ade_Latn (Adele)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">meq_Latn (Merey)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kib_Latn (Koalib)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wwa_Latn (Waama)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">yam_Latn (Yamba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">acd_Latn (Gikyode)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lig_Latn (Ligbi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wan_Latn (Wan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">sok_Latn (Sokoro)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">taq_Latn (Tamasheq (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bim_Latn (Bimoba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wo_Latn (Wolof)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mgy_Latn (Mbunga)</td>
+<td align="left">No exemplar glyphs were defined for language Mbunga</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dag_Latn (Dagbani)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">rub_Latn (Gungu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lns_Latn (Lamnso’)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mzw_Latn (Deg)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">krs_Latn (Gbaya, Sudan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gej_Latn (Gen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">anv_Latn (Denya)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nfr_Latn (Nafaanra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">khq_Latn (Koyra Chiini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyu_Latn (Dyula)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pil_Latn (Yom)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">pug_Latn (Phuie)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">twq_Latn (Tasawaq)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nhb_Latn (Beng)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">srr_Latn (Serer)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">hna_Latn (Mina)</td>
+<td align="left">No exemplar glyphs were defined for language Mina</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bzw_Latn (Basa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">saf_Latn (Safaliba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bax_Latn (Bamun (Latin))</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">tvu_Latn (Tunen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ndv_Latn (Ndut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bum_Latn (Bulu)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kia_Latn (Kim)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -29879,7 +29309,7 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">mas_Latn (Masai)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -29898,7 +29328,577 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">mfq_Latn (Moba)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">laj_Latn (Lango, Uganda)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gde_Latn (Gude)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mur_Latn (Murle)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">las_Latn (Lama, Togo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">nnh_Latn (Ngiemboon)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ktj_Latn (Krumen, Plapo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">xrb_Latn (Karaboro, Eastern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lem_Latn (Nomaande)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">azo_Latn (Awing)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">muy_Latn (Muyang)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">udu_Latn (Uduk)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">syi_Latn (Seki)</td>
+<td align="left">No exemplar glyphs were defined for language Seki</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">loq_Latn (Lobala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">toq_Latn (Toposa)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mfi_Latn (Wandala)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">gur_Latn (Frafra)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ahl_Latn (Igo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kqs_Latn (Kissi, Northern)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">dno_Latn (Ndrulo)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">adj_Latn (Adioukrou)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">No variant glyphs were found for Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">WARN messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">mdt_Latn (Mbere)</td>
 <td align="left">No variant glyphs were found for Eng</td>
 </tr>
 </tbody>
@@ -30098,9 +30098,9 @@ definitions.</p>
 * ⚠️ **WARN** <p>The most common width is 550 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 540:
-less, lessequal</p>
+lessequal, less</p>
 <p>Width = 530:
-greaterequal, greater</p>
+greater, greaterequal</p>
 <p>Width = 489:
 logicalnot</p>
 <p>Width = 459:
@@ -30166,7 +30166,7 @@ definitions.</p>
 <li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -30183,11 +30183,11 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, old-permic, syriac, malayalam, coptic, tai-le, math, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, math, malayalam, old-permic, syriac, tifinagh, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
@@ -30206,8 +30206,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, gothic, caucasian-albanian, syriac, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, tifinagh, cherokee, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -30216,39 +30216,39 @@ definitions.</p>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: elbasan, math, greek</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: elbasan, math, greek</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: elbasan, math, greek</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: elbasan, math, greek</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: elbasan, math, greek</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: elbasan, math, greek</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: elbasan, math, greek</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: elbasan, math, greek</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: elbasan, math, greek</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: elbasan, math, greek</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: elbasan, math, greek</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: elbasan, math, greek</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: elbasan, math, greek</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: elbasan, math, greek</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: elbasan, math, greek</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, math, elbasan</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, math, elbasan</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, math, elbasan</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, math, elbasan</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, math, elbasan</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, math, elbasan</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, math, elbasan</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, math, elbasan</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, math, elbasan</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, math, elbasan</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, math, elbasan</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, math, elbasan</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, math, elbasan</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, math, elbasan</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, math, elbasan</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, math, elbasan</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, math, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
 <li>U+03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA: try adding greek</li>
-<li>U+03D1 GREEK THETA SYMBOL: try adding one of: math, greek</li>
+<li>U+03D1 GREEK THETA SYMBOL: try adding one of: greek, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
 <li>U+1D10 LATIN LETTER SMALL CAPITAL OPEN O: not included in any glyphset definition</li>
@@ -30284,12 +30284,12 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, hatran, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: modi, tai-viet, dogra, saurashtra, thai, oriya, syriac, malayalam, tai-tham, phags-pa, thaana, batak, mahajani, pahawh-hmong, javanese, bhaiksuki, telugu, gujarati, tagalog, kharoshthi, devanagari, syloti-nagri, nko, tibetan, hanunoo, old-hungarian, gurmukhi, gunjala-gondi, hebrew, sundanese, lepcha, takri, balinese, mandaic, hanifi-rohingya, khudawadi, buhid, chakma, grantha, kaithi, kannada, siddham, newa, brahmi, rejang, limbu, buginese, psalter-pahlavi, khmer, masaram-gondi, tagbanwa, tai-le, tirhuta, tamil, cham, sharada, manichaean, tifinagh, arabic, khojki, sinhala, myanmar, yi, zanabazar-square, avestan, mongolian, sogdian, bengali, lao, kayah-li, warang-citi, duployan, new-tai-lue, meetei-mayek</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, arabic, syloti-nagri</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hatran, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: hanunoo, buginese, tai-le, siddham, telugu, takri, lao, gurmukhi, tibetan, malayalam, warang-citi, kayah-li, newa, old-hungarian, tifinagh, syloti-nagri, sinhala, khmer, psalter-pahlavi, tai-tham, tamil, phags-pa, sundanese, mahajani, gunjala-gondi, buhid, devanagari, hebrew, new-tai-lue, pahawh-hmong, balinese, javanese, avestan, kharoshthi, manichaean, masaram-gondi, brahmi, thai, khojki, khudawadi, tirhuta, rejang, kaithi, tagbanwa, lepcha, kannada, limbu, nko, myanmar, syriac, sharada, cham, bhaiksuki, bengali, zanabazar-square, duployan, saurashtra, yi, thaana, tai-viet, dogra, sogdian, oriya, chakma, modi, arabic, tagalog, grantha, mandaic, mongolian, meetei-mayek, batak, hanifi-rohingya, gujarati</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, syloti-nagri, yi</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
 <li>U+2042 ASTERISM: not included in any glyphset definition</li>
@@ -30332,14 +30332,14 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -30354,8 +30354,8 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
 <li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: modi, mende-kikakui, saurashtra, tai-viet, syriac, tai-tham, adlam, thaana, mahajani, miao, kharoshthi, devanagari, music, soyombo, sundanese, khudawadi, grantha, rejang, tagbanwa, buginese, khmer, canadian-aboriginal, sharada, zanabazar-square, batak, math, telugu, tagalog, syloti-nagri, hebrew, lepcha, balinese, mandaic, chakma, kaithi, old-permic, kannada, siddham, masaram-gondi, tirhuta, tamil, yi, coptic, warang-citi, thai, dogra, oriya, phags-pa, javanese, gujarati, bassa-vah, wancho, hanunoo, gurmukhi, takri, hanifi-rohingya, brahmi, psalter-pahlavi, elbasan, cham, manichaean, khojki, caucasian-albanian, sinhala, mongolian, bengali, new-tai-lue, meetei-mayek, malayalam, armenian, pahawh-hmong, bhaiksuki, nko, tibetan, gunjala-gondi, buhid, newa, tai-le, limbu, tifinagh, myanmar, ahom, symbols, sogdian, lao, marchen, kayah-li, osage, duployan</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: telugu, takri, sinhala, sundanese, devanagari, thai, kannada, myanmar, dogra, modi, old-permic, tagalog, grantha, meetei-mayek, batak, hanifi-rohingya, hanunoo, malayalam, warang-citi, kayah-li, tifinagh, syloti-nagri, tamil, phags-pa, mahajani, gunjala-gondi, buhid, new-tai-lue, balinese, javanese, manichaean, brahmi, ahom, khojki, rejang, kaithi, limbu, sharada, yi, sogdian, oriya, music, osage, tai-le, gurmukhi, khmer, psalter-pahlavi, tai-tham, coptic, hebrew, pahawh-hmong, kharoshthi, miao, wancho, tirhuta, lepcha, nko, marchen, syriac, armenian, cham, zanabazar-square, tai-viet, mandaic, canadian-aboriginal, buginese, lao, newa, mende-kikakui, adlam, symbols, caucasian-albanian, masaram-gondi, khudawadi, math, soyombo, tagbanwa, bhaiksuki, bengali, duployan, saurashtra, elbasan, thaana, bassa-vah, chakma, siddham, mongolian, tibetan, gujarati</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
