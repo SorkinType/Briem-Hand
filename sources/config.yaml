@@ -1,12 +1,1206 @@
-recipeProvider: fontprimer
-sources:
-  - BriemHand.glyphs
-shortFamilyName: Briem
-doGuidelines: true
-buildStatic: true
 buildColorVariable: true
-variants:
-- name: Unjoined
-  steps:
-  - operation: remapLayout
-    args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+buildStatic: true
+doGuidelines: true
+recipe:
+  ../fonts/ttf/classic/BriemGuides-Black.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=900
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-Bold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=700
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-ExtraBold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=800
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-ExtraLight.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=200
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-Light.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=300
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-Medium.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=500
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-Regular.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=400
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-SemiBold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=600
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemGuides-Thin.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=100
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-Black.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=900
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-Bold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=700
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-ExtraBold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=800
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-ExtraLight.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=200
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-Light.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=300
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-Medium.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=500
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-Regular.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=400
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-SemiBold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=600
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHand-Thin.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand
+    operation: rename
+  - args: --update-name-table
+    axes: wght=100
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-Black.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=900
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-Bold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=700
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-ExtraBold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=800
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-ExtraLight.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=200
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-Light.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=300
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-Medium.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=500
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-Regular.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=400
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-SemiBold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=600
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/classic/BriemHand-Thin.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - args: --update-name-table
+    axes: wght=100
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-Black.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=900
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-Bold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=700
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-ExtraBold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=800
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-ExtraLight.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=200
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-Light.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=300
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-Medium.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=500
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-Regular.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=400
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-SemiBold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=600
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandGuides-Thin.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=100
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-Black.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=900
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-Bold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=700
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-ExtraBold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=800
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-ExtraLight.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=200
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-Light.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=300
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-Medium.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=500
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-Regular.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=400
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-SemiBold.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=600
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemHandUnjoined-Thin.ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - args: --update-name-table
+    axes: wght=100
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-Black.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=900
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-Bold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=700
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-ExtraBold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=800
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-ExtraLight.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=200
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-Light.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=300
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-Medium.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=500
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-Regular.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=400
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-SemiBold.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=600
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/ttf/BriemUnjoinedGuides-Thin.ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - args: --update-name-table
+    axes: wght=100
+    operation: subspace
+  - args: --passthrough-tables
+    operation: hbsubset
+  - operation: fix
+  ../fonts/variable/classic/BriemGuides[wght].ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - operation: fix
+  - args: --passthrough-tables
+    operation: hbsubset
+  ../fonts/variable/classic/BriemHand[wght].ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: -o $out $in briem-metrics.yaml
+    exe: gftools-fontsetter
+    operation: exec
+  - operation: fix
+  - args: --passthrough-tables
+    operation: hbsubset
+  ../fonts/variable/BriemHandColor[wght,GDLO].ttf:
+  - source: BriemHand.glyphs
+  - args: --color -o BriemHand.colr-guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.colr-guidelines.glyphs
+  - fontmake_args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: buildStat
+  - args: --just-family
+    name: Briem Hand Color
+    operation: rename
+  - args: -o ../fonts/variable/BriemHandColor[wght,GDLO].ttf ../fonts/variable/BriemHandColor[wght,GDLO].ttf
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.colrguidelines
+    postprocess: exec
+  ../fonts/variable/BriemHandGuides[wght].ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: --passthrough-tables
+    operation: hbsubset
+  ../fonts/variable/BriemHandUnjoined[wght].ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Hand Unjoined
+    operation: rename
+  - operation: fix
+  - args: --passthrough-tables
+    operation: hbsubset
+  ../fonts/variable/BriemHand[wght].ttf:
+  - source: BriemHand.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - operation: fix
+  - operation: buildStat
+  - args: --passthrough-tables
+    operation: hbsubset
+  ../fonts/variable/BriemUnjoinedGuides[wght].ttf:
+  - source: BriemHand.glyphs
+  - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
+    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    operation: exec
+  - source: BriemHand.guidelines.glyphs
+  - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      --no-production-names
+    operation: buildVariable
+  - args: --just-family
+    name: Briem Hand Guides
+    operation: rename
+  - operation: fix
+  - operation: buildStat
+  - args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+    operation: remapLayout
+  - args: --just-family
+    name: Briem Unjoined Guides
+    operation: rename
+  - operation: fix
+  - args: --passthrough-tables
+    operation: hbsubset
+sources:
+- BriemHand.glyphs

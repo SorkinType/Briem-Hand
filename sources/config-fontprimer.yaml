@@ -1,0 +1,17 @@
+recipeProvider: fontprimer
+sources:
+  - BriemHand.glyphs
+shortFamilyName: Briem
+doGuidelines: true
+buildStatic: true
+buildColorVariable: true
+variants:
+- name: Unjoined
+  steps:
+  - operation: remapLayout
+    args: '''!calt'' ''locl=>|calt'' ''ccmp=>|calt'''
+- name: Classic
+  steps:
+    - operation: exec
+      exe: gftools-fontsetter
+      args: -o $out $in briem-metrics.yaml
