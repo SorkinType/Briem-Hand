@@ -5,7 +5,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-Black.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -28,7 +28,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-Bold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -51,7 +51,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-ExtraBold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -74,7 +74,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-ExtraLight.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -97,7 +97,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-Light.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -120,7 +120,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-Medium.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -143,7 +143,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-Regular.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -166,7 +166,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-SemiBold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -189,7 +189,7 @@ recipe:
   ../fonts/ttf/classic/BriemGuides-Thin.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -500,7 +500,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-Black.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -523,7 +523,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-Bold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -546,7 +546,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-ExtraBold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -569,7 +569,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-ExtraLight.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -592,7 +592,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-Light.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -615,7 +615,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-Medium.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -638,7 +638,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-Regular.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -661,7 +661,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-SemiBold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -684,7 +684,7 @@ recipe:
   ../fonts/ttf/BriemHandGuides-Thin.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -869,7 +869,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-Black.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -894,7 +894,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-Bold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -919,7 +919,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-ExtraBold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -944,7 +944,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-ExtraLight.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -969,7 +969,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-Light.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -994,7 +994,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-Medium.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -1019,7 +1019,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-Regular.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -1044,7 +1044,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-SemiBold.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -1069,7 +1069,7 @@ recipe:
   ../fonts/ttf/BriemUnjoinedGuides-Thin.ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -1094,7 +1094,7 @@ recipe:
   ../fonts/variable/classic/BriemGuides[wght].ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -1127,7 +1127,7 @@ recipe:
   ../fonts/variable/BriemHandColor[wght,GDLO].ttf:
   - source: BriemHand.glyphs
   - args: --color -o BriemHand.colr-guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.colr-guidelines.glyphs
   - fontmake_args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -1138,12 +1138,12 @@ recipe:
     name: Briem Hand Color
     operation: rename
   - args: -o ../fonts/variable/BriemHandColor[wght,GDLO].ttf ../fonts/variable/BriemHandColor[wght,GDLO].ttf
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.colrguidelines
+    exe: python3 -m fontprimer.colrguidelines
     postprocess: exec
   ../fonts/variable/BriemHandGuides[wght].ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
@@ -1183,7 +1183,7 @@ recipe:
   ../fonts/variable/BriemUnjoinedGuides[wght].ttf:
   - source: BriemHand.glyphs
   - args: -o BriemHand.guidelines.glyphs BriemHand.glyphs
-    exe: /usr/local/opt/python@3.12/bin/python3.12 -m fontprimer.guidelines
+    exe: python3 -m fontprimer.guidelines
     operation: exec
   - source: BriemHand.guidelines.glyphs
   - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
