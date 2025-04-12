@@ -1,5 +1,5 @@
 {
-.appVersion = "3314";
+.appVersion = "3409";
 .formatVersion = 3;
 DisplayStrings = (
 "/zigstem/zigstem/zigstem  
@@ -1493,6 +1493,15 @@ value = 50;
 {
 name = underlinePosition;
 value = 350;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 guides = (
@@ -1777,6 +1786,15 @@ value = 50;
 {
 name = underlinePosition;
 value = 350;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 guides = (
