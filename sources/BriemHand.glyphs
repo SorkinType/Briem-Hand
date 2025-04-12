@@ -1,41 +1,8 @@
 {
-.appVersion = "3409";
+.appVersion = "3410";
 .formatVersion = 3;
 DisplayStrings = (
-"/zigstem/zigstem/zigstem  
-/zigstem/zigstem  aa",
-"/dieresiscomb.case ḧ",
-"̣ệ",
-"ꞹ",
-"̌ǒ",
-"ƀ",
-"ƃ",
-"̇ǡ",
-"ℓ",
-"ℓ∞",
-"eoℓon",
-"§ℓ",
-"Ⓐ",
-"ⓐ",
-H,
-"Ꞩ",
-"/circumflexcomb_acutecomb.case Ế",
-"/circumflexcomb_gravecomb.case Ề",
-"/circumflexcomb_tildecomb",
-"/circumflexcomb_gravecomb.case",
-"̦ŗ",
-"/circumflexbelowcomb.case NṊ",
-"/macroncomb_acutecomb.case Ḗ",
-"/macroncomb_gravecomb.case Ḕ",
-"/commaaccentcomb.case Ļ",
-"̃",
-"/macroncomb.case Ā",
-"Ⓐⓐ",
-"⁂",
-"Ƶ",
-" ",
-",",
-"₾"
+"//aaíizz|//|//|||/backslash//|//"
 );
 axes = (
 {
@@ -46,7 +13,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adieresismacron Adotaccent Adotbelow Adotmacron Agrave Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aring Aringacute Aringbelow Astroke Atilde Aturned AE AEacute AEmacron B Bdotaccent Bdotbelow Beta-latin Bhook Bmacronbelow Bstroke Btopbar C Cacute Cbar Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent Chi-latin Chook Cstroke D DZ DZcaron Dcaron Dcedilla Dcircumflexbelow Dcroat Ddotaccent Ddotbelow Dhook Dmacronbelow Dtail Dtopbar Dz Dzcaron Eth E Eacute Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexbelow Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Eopen Eopenreversed Esh Estroke Etilde Etildebelow Eturned Schwa Ezh Ezhcaron Ezhreversed F Fdotaccent Fhook G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstopsmall Gmacron Gstroke H Hbar Hbrevebelow Hcaron Hcedilla Hcircumflex Hdieresis Hdotaccent Hdotbelow Heng Hhook Hturned I IJ IJ_acutecomb Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Iota-latin Istroke Itilde Itildebelow J Jacute Jcircumflex Jcrossedtail Jstroke K Kacute Kcaron Kcommaaccent Kdotbelow Khook Kmacronbelow Kstroke L LJ Lacute Lbar Lbelt Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Ldoublebar Lj Lmacronbelow Lmiddletilde Lslash M Macute Mdotaccent Mdotbelow Mhook Mturned N NJ Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Nj Nlongrightleg Nmacronbelow Ntilde Eng O OU Oacute Obarred Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Omega-latin Oogonek Oogonekmacron Oopen Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Pacute Pdotaccent Phook Thorn Pstroke Q Qhooktail R Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Sobliquestroke T Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdiagonalstroke Tdotaccent Tdotbelow Thook Tmacronbelow Tretroflexhook U Uacute Ubar Ubreve Ucaron Ucircumflex Ucircumflexbelow Udblgrave Udieresis Udieresisacute Udieresisbelow Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Upsilon-latin Uring Utilde Utildeacute Utildebelow V Gamma-latin Vdotbelow Vhook Vtilde Vturned W Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook X Xdieresis Xdotaccent Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Ystroke Ytilde Z Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zmacronbelow Zstroke Saltillo uniA7AE uniA7B8 uniA7C7 uniA7CB uniA7CC Lcommaaccent.latnMAH Ncommaaccent.latnMAH Aogonek.latnNAV Eogonek.latnNAV Esh.localGAD Ezh.localGAD Ocircumflexacute.loclKYU Ocircumflexgrave.loclKYU Ocircumflextilde.loclKYU Lcommaaccent.loclMAH Ncommaaccent.loclMAH Aogonek.loclNAV Eogonek.loclNAV Iogonek.loclNAV Oogonek.loclNAV Uogonek.loclNAV IJ.loclNLD Eng.loclNSM Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Vhook.loclTOD0 Bhook.loclXPE Vhook.loclTOD0.ss01 Dsmall Ismall Ismallstroke Nsmall OopenSmall Rsmall Usmall a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adieresismacron adotaccent adotbelow adotmacron agrave ahookabove ainvertedbreve alpha-latin amacron aogonek arighthalfring aring aringacute aringbelow astroke atilde aturned ae aeacute aemacron b bdotaccent bdotbelow beta-latin bhook bilabialclick bmacronbelow bstroke btopbar c cacute cbar ccaron ccedilla ccedillaacute ccircumflex cdotaccent chi-latin chook creversed cstroke d dcaron dcedilla dcircumflexbelow dcroat ddotaccent ddotbelow delta-latin dhook dhookandtail dmacronbelow dtopbar dz dzcaron eth e eacute ebreve ecaron ecedilla ecedillabreve ecircumflex ecircumflexacute ecircumflexbelow ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron emacronacute emacrongrave eogonek eopen ereversed esh estroke etilde etildebelow eturned schwa ezh ezhcaron ezhreversed f fdotaccent g gacute gamma-latin gbreve gcaron gcircumflex gcommaaccent gdotaccent ghook glottalstop glottalstopreversed glottalstopsmall gmacron gsingle gstroke yogh h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow heng hhook hmacronbelow i idotless idotless_ogonek iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek iota-latin istroke itilde itildebelow ij ij_acutecomb j jdotless j_acutecomb jacute jcaron jcircumflex jcrossedtail jdotlessstroke jstroke k kacute kcaron kcommaaccent kdotbelow kgreenlandic khook kmacronbelow kstroke l lacute lambdastroke lbar lbelt lcaron lcircumflexbelow lcommaaccent ldot ldotbelow ldotbelowmacron ldoublebar lj lmacronbelow lmiddletilde longsdotaccent lslash m macute mdotaccent mdotbelow mhook mturned n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave nhookleft nj nlongrightleg nmacronbelow ntilde eng o oacute obarred obreve ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccent odotaccentmacron odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron omacronacute omacrongrave omega-latin oogonek oogonekmacron oopen oslash oslashacute otilde otildeacute otildedieresis otildemacron ou oe p pacute pdotaccent phook thorn pstroke q qhooktail r racute ramshorn rcaron rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron rfishhook rinvertedbreve rmacronbelow rstroke rtail s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent germandbls sobliquestroke longs t tbar tcaron tcedilla tcircumflexbelow tcommaaccent tdiagonalstroke tdieresis tdotaccent tdotbelow thook tmacronbelow tretroflexhook tturned u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udblgrave udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uniA7B9 uniA7C8 uniA7CD uogonek upsilon-latin uring utilde utildeacute utildebelow v vdotbelow vhook vtilde vturned w wacute wcircumflex wdieresis wdotaccent wdotbelow wgrave whook wring x xdieresis xdotaccent y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhook yhookabove ymacron yring ystroke ytilde yturned z zacute zcaron zcircumflex zdotaccent zdotbelow zmacronbelow zstroke saltillo a.a b.a c.a e.a f.a k.a o.a r.a s.a t.a v.a y.a z.a x.asc a.b b.b c.b e.b f.b k.b o.b r.b s.b v.b z.b a.c b.c c.c e.c f.c k.c o.c r.c s.c v.c z.c idotbelow.dotless iogonek.dotless istroke.dotless itildebelow.dotless jcrossedtail.dotless jdotlessstroke.dotless x.exit f.f o.i s.i v.i lcommaaccent.latnMAH ncommaaccent.latnMAH aogonek.latnNAV eogonek.latnNAV j.latnNLD f.loclEWE ocircumflexacute.loclKYU ocircumflexgrave.loclKYU ocircumflextilde.loclKYU lcommaaccent.loclMAH ncommaaccent.loclMAH aogonek.loclNAV eogonek.loclNAV iogonek.loclNAV oogonek.loclNAV uogonek.loclNAV vhook.loclTOD0 t.n y.n x.o y.o x.p a.s b.s c.s e.s f.s k.s o.s r.s s.s v.s y.s z.s a.v b.v c.v e.v k.v o.v r.v s.v t.v v.v z.v a.x c.x d.x v.x x.x a.z b.z c.z e.z k.z o.z r.z s.z t.z v.z x.z z.z vhook.loclTOD0.ss01 f_f fi fl fi.loclEWE fl.loclEWE ordfeminine ordmasculine clickalveolar clickdental clicklateral clickretroflex hmod imod nmod wmod ymod imod.dotless A-cy Ve-cy Ie-cy Io-cy Ka-cy Em-cy En-cy O-cy Er-cy Es-cy Te-cy Ha-cy Dze-cy I-cy Yi-cy Je-cy Esdescender-cy Schwa-cy Reversedze-cy a-cy ie-cy io-cy o-cy er-cy es-cy te-cy u-cy ha-cy dze-cy i-cy yi-cy je-cy esdescender-cy schwa-cy koppa-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Mu Nu Omicron Rho Sigma Tau Upsilon Chi Omega alpha beta gamma theta iota lambda mu omicron pi rho phi chi iotadieresis thetaSymbol Nmod amod dothorizontalbarmod dotslashmod dotverticalbarmod eOpenmod emod gmod istrokemod lowerrightcorneranglemod oOpenmod omod thetamod ubarmod umod vmod zmod istrokemod.dotless Onehundredreversed-roman zero one two three four five six seven eight nine zero.zero zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.lf.zero zero.osf.zero zero.tf.zero zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onethird twothirds onequarter threequarters onefifth twofifths fourfifths onesixth fivesixths oneseventh oneeighth threeeighths fiveeighths seveneighths oneninth onetenth zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace enspace emspace enquad emquad threeperemspace fourperemspace sixperemspace figurespace punctuationspace thinspace hairspace zerowidthspace zerowidthnonjoiner zerowidthjoiner narrownbspace mediumspace-math CR period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk asterism dblverticalbar etTironian exclamdouble numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen endash emdash nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin thousand-cy baht beginlowtonemod colonmod doubleapostrophemod endlowtonemod minusmod shortequalmod voicingmod apple at ampersand paragraph section copyright registered trademark degree minute second bar brokenbar dagger daggerdbl estimated numero A.circled a.circled cedi cent colonsign currency dollar dong euro guarani hryvnia kip liraTurkish manat naira peseta peso ruble rupee rupeeIndian sheqel sterling tenge tugrik won yen YturnedSansSerif divisionslash plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity emptyset integral Ohm increment product summation radical micro partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge rbelowcomb dieresiscomb dotaccentcomb gravecomb gravecomb_macroncomb acutecomb acutecomb_macroncomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb tildecomb_acutecomb macroncomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb verticallineabovecomb dblgravecomb candraBinducomb breveinvertedcomb commaturnedabovecomb commaabovecomb commaaboverightcomb horncomb minusbelowcomb dotbelowcomb dieresisbelowcomb ringbelowcomb commaaccentcomb commaaccentcomb.loclMAH cedillacomb ogonekcomb verticallinebelowcomb circumflexbelowcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb macronbelowcomb lowlinecomb tildeoverlaycomb strokeshortcomb strokelongcomb slashlongcomb dotaboverightcomb doublemacronbelowcomb breveinverteddoublecomb acutemacroncomb belt_part brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb diagonalstrokecomb graveacutegravecomb gravemacroncomb macronacutecomb macrongravecomb ogonekcomb.alt asc.cross_part dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_caroncomb.case dieresiscomb_macroncomb.case dotaccentcomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case tildecomb_dieresiscomb.case tildecomb_acutecomb.case tildecomb_macroncomb.case macroncomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case ringbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case circumflexbelowcomb.case brevebelowcomb.case tildebelowcomb.case macronbelowcomb.case circumflexcomb_gravecomb.loclKYU circumflexcomb_acutecomb.loclKYU circumflexcomb_tildecomb.loclKYU ogonekcomb.loclNAV circumflexcomb_gravecomb.case.loclKYU circumflexcomb_acutecomb.case.loclKYU circumflexcomb_tildecomb.case.loclKYU dieresis dotaccent grave acute hungarumlaut circumflex firsttonechinese secondtonechinese caron fourthtonechinese breve ring ring_acutecomb tilde macron cedilla ogonek ring_acutecomb.case apostrophemod commareversedmod commaturnedmod doubleprimemod glottalstopmod macronlowmod primemod ringhalfleft ringhalfright verticallinelowmod verticallinemod bline fourlines zigstem zig.zig zig.exit dieresiswidecomb.case ff.loclEWE";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adieresismacron Adotaccent Adotbelow Adotmacron Agrave Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aring Aringacute Aringbelow Astroke Atilde Aturned AE AEacute AEmacron B Bdotaccent Bdotbelow Beta-latin Bhook Bmacronbelow Bstroke Btopbar C Cacute Cbar Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent Chi-latin Chook Cstroke D DZ DZcaron Dcaron Dcedilla Dcircumflexbelow Dcroat Ddotaccent Ddotbelow Dhook Dmacronbelow Dtail Dtopbar Dz Dzcaron Eth E Eacute Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexbelow Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Eopen Eopenreversed Esh Estroke Etilde Etildebelow Eturned Schwa Ezh Ezhcaron Ezhreversed F Fdotaccent Fhook G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstopsmall Gmacron Gstroke H Hbar Hbrevebelow Hcaron Hcedilla Hcircumflex Hdieresis Hdotaccent Hdotbelow Heng Hhook Hturned I IJ IJ_acutecomb Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Iota-latin Istroke Itilde Itildebelow J Jacute Jcircumflex Jcrossedtail Jstroke K Kacute Kcaron Kcommaaccent Kdotbelow Khook Kmacronbelow Kstroke L LJ Lacute Lbar Lbelt Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Ldoublebar Lj Lmacronbelow Lmiddletilde Lslash M Macute Mdotaccent Mdotbelow Mhook Mturned N NJ Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Nj Nlongrightleg Nmacronbelow Ntilde Eng O OU Oacute Obarred Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Omega-latin Oogonek Oogonekmacron Oopen Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Pacute Pdotaccent Phook Thorn Pstroke Q Qhooktail R Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Sobliquestroke T Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdiagonalstroke Tdotaccent Tdotbelow Thook Tmacronbelow Tretroflexhook U Uacute Ubar Ubreve Ucaron Ucircumflex Ucircumflexbelow Udblgrave Udieresis Udieresisacute Udieresisbelow Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Upsilon-latin Uring Utilde Utildeacute Utildebelow V Gamma-latin Vdotbelow Vhook Vtilde Vturned W Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook X Xdieresis Xdotaccent Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Ystroke Ytilde Z Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zmacronbelow Zstroke Saltillo uniA7AE uniA7B8 uniA7C7 uniA7CB uniA7CC Lcommaaccent.latnMAH Ncommaaccent.latnMAH Aogonek.latnNAV Eogonek.latnNAV Esh.localGAD Ezh.localGAD Ocircumflexacute.loclKYU Ocircumflexgrave.loclKYU Ocircumflextilde.loclKYU Lcommaaccent.loclMAH Ncommaaccent.loclMAH Aogonek.loclNAV Eogonek.loclNAV Iogonek.loclNAV Oogonek.loclNAV Uogonek.loclNAV IJ.loclNLD Eng.loclNSM Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Vhook.loclTOD0 Bhook.loclXPE Vhook.loclTOD0.ss01 Dsmall Ismall Ismallstroke Nsmall OopenSmall Rsmall Usmall a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adieresismacron adotaccent adotbelow adotmacron agrave ahookabove ainvertedbreve alpha-latin amacron aogonek arighthalfring aring aringacute aringbelow astroke atilde aturned ae aeacute aemacron b bdotaccent bdotbelow beta-latin bhook bilabialclick bmacronbelow bstroke btopbar c cacute cbar ccaron ccedilla ccedillaacute ccircumflex cdotaccent chi-latin chook creversed cstroke d dcaron dcedilla dcircumflexbelow dcroat ddotaccent ddotbelow delta-latin dhook dhookandtail dmacronbelow dtopbar dz dzcaron eth e eacute ebreve ecaron ecedilla ecedillabreve ecircumflex ecircumflexacute ecircumflexbelow ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron emacronacute emacrongrave eogonek eopen ereversed esh estroke etilde etildebelow eturned schwa ezh ezhcaron ezhreversed f fdotaccent g gacute gamma-latin gbreve gcaron gcircumflex gcommaaccent gdotaccent ghook glottalstop glottalstopreversed glottalstopsmall gmacron gsingle gstroke yogh h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow heng hhook hmacronbelow i idotless idotless_ogonek iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek iota-latin istroke itilde itildebelow ij ij_acutecomb j jdotless j_acutecomb jacute jcaron jcircumflex jcrossedtail jdotlessstroke jstroke k kacute kcaron kcommaaccent kdotbelow kgreenlandic khook kmacronbelow kstroke l lacute lambdastroke lbar lbelt lcaron lcircumflexbelow lcommaaccent ldot ldotbelow ldotbelowmacron ldoublebar lj lmacronbelow lmiddletilde longsdotaccent lslash m macute mdotaccent mdotbelow mhook mturned n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave nhookleft nj nlongrightleg nmacronbelow ntilde eng o oacute obarred obreve ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccent odotaccentmacron odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron omacronacute omacrongrave omega-latin oogonek oogonekmacron oopen oslash oslashacute otilde otildeacute otildedieresis otildemacron ou oe p pacute pdotaccent phook thorn pstroke q qhooktail r racute ramshorn rcaron rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron rfishhook rinvertedbreve rmacronbelow rstroke rtail s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent germandbls sobliquestroke longs t tbar tcaron tcedilla tcircumflexbelow tcommaaccent tdiagonalstroke tdieresis tdotaccent tdotbelow thook tmacronbelow tretroflexhook tturned u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udblgrave udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uniA7B9 uniA7C8 uniA7CD uogonek upsilon-latin uring utilde utildeacute utildebelow v vdotbelow vhook vtilde vturned w wacute wcircumflex wdieresis wdotaccent wdotbelow wgrave whook wring x xdieresis xdotaccent y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhook yhookabove ymacron yring ystroke ytilde yturned z zacute zcaron zcircumflex zdotaccent zdotbelow zmacronbelow zstroke saltillo a.a b.a c.a e.a f.a k.a o.a r.a s.a t.a v.a y.a z.a x.asc a.b b.b c.b e.b f.b k.b o.b r.b s.b v.b z.b a.c b.c c.c e.c f.c k.c o.c r.c s.c v.c z.c idotbelow.dotless iogonek.dotless istroke.dotless itildebelow.dotless jcrossedtail.dotless jdotlessstroke.dotless x.exit f.f o.i s.i v.i lcommaaccent.latnMAH ncommaaccent.latnMAH aogonek.latnNAV eogonek.latnNAV j.latnNLD f.loclEWE ocircumflexacute.loclKYU ocircumflexgrave.loclKYU ocircumflextilde.loclKYU lcommaaccent.loclMAH ncommaaccent.loclMAH aogonek.loclNAV eogonek.loclNAV iogonek.loclNAV oogonek.loclNAV uogonek.loclNAV vhook.loclTOD0 t.n y.n x.o y.o x.p a.s b.s c.s e.s f.s k.s o.s r.s s.s v.s y.s z.s a.v b.v c.v e.v k.v o.v r.v s.v t.v v.v z.v a.x c.x d.x v.x x.x a.z b.z c.z e.z k.z o.z r.z s.z t.z v.z x.z z.z vhook.loclTOD0.ss01 f_f fi fl fi.loclEWE fl.loclEWE ordfeminine ordmasculine clickalveolar clickdental clicklateral clickretroflex hmod imod jmod nmod wmod ymod imod.dotless A-cy Ve-cy Ie-cy Io-cy Ka-cy Em-cy En-cy O-cy Er-cy Es-cy Te-cy Ha-cy Dze-cy I-cy Yi-cy Je-cy Esdescender-cy Schwa-cy Reversedze-cy a-cy ie-cy io-cy o-cy er-cy es-cy te-cy u-cy ha-cy dze-cy i-cy yi-cy je-cy esdescender-cy schwa-cy koppa-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Mu Nu Omicron Rho Sigma Tau Upsilon Chi Omega alpha beta gamma theta iota lambda mu omicron pi rho phi chi iotadieresis thetaSymbol Nmod amod dothorizontalbarmod dotslashmod dotverticalbarmod eOpenmod emod gmod istrokemod lowerrightcorneranglemod oOpenmod omod thetamod ubarmod umod vmod zmod istrokemod.dotless Onehundredreversed-roman zero one two three four five six seven eight nine zero.zero zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.lf.zero zero.osf.zero zero.tf.zero zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onethird twothirds onequarter threequarters onefifth twofifths fourfifths onesixth fivesixths oneseventh oneeighth threeeighths fiveeighths seveneighths oneninth onetenth zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace enspace emspace enquad emquad threeperemspace fourperemspace sixperemspace figurespace punctuationspace thinspace hairspace zerowidthspace zerowidthnonjoiner zerowidthjoiner narrownbspace mediumspace-math CR period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk asterism dblverticalbar etTironian exclamdouble numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen endash emdash nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle gammamod-latin florin thousand-cy baht beginlowtonemod colonmod doubleapostrophemod endlowtonemod minusmod shortequalmod voicingmod apple at ampersand paragraph section copyright registered trademark degree minute second bar brokenbar dagger literSign daggerdbl estimated numero A.circled a.circled cedi cent colonsign currency dollar dong euro guarani hryvnia kip lari liraTurkish manat naira peseta peso ruble rupee rupeeIndian sheqel sterling tenge tugrik won yen YturnedSansSerif divisionslash plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity emptyset integral Ohm increment product summation radical micro partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge rbelowcomb dieresiscomb dotaccentcomb gravecomb gravecomb_macroncomb acutecomb acutecomb_macroncomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb tildecomb_acutecomb macroncomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb verticallineabovecomb dblgravecomb candraBinducomb breveinvertedcomb commaturnedabovecomb commaabovecomb commaaboverightcomb horncomb minusbelowcomb dotbelowcomb dieresisbelowcomb ringbelowcomb commaaccentcomb commaaccentcomb.loclMAH cedillacomb ogonekcomb verticallinebelowcomb circumflexbelowcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb macronbelowcomb lowlinecomb tildeoverlaycomb strokeshortcomb strokelongcomb slashlongcomb dotaboverightcomb doublemacronbelowcomb breveinverteddoublecomb acutemacroncomb belt_part brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb diagonalstrokecomb graveacutegravecomb gravemacroncomb macronacutecomb macrongravecomb ogonekcomb.alt asc.cross_part dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_caroncomb.case dieresiscomb_macroncomb.case dotaccentcomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case tildecomb_dieresiscomb.case tildecomb_acutecomb.case tildecomb_macroncomb.case macroncomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case ringbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case circumflexbelowcomb.case brevebelowcomb.case tildebelowcomb.case macronbelowcomb.case circumflexcomb_gravecomb.loclKYU circumflexcomb_acutecomb.loclKYU circumflexcomb_tildecomb.loclKYU ogonekcomb.loclNAV circumflexcomb_gravecomb.case.loclKYU circumflexcomb_acutecomb.case.loclKYU circumflexcomb_tildecomb.case.loclKYU dieresis dotaccent grave acute hungarumlaut circumflex firsttonechinese secondtonechinese caron fourthtonechinese breve ring ring_acutecomb tilde macron cedilla ogonek ring_acutecomb.case apostrophemod commareversedmod commaturnedmod doubleprimemod glottalstopmod macronlowmod primemod ringhalfleft ringhalfright verticallinelowmod verticallinemod bline fourlines zigstem zig.zig zig.exit dieresiswidecomb.case ff.loclEWE";
 name = All;
 },
 {
@@ -164,7 +131,7 @@ name = "Variable Font Origin";
 value = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
 }
 );
-date = "2024-05-10 05:41:27 +0000";
+date = "2025-04-12 06:15:27 +0000";
 familyName = BriemHand;
 featurePrefixes = (
 {
@@ -725,8 +692,8 @@ sub I acutecomb J' by Jacute;
 
 lookupflag IgnoreMarks;
 
-sub a' [@a_left @n_left @i_left] by a a.a;
-sub a' @b_left by a a.b;
+sub a' [@a_left @n_left] by a a.a;
+sub a' [@b_left @i_left] by a a.b;
 sub a' @c_left by a a.c;
 sub a' [@f_left @p_left] by a a.b;
 sub a' @s_left by a a.s;
@@ -827,7 +794,7 @@ sub i' @a_left by i a.a;
 sub i' @b_left by i a.a;
 sub i' @c_left by i a.c;
 sub i' @f_left by i a.b;
-sub i' @i_left by i a.a;
+sub i' @i_left by i a.b;
 sub i' [@n_left @p_left] by i a.a;
 sub i' @s_left by i a.s;
 sub i' @v_left by i a.v;
@@ -838,7 +805,7 @@ sub idotless' @a_left by idotless a.a;
 sub idotless' @b_left by idotless a.a;
 sub idotless' @c_left by idotless a.c;
 sub idotless' @f_left by idotless a.b;
-sub idotless' @i_left by idotless a.a;
+sub idotless' @i_left by idotless a.b;
 sub idotless' [@n_left @p_left] by idotless a.a;
 sub idotless' @s_left by idotless a.s;
 sub idotless' @v_left by idotless a.v;
@@ -971,23 +938,23 @@ sub oe' @x_left by oe e.a;
 sub oe' @z_left by oe e.z;
 sub oe' eth by oe e.a;
 
-#sub p' @a_left by p b.a;
-#sub p' @b_left by p b.b;
-#sub p' @c_left by p b.c;
-#sub p' @i_left by p b.a;
-#sub p' [@n_left @p_left @f_left] by p b.a;
-#sub p' @s_left by p b.s;
-#sub p' [@v_left @x_left] by p b.v;
-#sub p' @z_left by p b.z;
+sub p' @a_left by p b.a;
+sub p' @b_left by p b.b;
+sub p' @c_left by p b.c;
+sub p' @i_left by p b.a;
+sub p' [@n_left @p_left @f_left] by p b.a;
+sub p' @s_left by p b.s;
+sub p' [@v_left @x_left] by p b.v;
+sub p' @z_left by p b.z;
 
-#sub phook' @a_left by phook b.a;
-#sub phook' @b_left by phook b.b;
-#sub phook' @c_left by phook b.c;
-#sub phook' @i_left by phook b.a;
-#sub phook' [@n_left @p_left @f_left] by phook b.a;
-#sub phook' @s_left by phook b.s;
-#sub phook' [@v_left @x_left] by phook b.v;
-#sub phook' @z_left by phook b.z;
+sub phook' @a_left by phook b.a;
+sub phook' @b_left by phook b.b;
+sub phook' @c_left by phook b.c;
+sub phook' @i_left by phook b.a;
+sub phook' [@n_left @p_left @f_left] by phook b.a;
+sub phook' @s_left by phook b.s;
+sub phook' [@v_left @x_left] by phook b.v;
+sub phook' @z_left by phook b.z;
 
 sub r' @a_left by r r.a;
 sub r' @b_left by r r.b;
@@ -1099,6 +1066,12 @@ sub w' @z_left by w v.z;
 #sub yhook' [@s_left @v_left @x_left] by yhook a.s;
 #sub yhook' @z_left by yhook k.z;
 
+#sub ystroke' @c_left by yhook a.a;
+#sub ystroke' [@n_left @u_left @p_left @i_left @f_left] by yhook y.n;
+#sub ystroke' [@a_left @b_left ] by yhook y.a;
+#sub ystroke' [@s_left @v_left @x_left] by yhook a.s;
+#sub ystroke' @z_left by yhook k.z;
+
 sub z' @a_left by z z.a;
 sub z' @c_left by z z.c;
 sub z' @s_left by z z.s;
@@ -1115,6 +1088,13 @@ sub zstroke' @x_left by zstroke z.v;
 sub zstroke' @z_left by zstroke z.z;
 sub zstroke' [@b_left @n_left @i_left] by zstroke z.b;
 
+sub bar' slash by zigstem;
+sub slash bar' by zigstem;
+sub slash' bar by zig.zig;
+sub bar slash' by zig.zig;
+sub zigstem slash' space by zig.exit;
+sub zig.zig bar' by zigstem;
+sub zigstem slash' by zig.zig;
 sub zigstem zigstem' by zig.zig zigstem;
 sub zigstem space' by zig.exit space;
 ";
@@ -2487,7 +2467,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (248,-13);
+pos = (256,-13);
 ref = caroncomb.case;
 }
 );
@@ -5730,7 +5710,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (297,0);
+pos = (305,0);
 ref = caroncomb.case;
 }
 );
@@ -6594,7 +6574,7 @@ shapes = (
 ref = DZ;
 },
 {
-pos = (934,0);
+pos = (942,0);
 ref = caroncomb.case;
 }
 );
@@ -6629,7 +6609,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (262,0);
+pos = (270,0);
 ref = caroncomb.case;
 }
 );
@@ -7660,7 +7640,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (200,0);
+pos = (208,0);
 ref = caroncomb.case;
 }
 );
@@ -9982,7 +9962,7 @@ shapes = (
 ref = Ezh;
 },
 {
-pos = (183,0);
+pos = (191,0);
 ref = caroncomb.case;
 }
 );
@@ -10711,7 +10691,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (283,0);
+pos = (291,0);
 ref = caroncomb.case;
 }
 );
@@ -11861,7 +11841,7 @@ shapes = (
 ref = H;
 },
 {
-pos = (307,0);
+pos = (315,0);
 ref = caroncomb.case;
 }
 );
@@ -13046,7 +13026,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (76,0);
+pos = (84,0);
 ref = caroncomb.case;
 }
 );
@@ -14639,7 +14619,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (223,0);
+pos = (231,0);
 ref = caroncomb.case;
 }
 );
@@ -15162,7 +15142,7 @@ unicode = 42816;
 glyphname = L;
 kernLeft = KO_L;
 kernRight = KO_L;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:19:51 +0000";
 layers = (
 {
 anchors = (
@@ -15176,7 +15156,7 @@ pos = (234,326);
 },
 {
 name = top;
-pos = (241,652);
+pos = (165,652);
 },
 {
 name = topright;
@@ -15230,7 +15210,7 @@ pos = (239,326);
 },
 {
 name = top;
-pos = (246,632);
+pos = (187,632);
 },
 {
 name = topright;
@@ -15319,7 +15299,7 @@ unicode = 455;
 {
 glyphname = Lacute;
 kernLeft = KO_L;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:19:52 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -15341,7 +15321,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (187,-20);
+pos = (128,-20);
 ref = acutecomb.case;
 }
 );
@@ -15602,7 +15582,7 @@ unicode = 7734;
 },
 {
 glyphname = Ldotbelowmacron;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:19:51 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -15615,7 +15595,7 @@ pos = (195,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (86,0);
+pos = (10,0);
 ref = macroncomb.case;
 }
 );
@@ -15632,7 +15612,7 @@ pos = (109,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (69,-20);
+pos = (10,-20);
 ref = macroncomb.case;
 }
 );
@@ -17007,7 +16987,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (343,-6);
+pos = (351,-6);
 ref = caroncomb.case;
 }
 );
@@ -18561,7 +18541,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (293,0);
+pos = (301,0);
 ref = caroncomb.case;
 }
 );
@@ -21654,7 +21634,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (203,0);
+pos = (211,0);
 ref = caroncomb.case;
 }
 );
@@ -22577,7 +22557,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (190,0);
+pos = (198,0);
 ref = caroncomb.case;
 }
 );
@@ -22611,7 +22591,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (190,0);
+pos = (198,0);
 ref = caroncomb.case;
 },
 {
@@ -23632,7 +23612,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (182,0);
+pos = (190,0);
 ref = caroncomb.case;
 }
 );
@@ -24755,7 +24735,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (277,-13);
+pos = (285,-13);
 ref = caroncomb.case;
 }
 );
@@ -28449,7 +28429,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (206,0);
+pos = (214,0);
 ref = caroncomb.case;
 }
 );
@@ -32741,7 +32721,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (280,0);
+pos = (321,0);
 ref = acutecomb;
 }
 );
@@ -35627,7 +35607,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (432,0);
+pos = (473,0);
 ref = acutecomb;
 }
 );
@@ -36982,7 +36962,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (227,0);
+pos = (268,0);
 ref = acutecomb;
 }
 );
@@ -37447,7 +37427,7 @@ pos = (201,0);
 ref = cedillacomb;
 },
 {
-pos = (227,0);
+pos = (268,0);
 ref = acutecomb;
 }
 );
@@ -40437,7 +40417,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (239,0);
+pos = (280,0);
 ref = acutecomb;
 }
 );
@@ -43611,7 +43591,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (274,0);
+pos = (315,0);
 ref = acutecomb;
 }
 );
@@ -45331,7 +45311,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (86,82);
+pos = (94,82);
 ref = caroncomb.case;
 }
 );
@@ -46155,7 +46135,7 @@ KernOnName = i;
 glyphname = idotless;
 kernLeft = KO_iota;
 kernRight = KO_iota;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:45:21 +0000";
 layers = (
 {
 anchors = (
@@ -46234,7 +46214,7 @@ pos = (224,10);
 },
 {
 name = top;
-pos = (161,524);
+pos = (209,525);
 },
 {
 name = topright;
@@ -46327,7 +46307,7 @@ width = 312;
 glyphname = iacute;
 kernLeft = KO_iacute;
 kernRight = KO_iacute;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:48:43 +0000";
 layers = (
 {
 background = {
@@ -46407,7 +46387,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (89,0);
+pos = (130,0);
 ref = acutecomb;
 }
 );
@@ -46491,7 +46471,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (85,0);
+pos = (133,1);
 ref = acutecomb;
 }
 );
@@ -46527,7 +46507,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (20,0);
+pos = (68,1);
 ref = brevecomb;
 }
 );
@@ -46562,7 +46542,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (34,0);
+pos = (82,1);
 ref = caroncomb;
 }
 );
@@ -46757,7 +46737,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (14,0);
+pos = (62,1);
 ref = circumflexcomb;
 }
 );
@@ -46791,7 +46771,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-75,0);
+pos = (-27,1);
 ref = dblgravecomb;
 }
 );
@@ -47012,7 +46992,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-29,0);
+pos = (19,1);
 ref = dieresiscomb;
 }
 );
@@ -47037,7 +47017,7 @@ pos = (22,0);
 ref = dieresiscomb;
 },
 {
-pos = (107,124);
+pos = (148,124);
 ref = acutecomb;
 }
 );
@@ -47050,11 +47030,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-29,0);
+pos = (19,1);
 ref = dieresiscomb;
 },
 {
-pos = (103,169);
+pos = (151,170);
 ref = acutecomb;
 }
 );
@@ -47089,7 +47069,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (38,0);
+pos = (86,1);
 ref = dotaccentcomb;
 }
 );
@@ -47229,7 +47209,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (11,0);
+pos = (59,1);
 ref = gravecomb;
 }
 );
@@ -47265,7 +47245,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (89,0);
+pos = (137,1);
 ref = hookabovecomb;
 }
 );
@@ -47298,7 +47278,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (44,0);
+pos = (92,1);
 ref = breveinvertedcomb;
 }
 );
@@ -47332,7 +47312,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-15,0);
+pos = (33,1);
 ref = macroncomb;
 }
 );
@@ -47880,7 +47860,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-6,0);
+pos = (42,1);
 ref = tildecomb;
 }
 );
@@ -47968,7 +47948,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (89,0);
+pos = (130,0);
 ref = acute;
 },
 {
@@ -47976,7 +47956,7 @@ pos = (312,0);
 ref = jdotless;
 },
 {
-pos = (427,0);
+pos = (468,0);
 ref = acute;
 }
 );
@@ -47989,7 +47969,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (85,0);
+pos = (133,1);
 ref = acute;
 },
 {
@@ -48347,7 +48327,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (115,0);
+pos = (156,0);
 ref = acutecomb;
 }
 );
@@ -48380,7 +48360,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (115,0);
+pos = (156,0);
 ref = acutecomb;
 }
 );
@@ -48898,7 +48878,7 @@ unicode = 607;
 },
 {
 glyphname = jstroke;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:48:05 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -48964,22 +48944,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(23,293,o),
-(290,294,o),
-(295,294,cs),
-(304,294,o),
-(309,313,o),
-(309,331,cs),
-(309,337,o),
-(306,341,o),
-(301,341,c),
-(28,341,l),
-(19,341,o),
-(13,321,o),
-(13,303,cs),
-(13,297,o),
-(15,293,o),
-(20,293,cs)
+(43,293,o),
+(250,294,o),
+(255,294,cs),
+(264,294,o),
+(269,313,o),
+(269,331,cs),
+(269,337,o),
+(266,341,o),
+(261,341,c),
+(48,341,l),
+(39,341,o),
+(33,321,o),
+(33,303,cs),
+(33,297,o),
+(35,293,o),
+(40,293,cs)
 );
 }
 );
@@ -49049,22 +49029,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(2,254,o),
-(311,255,o),
-(316,255,cs),
-(325,255,o),
-(336,274,o),
-(336,332,cs),
-(336,338,o),
-(333,342,o),
-(328,342,c),
-(9,342,l),
-(0,342,o),
-(-8,282,o),
-(-8,264,cs),
-(-8,258,o),
-(-6,254,o),
-(-1,254,cs)
+(-21,254,o),
+(288,255,o),
+(293,255,cs),
+(302,255,o),
+(313,274,o),
+(313,332,cs),
+(313,338,o),
+(310,342,o),
+(305,342,c),
+(-14,342,l),
+(-23,342,o),
+(-31,282,o),
+(-31,264,cs),
+(-31,258,o),
+(-29,254,o),
+(-24,254,cs)
 );
 }
 );
@@ -49356,7 +49336,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (86,82);
+pos = (94,82);
 ref = caroncomb.case;
 }
 );
@@ -50651,7 +50631,7 @@ unicode = 410;
 },
 {
 glyphname = lbelt;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:17:11 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -50661,7 +50641,7 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (-121,196);
+pos = (-51,196);
 ref = belt_part;
 }
 );
@@ -51970,7 +51950,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (439,0);
+pos = (480,0);
 ref = acutecomb;
 }
 );
@@ -52828,7 +52808,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (275,-25);
+pos = (316,-25);
 ref = acutecomb;
 }
 );
@@ -54097,7 +54077,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (249,0);
+pos = (290,0);
 ref = acutecomb;
 }
 );
@@ -55123,7 +55103,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (249,0);
+pos = (290,0);
 ref = acutecomb;
 }
 );
@@ -56207,7 +56187,7 @@ shapes = (
 ref = oslash;
 },
 {
-pos = (242,0);
+pos = (283,0);
 ref = acutecomb;
 }
 );
@@ -57201,7 +57181,7 @@ shapes = (
 ref = p;
 },
 {
-pos = (257,-10);
+pos = (298,-10);
 ref = acutecomb;
 }
 );
@@ -58444,7 +58424,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (212,0);
+pos = (253,0);
 ref = acutecomb;
 }
 );
@@ -59658,7 +59638,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (175,0);
+pos = (216,0);
 ref = acutecomb;
 }
 );
@@ -59691,11 +59671,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (175,0);
+pos = (216,0);
 ref = acutecomb;
 },
 {
-pos = (207,177);
+pos = (248,177);
 ref = dotaccentcomb;
 }
 );
@@ -60280,7 +60260,7 @@ unicode = 223;
 },
 {
 glyphname = sobliquestroke;
-lastChange = "2024-08-30 00:24:43 +0000";
+lastChange = "2025-04-12 06:18:05 +0000";
 layers = (
 {
 anchors = (
@@ -60302,9 +60282,9 @@ nodes = (
 (352,47,o),
 (352,139,cs),
 (352,199,o),
-(324,233,o),
-(258,273,cs),
-(170,327,o),
+(324,231,o),
+(258,271,cs),
+(170,325,o),
 (139,355,o),
 (139,407,cs),
 (139,466,o),
@@ -60326,9 +60306,9 @@ nodes = (
 (87,441,o),
 (87,393,cs),
 (87,321,o),
-(122,283,o),
-(199,236,cs),
-(260,199,o),
+(122,285,o),
+(199,238,cs),
+(260,201,o),
 (303,170,o),
 (303,112,cs),
 (303,50,o),
@@ -60397,10 +60377,10 @@ nodes = (
 (470,61,o),
 (470,174,cs),
 (470,221,o),
-(460,258,o),
-(426,290,cs),
-(347,364,o),
-(229,350,o),
+(460,238,o),
+(426,270,cs),
+(347,344,o),
+(229,330,o),
 (229,399,cs),
 (229,416,o),
 (251,427,o),
@@ -60421,10 +60401,10 @@ nodes = (
 (58,437,o),
 (58,339,cs),
 (58,293,o),
-(73,245,o),
-(107,215,cs),
-(192,140,o),
-(290,160,o),
+(73,275,o),
+(107,245,cs),
+(192,170,o),
+(290,190,o),
 (290,113,cs),
 (290,96,o),
 (268,85,o),
@@ -62537,7 +62517,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (290,0);
+pos = (331,0);
 ref = acutecomb;
 }
 );
@@ -63345,7 +63325,7 @@ pos = (223,0);
 ref = dieresiscomb;
 },
 {
-pos = (308,124);
+pos = (349,124);
 ref = acutecomb;
 }
 );
@@ -63788,7 +63768,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (290,0);
+pos = (331,0);
 ref = acutecomb;
 }
 );
@@ -65958,7 +65938,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (404,0);
+pos = (445,0);
 ref = acutecomb;
 }
 );
@@ -66972,7 +66952,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (266,-25);
+pos = (307,-25);
 ref = acutecomb;
 }
 );
@@ -68230,7 +68210,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (188,0);
+pos = (229,0);
 ref = acutecomb;
 }
 );
@@ -74214,7 +74194,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (38,0);
+pos = (86,1);
 ref = dotaccentcomb;
 },
 {
@@ -80555,13 +80535,13 @@ unicode = 64258;
 glyphname = fi.loclEWE;
 kernLeft = KO_f;
 kernRight = KO_i;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = caret_1;
-pos = (-7630,0);
+pos = (-8422,0);
 }
 );
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -80580,7 +80560,7 @@ width = 675;
 anchors = (
 {
 name = caret_1;
-pos = (-2590,0);
+pos = (-2878,0);
 }
 );
 background = {
@@ -80588,128 +80568,128 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-2848,-244,o),
-(-2794,-229,o),
-(-2746,-185,c),
-(-2696,-139,o),
-(-2657,-61,o),
-(-2653,65,c),
-(-2642,415,l),
-(-2519,415,l),
-(-2496,415,o),
-(-2487,448,o),
-(-2483,473,c),
-(-2488,391,o),
-(-2503,127,o),
-(-2503,112,c),
-(-2503,87,o),
-(-2501,76,o),
-(-2500,69,c),
-(-2493,18,o),
-(-2390,-13,o),
-(-2372,-13,c),
-(-2328,-13,o),
-(-2231,104,o),
-(-2209,137,c),
-(-2202,147,o),
-(-2198,157,o),
-(-2198,168,c),
-(-2198,187,o),
-(-2215,211,o),
-(-2226,211,c),
-(-2230,211,o),
-(-2232,209,o),
-(-2238,201,c),
-(-2245,192,o),
-(-2264,168,o),
-(-2272,168,c),
-(-2280,168,o),
-(-2283,173,o),
-(-2283,226,c),
-(-2283,242,o),
-(-2265,421,o),
-(-2265,433,c),
-(-2265,494,o),
-(-2368,524,o),
-(-2449,524,c),
-(-2473,524,o),
-(-2482,516,o),
-(-2482,502,c),
-(-2482,499,l),
-(-2643,499,l),
-(-2643,511,o),
-(-2643,524,o),
-(-2643,536,c),
-(-2643,644,o),
-(-2619,661,o),
-(-2586,661,c),
-(-2572,661,o),
-(-2560,661,o),
-(-2548,659,c),
-(-2543,658,o),
-(-2540,658,o),
-(-2537,658,c),
-(-2527,658,o),
-(-2519,674,o),
-(-2519,690,c),
-(-2519,713,o),
-(-2523,730,o),
-(-2538,738,c),
-(-2553,746,o),
-(-2594,756,o),
-(-2641,756,c),
-(-2690,756,o),
-(-2754,751,o),
-(-2807,704,c),
-(-2859,658,o),
-(-2866,593,o),
-(-2866,534,c),
-(-2866,499,l),
-(-2907,499,l),
-(-2922,499,o),
-(-2933,477,o),
-(-2933,441,c),
-(-2933,418,o),
-(-2930,415,o),
-(-2920,415,c),
-(-2861,415,l),
-(-2861,146,l),
-(-2861,-90,o),
-(-2864,-151,o),
-(-2939,-151,c),
-(-2948,-151,o),
-(-2962,-149,o),
-(-2973,-147,c),
-(-2980,-146,o),
-(-2985,-145,o),
-(-2988,-145,c),
-(-2997,-145,o),
-(-3006,-161,o),
-(-3006,-177,c),
-(-3006,-203,o),
-(-3003,-222,o),
-(-2982,-231,c),
-(-2960,-240,o),
-(-2927,-244,o),
-(-2898,-244,c)
+(-3136,-244,o),
+(-3082,-229,o),
+(-3034,-185,c),
+(-2984,-139,o),
+(-2945,-61,o),
+(-2941,65,c),
+(-2930,415,l),
+(-2807,415,l),
+(-2784,415,o),
+(-2775,448,o),
+(-2771,473,c),
+(-2776,391,o),
+(-2791,127,o),
+(-2791,112,c),
+(-2791,87,o),
+(-2789,76,o),
+(-2788,69,c),
+(-2781,18,o),
+(-2678,-13,o),
+(-2660,-13,c),
+(-2616,-13,o),
+(-2519,104,o),
+(-2497,137,c),
+(-2490,147,o),
+(-2486,157,o),
+(-2486,168,c),
+(-2486,187,o),
+(-2503,211,o),
+(-2514,211,c),
+(-2518,211,o),
+(-2520,209,o),
+(-2526,201,c),
+(-2533,192,o),
+(-2552,168,o),
+(-2560,168,c),
+(-2568,168,o),
+(-2571,173,o),
+(-2571,226,c),
+(-2571,242,o),
+(-2553,421,o),
+(-2553,433,c),
+(-2553,494,o),
+(-2656,524,o),
+(-2737,524,c),
+(-2761,524,o),
+(-2770,516,o),
+(-2770,502,c),
+(-2770,499,l),
+(-2931,499,l),
+(-2931,511,o),
+(-2931,524,o),
+(-2931,536,c),
+(-2931,644,o),
+(-2907,661,o),
+(-2874,661,c),
+(-2860,661,o),
+(-2848,661,o),
+(-2836,659,c),
+(-2831,658,o),
+(-2828,658,o),
+(-2825,658,c),
+(-2815,658,o),
+(-2807,674,o),
+(-2807,690,c),
+(-2807,713,o),
+(-2811,730,o),
+(-2826,738,c),
+(-2841,746,o),
+(-2882,756,o),
+(-2929,756,c),
+(-2978,756,o),
+(-3042,751,o),
+(-3095,704,c),
+(-3147,658,o),
+(-3154,593,o),
+(-3154,534,c),
+(-3154,499,l),
+(-3195,499,l),
+(-3210,499,o),
+(-3221,477,o),
+(-3221,441,c),
+(-3221,418,o),
+(-3218,415,o),
+(-3208,415,c),
+(-3149,415,l),
+(-3149,146,l),
+(-3149,-90,o),
+(-3152,-151,o),
+(-3227,-151,c),
+(-3236,-151,o),
+(-3250,-149,o),
+(-3261,-147,c),
+(-3268,-146,o),
+(-3273,-145,o),
+(-3276,-145,c),
+(-3285,-145,o),
+(-3294,-161,o),
+(-3294,-177,c),
+(-3294,-203,o),
+(-3291,-222,o),
+(-3270,-231,c),
+(-3248,-240,o),
+(-3215,-244,o),
+(-3186,-244,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(-2323,594,o),
-(-2246,630,o),
-(-2246,679,c),
-(-2246,680,l),
-(-2246,737,o),
-(-2300,756,o),
-(-2354,756,c),
-(-2422,756,o),
-(-2487,736,o),
-(-2487,675,c),
-(-2487,640,o),
-(-2446,594,o),
-(-2381,594,c)
+(-2611,594,o),
+(-2534,630,o),
+(-2534,679,c),
+(-2534,680,l),
+(-2534,737,o),
+(-2588,756,o),
+(-2642,756,c),
+(-2710,756,o),
+(-2775,736,o),
+(-2775,675,c),
+(-2775,640,o),
+(-2734,594,o),
+(-2669,594,c)
 );
 }
 );
@@ -80735,13 +80715,13 @@ note = fi;
 glyphname = fl.loclEWE;
 kernLeft = KO_f;
 kernRight = KO_l;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = caret_1;
-pos = (-7649,0);
+pos = (-8441,0);
 }
 );
 background = {
@@ -80749,42 +80729,42 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-7446,-13,o),
-(-7361,88,o),
-(-7328,131,cs),
-(-7326,133,o),
-(-7325,137,o),
-(-7325,141,cs),
-(-7325,154,o),
-(-7335,170,o),
-(-7339,170,cs),
-(-7342,170,o),
-(-7343,167,o),
-(-7346,164,c),
-(-7367,136,o),
-(-7449,41,o),
-(-7468,41,cs),
-(-7480,41,o),
-(-7484,48,o),
-(-7484,89,cs),
-(-7484,202,o),
-(-7442,683,o),
-(-7442,729,cs),
-(-7442,747,o),
-(-7470,756,o),
-(-7491,756,cs),
-(-7499,756,o),
-(-7500,753,o),
-(-7500,748,cs),
-(-7505,471,o),
-(-7537,191,o),
-(-7539,63,cs),
-(-7539,40,o),
-(-7540,26,o),
-(-7537,20,cs),
-(-7532,9,o),
-(-7499,-13,o),
-(-7488,-13,cs)
+(-8238,-13,o),
+(-8153,88,o),
+(-8120,131,cs),
+(-8118,133,o),
+(-8117,137,o),
+(-8117,141,cs),
+(-8117,154,o),
+(-8127,170,o),
+(-8131,170,cs),
+(-8134,170,o),
+(-8135,167,o),
+(-8138,164,c),
+(-8159,136,o),
+(-8241,41,o),
+(-8260,41,cs),
+(-8272,41,o),
+(-8276,48,o),
+(-8276,89,cs),
+(-8276,202,o),
+(-8234,683,o),
+(-8234,729,cs),
+(-8234,747,o),
+(-8262,756,o),
+(-8283,756,cs),
+(-8291,756,o),
+(-8292,753,o),
+(-8292,748,cs),
+(-8297,471,o),
+(-8329,191,o),
+(-8331,63,cs),
+(-8331,40,o),
+(-8332,26,o),
+(-8329,20,cs),
+(-8324,9,o),
+(-8291,-13,o),
+(-8280,-13,cs)
 );
 }
 );
@@ -80805,7 +80785,7 @@ width = 670;
 anchors = (
 {
 name = caret_1;
-pos = (-2599,0);
+pos = (-2887,0);
 }
 );
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
@@ -83607,7 +83587,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-29,0);
+pos = (19,1);
 ref = dieresiscomb;
 }
 );
@@ -87006,7 +86986,7 @@ unicode = 42777;
 },
 {
 glyphname = dotslashmod;
-lastChange = "2024-03-28 03:58:43 +0000";
+lastChange = "2025-04-12 06:16:31 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -87090,7 +87070,7 @@ nodes = (
 );
 }
 );
-width = 422;
+width = 421;
 }
 );
 metricLeft = hyphen;
@@ -96655,7 +96635,7 @@ unicode = 8530;
 },
 {
 glyphname = zeroinferior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -96689,7 +96669,7 @@ R = superiors;
 },
 {
 glyphname = oneinferior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -96823,7 +96803,7 @@ R = superiors;
 },
 {
 glyphname = fiveinferior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -96858,7 +96838,7 @@ R = superiors;
 },
 {
 glyphname = sixinferior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -96893,7 +96873,7 @@ R = superiors;
 },
 {
 glyphname = seveninferior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -96928,7 +96908,7 @@ R = superiors;
 },
 {
 glyphname = eightinferior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -96963,7 +96943,7 @@ R = superiors;
 },
 {
 glyphname = nineinferior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -96999,7 +96979,7 @@ R = superiors;
 {
 glyphname = zerosuperior;
 kernLeft = KO_zerosuperior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -97564,7 +97544,7 @@ R = superiors;
 {
 glyphname = fivesuperior;
 kernLeft = KO_fivesuperior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -97600,7 +97580,7 @@ R = superiors;
 {
 glyphname = sixsuperior;
 kernLeft = KO_sixsuperior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -97636,7 +97616,7 @@ R = superiors;
 {
 glyphname = sevensuperior;
 kernLeft = KO_sevensuperior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -97672,7 +97652,7 @@ R = superiors;
 {
 glyphname = eightsuperior;
 kernLeft = KO_eightsuperior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -97708,7 +97688,7 @@ R = superiors;
 {
 glyphname = ninesuperior;
 kernLeft = KO_ninesuperior;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -118457,13 +118437,13 @@ metricRight = hyphen;
 },
 {
 glyphname = acutecomb;
-lastChange = "2024-09-08 06:21:07 +0000";
+lastChange = "2025-04-12 06:48:43 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (71,524);
+pos = (30,524);
 },
 {
 name = top;
@@ -120152,7 +120132,7 @@ unicode = 777;
 },
 {
 glyphname = verticallineabovecomb;
-lastChange = "2024-09-08 06:21:07 +0000";
+lastChange = "2025-04-12 06:16:31 +0000";
 layers = (
 {
 anchors = (
@@ -120196,7 +120176,7 @@ width = 80;
 anchors = (
 {
 name = _top;
-pos = (78,524);
+pos = (77,524);
 }
 );
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
@@ -120204,31 +120184,31 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(72,572,o),
-(113,584,o),
-(125,596,cs),
-(136,607,o),
-(142,616,o),
-(145,632,cs),
-(149,652,o),
-(153,691,o),
-(154,723,cs),
-(156,767,o),
-(147,785,o),
-(138,794,cs),
-(122,811,o),
-(44,805,o),
-(23,784,cs),
-(17,778,o),
-(13,767,o),
-(15,742,cs),
-(19,695,o),
-(26,620,o),
-(24,590,c)
+(71,572,o),
+(112,584,o),
+(124,596,cs),
+(135,607,o),
+(141,616,o),
+(144,632,cs),
+(148,652,o),
+(152,691,o),
+(153,723,cs),
+(155,767,o),
+(146,785,o),
+(137,794,cs),
+(121,811,o),
+(43,805,o),
+(22,784,cs),
+(16,778,o),
+(12,767,o),
+(14,742,cs),
+(18,695,o),
+(25,620,o),
+(23,590,c)
 );
 }
 );
-width = 169;
+width = 168;
 }
 );
 metricLeft = hyphen;
@@ -127627,17 +127607,17 @@ metricRight = hyphen;
 },
 {
 glyphname = caroncomb.case;
-lastChange = "2024-09-08 06:21:07 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (107,652);
+pos = (99,652);
 },
 {
 name = top;
-pos = (140,893);
+pos = (132,893);
 }
 );
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -131140,7 +131120,7 @@ shapes = (
 ref = circumflexcomb;
 },
 {
-pos = (97,242);
+pos = (138,242);
 ref = acutecomb;
 }
 );
@@ -133590,29 +133570,29 @@ width = 417;
 glyphname = ff.loclEWE;
 kernLeft = KO_f;
 kernRight = KO_f;
-lastChange = "2024-09-08 07:46:30 +0000";
+lastChange = "2025-04-12 06:20:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-pos = (-10117,0);
+pos = (-11129,0);
 },
 {
 name = bottom_2;
-pos = (-9776,0);
+pos = (-10788,0);
 },
 {
 name = caret_1;
-pos = (-9947,0);
+pos = (-10959,0);
 },
 {
 name = top_1;
-pos = (-10117,756);
+pos = (-11129,756);
 },
 {
 name = top_2;
-pos = (-9776,756);
+pos = (-10788,756);
 }
 );
 background = {
@@ -133620,82 +133600,82 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-10089,-28,l),
-(-10089,453,l),
-(-9793,453,l),
-(-9793,40,l),
-(-9734,-28,l),
-(-9734,453,l),
-(-9535,453,ls),
-(-9519,453,o),
-(-9512,474,o),
-(-9512,491,cs),
-(-9512,497,o),
-(-9515,499,o),
-(-9520,499,cs),
-(-9734,499,l),
-(-9731,571,ls),
-(-9727,668,o),
-(-9694,704,o),
-(-9643,704,cs),
-(-9581,704,o),
-(-9532,687,o),
-(-9526,685,cs),
-(-9523,684,o),
-(-9510,678,o),
-(-9505,678,cs),
-(-9499,678,o),
-(-9495,691,o),
-(-9495,703,cs),
-(-9495,709,o),
-(-9496,713,o),
-(-9501,717,cs),
-(-9526,734,o),
-(-9577,756,o),
-(-9619,756,cs),
-(-9660,756,o),
-(-9698,736,o),
-(-9733,703,cs),
-(-9777,662,o),
-(-9798,606,o),
-(-9798,504,cs),
-(-9798,499,l),
-(-10089,499,l),
-(-10086,571,ls),
-(-10082,668,o),
-(-10049,704,o),
-(-9998,704,cs),
-(-9936,704,o),
-(-9887,687,o),
-(-9881,685,cs),
-(-9878,684,o),
-(-9865,678,o),
-(-9860,678,cs),
-(-9854,678,o),
-(-9850,691,o),
-(-9850,703,cs),
-(-9850,709,o),
-(-9851,713,o),
-(-9856,717,cs),
-(-9881,734,o),
-(-9932,756,o),
-(-9974,756,cs),
-(-10015,756,o),
-(-10053,736,o),
-(-10088,703,cs),
-(-10132,662,o),
-(-10153,606,o),
-(-10153,504,cs),
-(-10153,499,l),
-(-10227,499,ls),
-(-10243,499,o),
-(-10249,478,o),
-(-10249,461,cs),
-(-10249,454,o),
-(-10247,453,o),
-(-10242,453,cs),
-(-10148,453,l),
-(-10148,40,l)
+(-11101,-28,l),
+(-11101,453,l),
+(-10805,453,l),
+(-10805,40,l),
+(-10746,-28,l),
+(-10746,453,l),
+(-10547,453,ls),
+(-10531,453,o),
+(-10524,474,o),
+(-10524,491,cs),
+(-10524,497,o),
+(-10527,499,o),
+(-10532,499,cs),
+(-10746,499,l),
+(-10743,571,ls),
+(-10739,668,o),
+(-10706,704,o),
+(-10655,704,cs),
+(-10593,704,o),
+(-10544,687,o),
+(-10538,685,cs),
+(-10535,684,o),
+(-10522,678,o),
+(-10517,678,cs),
+(-10511,678,o),
+(-10507,691,o),
+(-10507,703,cs),
+(-10507,709,o),
+(-10508,713,o),
+(-10513,717,cs),
+(-10538,734,o),
+(-10589,756,o),
+(-10631,756,cs),
+(-10672,756,o),
+(-10710,736,o),
+(-10745,703,cs),
+(-10789,662,o),
+(-10810,606,o),
+(-10810,504,cs),
+(-10810,499,l),
+(-11101,499,l),
+(-11098,571,ls),
+(-11094,668,o),
+(-11061,704,o),
+(-11010,704,cs),
+(-10948,704,o),
+(-10899,687,o),
+(-10893,685,cs),
+(-10890,684,o),
+(-10877,678,o),
+(-10872,678,cs),
+(-10866,678,o),
+(-10862,691,o),
+(-10862,703,cs),
+(-10862,709,o),
+(-10863,713,o),
+(-10868,717,cs),
+(-10893,734,o),
+(-10944,756,o),
+(-10986,756,cs),
+(-11027,756,o),
+(-11065,736,o),
+(-11100,703,cs),
+(-11144,662,o),
+(-11165,606,o),
+(-11165,504,cs),
+(-11165,499,l),
+(-11239,499,ls),
+(-11255,499,o),
+(-11261,478,o),
+(-11261,461,cs),
+(-11261,454,o),
+(-11259,453,o),
+(-11254,453,cs),
+(-11160,453,l),
+(-11160,40,l)
 );
 }
 );
@@ -133716,124 +133696,124 @@ width = 682;
 anchors = (
 {
 name = bottom_1;
-pos = (-2813,0);
+pos = (-3133,0);
 },
 {
 name = bottom_2;
-pos = (-2460,0);
+pos = (-2780,0);
 },
 {
 name = caret_1;
-pos = (-2637,0);
+pos = (-2957,0);
 },
 {
 name = top_1;
-pos = (-2813,756);
+pos = (-3133,756);
 },
 {
 name = top_2;
-pos = (-2460,756);
+pos = (-2780,756);
 }
 );
 background = {
 anchors = (
 {
 name = bottom;
-pos = (-2862,0);
+pos = (-3182,0);
 },
 {
 name = caret_1;
-pos = (-2628,0);
+pos = (-2948,0);
 },
 {
 name = top;
-pos = (-2856,686);
+pos = (-3176,686);
 }
 );
 shapes = (
 {
 closed = 1;
 nodes = (
-(-2721,65,l),
-(-2710,415,l),
-(-2537,415,l),
-(-2537,146,l),
-(-2329,65,l),
-(-2318,415,l),
-(-2239,415,ls),
-(-2224,415,o),
-(-2213,437,o),
-(-2213,473,cs),
-(-2213,496,o),
-(-2216,499,o),
-(-2226,499,cs),
-(-2319,499,l),
-(-2319,536,ls),
-(-2319,644,o),
-(-2295,661,o),
-(-2262,661,cs),
-(-2248,661,o),
-(-2238,660,o),
-(-2228,659,cs),
-(-2220,658,o),
-(-2216,657,o),
-(-2213,657,cs),
-(-2203,657,o),
-(-2195,674,o),
-(-2195,690,cs),
-(-2195,713,o),
-(-2199,730,o),
-(-2214,738,cs),
-(-2229,746,o),
-(-2270,756,o),
-(-2317,756,cs),
-(-2366,756,o),
-(-2430,751,o),
-(-2483,704,cs),
-(-2535,658,o),
-(-2542,593,o),
-(-2542,534,cs),
-(-2542,499,l),
-(-2711,499,l),
-(-2711,536,ls),
-(-2711,644,o),
-(-2687,661,o),
-(-2654,661,cs),
-(-2640,661,o),
-(-2630,660,o),
-(-2620,659,cs),
-(-2612,658,o),
-(-2608,657,o),
-(-2605,657,cs),
-(-2595,657,o),
-(-2587,674,o),
-(-2587,690,cs),
-(-2587,713,o),
-(-2591,730,o),
-(-2606,738,cs),
-(-2621,746,o),
-(-2662,756,o),
-(-2709,756,cs),
-(-2758,756,o),
-(-2822,751,o),
-(-2875,704,cs),
-(-2927,658,o),
-(-2934,593,o),
-(-2934,534,cs),
-(-2934,499,l),
-(-2975,499,ls),
-(-2990,499,o),
-(-3001,477,o),
-(-3001,441,cs),
-(-3001,418,o),
-(-2998,415,o),
-(-2988,415,cs),
-(-2929,415,l),
-(-2929,146,l)
+(-3041,65,l),
+(-3030,415,l),
+(-2857,415,l),
+(-2857,146,l),
+(-2649,65,l),
+(-2638,415,l),
+(-2559,415,ls),
+(-2544,415,o),
+(-2533,437,o),
+(-2533,473,cs),
+(-2533,496,o),
+(-2536,499,o),
+(-2546,499,cs),
+(-2639,499,l),
+(-2639,536,ls),
+(-2639,644,o),
+(-2615,661,o),
+(-2582,661,cs),
+(-2568,661,o),
+(-2558,660,o),
+(-2548,659,cs),
+(-2540,658,o),
+(-2536,657,o),
+(-2533,657,cs),
+(-2523,657,o),
+(-2515,674,o),
+(-2515,690,cs),
+(-2515,713,o),
+(-2519,730,o),
+(-2534,738,cs),
+(-2549,746,o),
+(-2590,756,o),
+(-2637,756,cs),
+(-2686,756,o),
+(-2750,751,o),
+(-2803,704,cs),
+(-2855,658,o),
+(-2862,593,o),
+(-2862,534,cs),
+(-2862,499,l),
+(-3031,499,l),
+(-3031,536,ls),
+(-3031,644,o),
+(-3007,661,o),
+(-2974,661,cs),
+(-2960,661,o),
+(-2950,660,o),
+(-2940,659,cs),
+(-2932,658,o),
+(-2928,657,o),
+(-2925,657,cs),
+(-2915,657,o),
+(-2907,674,o),
+(-2907,690,cs),
+(-2907,713,o),
+(-2911,730,o),
+(-2926,738,cs),
+(-2941,746,o),
+(-2982,756,o),
+(-3029,756,cs),
+(-3078,756,o),
+(-3142,751,o),
+(-3195,704,cs),
+(-3247,658,o),
+(-3254,593,o),
+(-3254,534,cs),
+(-3254,499,l),
+(-3295,499,ls),
+(-3310,499,o),
+(-3321,477,o),
+(-3321,441,cs),
+(-3321,418,o),
+(-3318,415,o),
+(-3308,415,cs),
+(-3249,415,l),
+(-3249,146,l)
 );
 },
 {
-pos = (-2990,0);
+pos = (-3310,0);
 ref = f.loclEWE;
 }
 );
