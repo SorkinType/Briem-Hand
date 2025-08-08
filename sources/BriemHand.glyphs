@@ -2,7 +2,8 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"c/c.b n"
+"c/c.v v",
+c
 );
 customParameters = (
 {
@@ -366,7 +367,12 @@ code = "lookup ccmp_latn_1 {
 	sub fl by f l;
 } ccmp_latn_1;
 
+lookup decompositions {
+	sub ccedilla by c cedillacomb;
+} decompositions;
 lookup joiners {
+	lookupflag IgnoreMarks;
+	
 @a.left = [a aacute agrave acircumflex adieresis aring atilde d g q ae];
 @o.left = [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth];
 @straight.low.left = [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis];
@@ -639,7 +645,8 @@ sub z' s by z z.s;
 sub z' [v w x z] by z z.v;
 
 
-} joiners;";
+} joiners;
+";
 tag = ccmp;
 }
 );
@@ -9221,9 +9228,19 @@ unicode = 98;
 },
 {
 glyphname = c;
-lastChange = "2025-08-08 08:22:48 +0000";
+lastChange = "2025-08-08 08:40:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (243,0);
+},
+{
+name = top;
+pos = (298,524);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -35538,7 +35555,7 @@ unicode = 57354;
 },
 {
 glyphname = c.a;
-lastChange = "2025-05-29 09:07:02 +0000";
+lastChange = "2025-08-08 08:35:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -35546,28 +35563,26 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(156.186,330.021,o),
-(123.785,275.099,o),
-(75.5,207.5,cs),
-(26.449,138.828,o),
-(-20.449,85.034,o),
-(-49,66,cs),
-(-60.006,57.746,o),
-(-55.202,21.719,o),
-(-42,27,cs),
-(-12.714,38.714,o),
-(37.984,96.132,o),
-(82,154.5,cs),
-(127.206,214.447,o),
-(163.747,277.113,o),
-(172,306,cs),
-(179.819,339.881,o),
-(162.672,367.033,o),
-(160,351,cs)
+(6,53,o),
+(58,121,o),
+(100,191,cs),
+(135,249,o),
+(177,317,o),
+(181,339,c),
+(181,353,o),
+(184,375,o),
+(162,376,c),
+(129,296,o),
+(77,209,o),
+(22,140,cs),
+(7,121,o),
+(-35,67,o),
+(-69,49,c),
+(-63,14,l)
 );
 }
 );
-width = 43;
+width = 40;
 }
 );
 note = c.a;
@@ -35612,7 +35627,7 @@ unicode = 57356;
 },
 {
 glyphname = c.c;
-lastChange = "2025-05-29 09:07:02 +0000";
+lastChange = "2025-08-08 08:32:11 +0000";
 layers = (
 {
 layerId = m01;
@@ -35620,20 +35635,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(142.493,279.285,o),
-(13.027,109.936,o),
-(-49,66,cs),
-(-59.718,57.962,o),
-(-55.47,21.612,o),
+(145,301,o),
+(94,224,o),
+(41,160,cs),
+(8,119,o),
+(-25,83,o),
+(-49,64,cs),
+(-60,55,o),
+(-55,17,o),
 (-42,27,cs),
-(-13.397,40.348,o),
-(33.019,89.799,o),
-(72,139.5,cs),
-(111.884,190.352,o),
-(141.662,236.646,o),
+(-13,49,o),
+(30,89,o),
+(69,139,cs),
+(109,189,o),
+(142,237,o),
 (146,254,cs),
-(161.162,312.482,o),
-(154.576,375.332,o),
+(161,312,o),
+(155,375,o),
 (151,336,cs)
 );
 }
@@ -35646,7 +35664,7 @@ unicode = 57357;
 },
 {
 glyphname = c.s;
-lastChange = "2025-05-29 09:07:02 +0000";
+lastChange = "2025-08-08 08:36:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -35658,12 +35676,12 @@ nodes = (
 (101.773,260.178,o),
 (59,195,cs),
 (17.546,131.831,o),
-(-26.326,80.415,o),
-(-53,64,cs),
-(-63.611,56.042,o),
-(-55.177,21.729,o),
+(-28,77,o),
+(-53,60,cs),
+(-64,53,o),
+(-56,21,o),
 (-42,27,cs),
-(16.129,48.138,o),
+(-14,40,o),
 (154.353,237.138,o),
 (162,334,cs),
 (164.785,370.208,o),
@@ -35680,7 +35698,7 @@ unicode = 57358;
 },
 {
 glyphname = c.v;
-lastChange = "2025-05-29 09:07:02 +0000";
+lastChange = "2025-08-08 08:38:01 +0000";
 layers = (
 {
 layerId = m01;
@@ -35689,16 +35707,13 @@ shapes = (
 closed = 1;
 nodes = (
 (142.342,294.881,o),
-(23.937,118.812,o),
-(-50,66,cs),
-(-60.671,57.997,o),
-(-53.96,19.224,o),
+(18,117,o),
+(-50,63,cs),
+(-61,54,o),
+(-53,18,o),
 (-41,27,cs),
-(-8.555,44.304,o),
-(43.537,100.06,o),
-(92.5,180,cs),
-(140.8,258.857,o),
-(181,365.084,o),
+(60,102,o),
+(181,296,o),
 (181,469,cs),
 (181,480.474,o),
 (145,512.525,o),
@@ -39399,6 +39414,32 @@ width = 275;
 );
 note = exclam;
 unicode = 33;
+},
+{
+glyphname = cedillacomb;
+lastChange = "2025-08-08 08:39:48 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (34,0);
+},
+{
+name = bottom;
+pos = (34,-190);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = cedilla;
+}
+);
+width = 115;
+}
+);
+unicode = 807;
 }
 );
 instances = (
