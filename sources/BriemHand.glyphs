@@ -358,7 +358,7 @@ exclam
 }
 );
 date = "2012-03-15 05:13:40 +0000";
-familyName = "Briem Handwriting";
+familyName = "Briem Hand";
 features = (
 {
 code = "lookup ccmp_latn_1 {
@@ -39975,7 +39975,7 @@ key = familyNames;
 values = (
 {
 language = ENG;
-value = "Briem Handwriting";
+value = "Briem Hand";
 }
 );
 },
