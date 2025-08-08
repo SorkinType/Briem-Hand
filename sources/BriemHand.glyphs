@@ -1,6 +1,9 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
+DisplayStrings = (
+"`ß"
+);
 customParameters = (
 {
 name = panose;
@@ -363,265 +366,280 @@ code = "lookup ccmp_latn_1 {
 	sub fl by f l;
 } ccmp_latn_1;
 
-sub a' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by a a.a;
-sub a' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by a a.b;
-sub a' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by a a.c;
+lookup joiners {
+@a.left = [a aacute agrave acircumflex adieresis aring atilde d g q ae];
+@o.left = [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth];
+@straight.low.left = [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis];
+@straight.high.left = [b f germandbls h k l t thorn];
+@straight.left = [@straight.high.left @straight.low.left];
+
+sub a' @a.left by a a.a;
+sub a' @straight.left by a a.b;
+sub a' @o.left by a a.c;
 sub a' s by a a.s;
 sub a' [v w x z] by a a.v;
-sub aacute' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by aacute a.a;
-sub aacute' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by aacute a.b;
-sub aacute' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by aacute a.c;
+sub aacute' @a.left by aacute a.a;
+sub aacute' @straight.left by aacute a.b;
+sub aacute' @o.left by aacute a.c;
 sub aacute' s by aacute a.s;
 sub aacute' [v w x z] by aacute a.v;
-sub acircumflex' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by acircumflex a.a;
-sub acircumflex' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by acircumflex a.b;
-sub acircumflex' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by acircumflex a.c;
+sub acircumflex' @a.left by acircumflex a.a;
+sub acircumflex' @straight.left by acircumflex a.b;
+sub acircumflex' @o.left by acircumflex a.c;
 sub acircumflex' s by acircumflex a.s;
 sub acircumflex' [v w x z] by acircumflex a.v;
-sub adieresis' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by adieresis a.a;
-sub adieresis' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by adieresis a.b;
-sub adieresis' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by adieresis a.c;
+sub adieresis' @a.left by adieresis a.a;
+sub adieresis' @straight.left by adieresis a.b;
+sub adieresis' @o.left by adieresis a.c;
 sub adieresis' s by adieresis a.s;
 sub adieresis' [v w x z] by adieresis a.v;
-sub ae' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ae e.a;
-sub ae' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ae e.b;
-sub ae' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ae e.c;
+sub ae' @a.left by ae e.a;
+sub ae' @straight.left by ae e.b;
+sub ae' @o.left by ae e.c;
 sub ae' s by ae e.s;
 sub ae' [v w x z] by ae e.v;
-sub agrave' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by agrave a.a;
-sub agrave' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by agrave a.b;
-sub agrave' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by agrave a.c;
+sub agrave' @a.left by agrave a.a;
+sub agrave' @straight.left by agrave a.b;
+sub agrave' @o.left by agrave a.c;
 sub agrave' s by agrave a.s;
 sub agrave' [v w x z] by agrave a.v;
-sub aring' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by aring a.a;
-sub aring' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by aring a.b;
-sub aring' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by aring a.c;
+sub aring' @a.left by aring a.a;
+sub aring' @straight.left by aring a.b;
+sub aring' @o.left by aring a.c;
 sub aring' s by aring a.s;
 sub aring' [v w x z] by aring a.v;
-sub atilde' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by atilde a.a;
-sub atilde' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by atilde a.b;
-sub atilde' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by atilde a.c;
+sub atilde' @a.left by atilde a.a;
+sub atilde' @straight.left by atilde a.b;
+sub atilde' @o.left by atilde a.c;
 sub atilde' s by atilde a.s;
 sub atilde' [v w x z] by atilde a.v;
-sub b' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by b b.a;
-sub b' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by b b.b;
-sub b' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by b b.c;
+sub b' @a.left by b b.a;
+sub b' @straight.left by b b.b;
+sub b' @o.left by b b.c;
 sub b' s by b b.s;
 sub b' [v w x z] by b b.v;
-sub c' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by c c.a;
-sub c' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by c c.b;
-sub c' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by c c.c;
+sub c' @a.left by c c.a;
+sub c' @straight.left by c c.b;
+sub c' @o.left by c c.c;
 sub c' s by c c.s;
 sub c' [v w x z] by c c.v;
-sub ccedilla' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ccedilla c.a;
-sub ccedilla' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ccedilla c.b;
-sub ccedilla' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ccedilla c.c;
+sub ccedilla' @a.left by ccedilla c.a;
+sub ccedilla' @straight.left by ccedilla c.b;
+sub ccedilla' @o.left by ccedilla c.c;
 sub ccedilla' s by ccedilla c.s;
 sub ccedilla' [v w x z] by ccedilla c.v;
-sub d' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by d a.a;
-sub d' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by d a.b;
-sub d' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by d a.c;
+sub d' @a.left by d a.a;
+sub d' @straight.left by d a.b;
+sub d' @o.left by d a.c;
 sub d' s by d a.s;
 sub d' [v w x z] by d a.v;
-sub e' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by e e.a;
-sub e' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by e e.b;
-sub e' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by e e.c;
+sub e' @a.left by e e.a;
+sub e' @straight.left by e e.b;
+sub e' @o.left by e e.c;
 sub e' s by e e.s;
 sub e' [v w x z] by e e.v;
-sub eacute' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by eacute e.a;
-sub eacute' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by eacute e.b;
-sub eacute' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by eacute e.c;
+sub eacute' @a.left by eacute e.a;
+sub eacute' @straight.left by eacute e.b;
+sub eacute' @o.left by eacute e.c;
 sub eacute' s by eacute e.s;
 sub eacute' [v w x z] by eacute e.v;
-sub ecircumflex' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ecircumflex e.a;
-sub ecircumflex' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ecircumflex e.b;
-sub ecircumflex' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ecircumflex e.c;
+sub ecircumflex' @a.left by ecircumflex e.a;
+sub ecircumflex' @straight.left by ecircumflex e.b;
+sub ecircumflex' @o.left by ecircumflex e.c;
 sub ecircumflex' s by ecircumflex e.s;
 sub ecircumflex' [v w x z] by ecircumflex e.v;
-sub edieresis' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by edieresis e.a;
-sub edieresis' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by edieresis e.b;
-sub edieresis' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by edieresis e.c;
+sub edieresis' @a.left by edieresis e.a;
+sub edieresis' @straight.left by edieresis e.b;
+sub edieresis' @o.left by edieresis e.c;
 sub edieresis' s by edieresis e.s;
 sub edieresis' [v w x z] by edieresis e.v;
-sub egrave' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by egrave e.a;
-sub egrave' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by egrave e.b;
-sub egrave' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by egrave e.c;
+sub egrave' @a.left by egrave e.a;
+sub egrave' @straight.left by egrave e.b;
+sub egrave' @o.left by egrave e.c;
 sub egrave' s by egrave e.s;
 sub egrave' [v w x z] by egrave e.v;
-sub f' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by f f.a;
-sub f' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by f f.b;
-sub f' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by f f.c;
+sub f' @a.left by f f.a;
+sub f' @straight.left by f f.b;
+sub f' @o.left by f f.c;
 sub f' s by f f.s;
-sub h' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by h a.a;
-sub h' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by h a.b;
-sub h' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by h a.c;
+
+sub germandbls' @a.left by germandbls s.a;
+sub germandbls' @o.left by germandbls s.c;
+sub germandbls' @straight.left by germandbls s.i;
+sub germandbls' s by germandbls s.s;
+sub germandbls' [v w x z] by germandbls s.v;
+
+sub h' @a.left by h a.a;
+sub h' @straight.left by h a.b;
+sub h' @o.left by h a.c;
 sub h' s by h a.s;
 sub h' [v w x z] by h a.v;
-sub i' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by i a.a;
-sub i' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by i a.b;
-sub i' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by i a.c;
+sub i' @a.left by i a.a;
+sub i' @straight.left by i a.b;
+sub i' @o.left by i a.c;
 sub i' s by i a.s;
 sub i' [v w x z] by i a.v;
-sub iacute' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by iacute a.a;
-sub iacute' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by iacute a.b;
-sub iacute' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by iacute a.c;
+sub iacute' @a.left by iacute a.a;
+sub iacute' @straight.left by iacute a.b;
+sub iacute' @o.left by iacute a.c;
 sub iacute' s by iacute a.s;
 sub iacute' [v w x z] by iacute a.v;
-sub icircumflex' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by icircumflex a.a;
-sub icircumflex' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by icircumflex a.b;
-sub icircumflex' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by icircumflex a.c;
+sub icircumflex' @a.left by icircumflex a.a;
+sub icircumflex' @straight.left by icircumflex a.b;
+sub icircumflex' @o.left by icircumflex a.c;
 sub icircumflex' s by icircumflex a.s;
 sub icircumflex' [v w x z] by icircumflex a.v;
-sub idieresis' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by idieresis a.a;
-sub idieresis' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by idieresis a.b;
-sub idieresis' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by idieresis a.c;
+sub idieresis' @a.left by idieresis a.a;
+sub idieresis' @straight.left by idieresis a.b;
+sub idieresis' @o.left by idieresis a.c;
 sub idieresis' s by idieresis a.s;
 sub idieresis' [v w x z] by idieresis a.v;
-sub igrave' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by igrave a.a;
-sub igrave' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by igrave a.b;
-sub igrave' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by igrave a.c;
+sub igrave' @a.left by igrave a.a;
+sub igrave' @straight.left by igrave a.b;
+sub igrave' @o.left by igrave a.c;
 sub igrave' s by igrave a.s;
 sub igrave' [v w x z] by igrave a.v;
-sub k' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by k k.a;
-sub k' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by k k.b;
-sub k' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by k k.c;
+sub k' @a.left by k k.a;
+sub k' @straight.left by k k.b;
+sub k' @o.left by k k.c;
 sub k' s by k k.s;
 sub k' [v w x z] by k k.v;
-sub l' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by l a.a;
-sub l' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by l a.b;
-sub l' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by l a.c;
+sub l' @a.left by l a.a;
+sub l' @straight.left by l a.b;
+sub l' @o.left by l a.c;
 sub l' s by l a.s;
 sub l' [v w x z] by l a.v;
-sub m' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by m a.a;
-sub m' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by m a.b;
-sub m' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by m a.c;
+sub m' @a.left by m a.a;
+sub m' @straight.left by m a.b;
+sub m' @o.left by m a.c;
 sub m' s by m a.s;
 sub m' [v w x z] by m a.v;
-sub n' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by n a.a;
-sub n' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by n a.b;
-sub n' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by n a.c;
+sub n' @a.left by n a.a;
+sub n' @straight.left by n a.b;
+sub n' @o.left by n a.c;
 sub n' s by n a.s;
 sub n' [v w x z] by n a.v;
-sub ntilde' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ntilde a.a;
-sub ntilde' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ntilde a.b;
-sub ntilde' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ntilde a.c;
+sub ntilde' @a.left by ntilde a.a;
+sub ntilde' @straight.left by ntilde a.b;
+sub ntilde' @o.left by ntilde a.c;
 sub ntilde' s by ntilde a.s;
 sub ntilde' [v w x z] by ntilde a.v;
-sub o' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by o o.a;
-sub o' [b f h k l t thorn] by o o.b;
-sub o' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by o o.c;
-sub o' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by o o.i;
+sub o' @a.left by o o.a;
+sub o' @straight.high.left by o o.b;
+sub o' @o.left by o o.c;
+sub o' @straight.low.left by o o.i;
 sub o' s by o o.s;
 sub o' [v w x z] by o o.v;
-sub oacute' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by oacute o.a;
-sub oacute' [b f h k l t thorn] by oacute o.b;
-sub oacute' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by oacute o.c;
-sub oacute' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by oacute o.i;
+sub oacute' @a.left by oacute o.a;
+sub oacute' @straight.high.left by oacute o.b;
+sub oacute' @o.left by oacute o.c;
+sub oacute' @straight.low.left by oacute o.i;
 sub oacute' s by oacute o.s;
 sub oacute' [v w x z] by oacute o.v;
-sub ocircumflex' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ocircumflex o.a;
-sub ocircumflex' [b f h k l t thorn] by ocircumflex o.b;
-sub ocircumflex' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ocircumflex o.c;
-sub ocircumflex' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ocircumflex o.i;
+sub ocircumflex' @a.left by ocircumflex o.a;
+sub ocircumflex' @straight.high.left by ocircumflex o.b;
+sub ocircumflex' @o.left by ocircumflex o.c;
+sub ocircumflex' @straight.low.left by ocircumflex o.i;
 sub ocircumflex' s by ocircumflex o.s;
 sub ocircumflex' [v w x z] by ocircumflex o.v;
-sub odieresis' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by odieresis o.a;
-sub odieresis' [b f h k l t thorn] by odieresis o.b;
-sub odieresis' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by odieresis o.c;
-sub odieresis' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by odieresis o.i;
+sub odieresis' @a.left by odieresis o.a;
+sub odieresis' @straight.high.left by odieresis o.b;
+sub odieresis' @o.left by odieresis o.c;
+sub odieresis' @straight.low.left by odieresis o.i;
 sub odieresis' s by odieresis o.s;
 sub odieresis' [v w x z] by odieresis o.v;
-sub oe' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by oe e.a;
-sub oe' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by oe e.b;
-sub oe' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by oe e.c;
+sub oe' @a.left by oe e.a;
+sub oe' @straight.left by oe e.b;
+sub oe' @o.left by oe e.c;
 sub oe' s by oe e.s;
 sub oe' [v w x z] by oe e.v;
-sub ograve' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ograve o.a;
-sub ograve' [b f h k l t thorn] by ograve o.b;
-sub ograve' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ograve o.c;
-sub ograve' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ograve o.i;
+sub ograve' @a.left by ograve o.a;
+sub ograve' @straight.high.left by ograve o.b;
+sub ograve' @o.left by ograve o.c;
+sub ograve' @straight.low.left by ograve o.i;
 sub ograve' s by ograve o.s;
 sub ograve' [v w x z] by ograve o.v;
-sub oslash' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by oslash o.a;
-sub oslash' [b f h k l t thorn] by oslash o.b;
-sub oslash' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by oslash o.c;
-sub oslash' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by oslash o.i;
+sub oslash' @a.left by oslash o.a;
+sub oslash' @straight.high.left by oslash o.b;
+sub oslash' @o.left by oslash o.c;
+sub oslash' @straight.low.left by oslash o.i;
 sub oslash' s by oslash o.s;
 sub oslash' [v w x z] by oslash o.v;
-sub otilde' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by otilde o.a;
-sub otilde' [b f h k l t thorn] by otilde o.b;
-sub otilde' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by otilde o.c;
-sub otilde' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by otilde o.i;
+sub otilde' @a.left by otilde o.a;
+sub otilde' @straight.high.left by otilde o.b;
+sub otilde' @o.left by otilde o.c;
+sub otilde' @straight.low.left by otilde o.i;
 sub otilde' s by otilde o.s;
 sub otilde' [v w x z] by otilde o.v;
-sub p' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by p b.a;
-sub p' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by p b.b;
-sub p' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by p b.c;
+sub p' @a.left by p b.a;
+sub p' @straight.left by p b.b;
+sub p' @o.left by p b.c;
 sub p' s by p b.s;
 sub p' [v w x z] by p b.v;
-sub r' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by r r.a;
-sub r' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by r r.b;
-sub r' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by r r.c;
+sub r' @a.left by r r.a;
+sub r' @straight.left by r r.b;
+sub r' @o.left by r r.c;
 sub r' s by r r.s;
 sub r' [v w x z] by r r.v;
-sub s' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by s s.a;
-sub s' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by s s.c;
-sub s' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by s s.i;
+sub s' @a.left by s s.a;
+sub s' @o.left by s s.c;
+sub s' @straight.left by s s.i;
 sub s' s by s s.s;
 sub s' [v w x z] by s s.v;
-sub t' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by t f.a;
-sub t' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by t f.b;
-sub t' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by t f.c;
+sub t' @a.left by t f.a;
+sub t' @straight.left by t f.b;
+sub t' @o.left by t f.c;
 sub t' s by t f.s;
-sub thorn' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by thorn b.a;
-sub thorn' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by thorn b.b;
-sub thorn' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by thorn b.c;
+sub thorn' @a.left by thorn b.a;
+sub thorn' @straight.left by thorn b.b;
+sub thorn' @o.left by thorn b.c;
 sub thorn' s by thorn b.s;
 sub thorn' [v w x z] by thorn b.v;
-sub u' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by u a.a;
-sub u' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by u a.b;
-sub u' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by u a.c;
+sub u' @a.left by u a.a;
+sub u' @straight.left by u a.b;
+sub u' @o.left by u a.c;
 sub u' s by u a.s;
 sub u' [v w x z] by u a.v;
-sub uacute' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by uacute a.a;
-sub uacute' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by uacute a.b;
-sub uacute' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by uacute a.c;
+sub uacute' @a.left by uacute a.a;
+sub uacute' @straight.left by uacute a.b;
+sub uacute' @o.left by uacute a.c;
 sub uacute' s by uacute a.s;
 sub uacute' [v w x z] by uacute a.v;
-sub ucircumflex' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ucircumflex a.a;
-sub ucircumflex' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ucircumflex a.b;
-sub ucircumflex' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ucircumflex a.c;
+sub ucircumflex' @a.left by ucircumflex a.a;
+sub ucircumflex' @straight.left by ucircumflex a.b;
+sub ucircumflex' @o.left by ucircumflex a.c;
 sub ucircumflex' s by ucircumflex a.s;
 sub ucircumflex' [v w x z] by ucircumflex a.v;
-sub udieresis' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by udieresis a.a;
-sub udieresis' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by udieresis a.b;
-sub udieresis' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by udieresis a.c;
+sub udieresis' @a.left by udieresis a.a;
+sub udieresis' @straight.left by udieresis a.b;
+sub udieresis' @o.left by udieresis a.c;
 sub udieresis' [v w x z] by udieresis a.v;
 sub udieresis' s by udieresis c.c;
-sub ugrave' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by ugrave a.a;
-sub ugrave' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by ugrave a.b;
-sub ugrave' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by ugrave a.c;
+sub ugrave' @a.left by ugrave a.a;
+sub ugrave' @straight.left by ugrave a.b;
+sub ugrave' @o.left by ugrave a.c;
 sub ugrave' s by ugrave a.s;
 sub ugrave' [v w x z] by ugrave a.v;
-sub v' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by v v.a;
-sub v' [b f h k l t thorn] by v v.b;
-sub v' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by v v.c;
-sub v' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by v v.i;
+sub v' @a.left by v v.a;
+sub v' @straight.high.left by v v.b;
+sub v' @o.left by v v.c;
+sub v' @straight.low.left by v v.i;
 sub v' s by v v.s;
 sub v' [v w x z] by v v.v;
-sub w' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by w v.a;
-sub w' [b f h k l t thorn] by w v.b;
-sub w' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by w v.c;
-sub w' [i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by w v.i;
+sub w' @a.left by w v.a;
+sub w' @straight.high.left by w v.b;
+sub w' @o.left by w v.c;
+sub w' @straight.low.left by w v.i;
 sub w' s by w v.s;
 sub w' [v w x z] by w v.v;
-sub z' [a aacute agrave acircumflex adieresis aring atilde d g q ae] by z z.a;
-sub z' [b f h k l t thorn i iacute igrave icircumflex idieresis m n ntilde p r u uacute ugrave ucircumflex udieresis j y yacute ydieresis] by z z.b;
-sub z' [c ccedilla e eacute egrave ecircumflex edieresis o ograve oacute ocircumflex odieresis otilde oslash oe eth] by z z.c;
+sub z' @a.left by z z.a;
+sub z' @straight.left by z z.b;
+sub z' @o.left by z z.c;
 sub z' s by z z.s;
 sub z' [v w x z] by z z.v;
 
-";
+
+} joiners;";
 tag = ccmp;
 }
 );
@@ -4806,7 +4824,7 @@ unicode = 64;
 },
 {
 glyphname = A;
-lastChange = "2025-05-29 09:07:02 +0000";
+lastChange = "2025-08-08 08:07:17 +0000";
 layers = (
 {
 layerId = m01;
@@ -22630,7 +22648,7 @@ unicode = 222;
 },
 {
 glyphname = germandbls;
-lastChange = "2025-05-29 09:07:02 +0000";
+lastChange = "2025-08-08 08:07:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -22638,101 +22656,77 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(513,203.814,o),
-(495.164,236.836,o),
-(452,280,cs),
-(401.239,328.554,o),
-(315,391.539,o),
-(315,418,cs),
-(315,426,o),
-(318.5,433.167,o),
-(325.5,439.5,cs),
-(332.5,445.833,o),
-(345.333,453.667,o),
-(364,463,cs),
-(476.679,518.088,o),
-(500,539.137,o),
-(500,596,cs),
-(500,632,o),
-(470.667,667.667,o),
-(428,701,cs),
-(377.333,739.667,o),
-(320.667,756,o),
-(278,756,cs),
-(238,756,o),
-(198.667,736.333,o),
-(164,703,cs),
-(121.333,661.667,o),
-(106,606,o),
-(106,518,cs),
-(106,41,ls),
-(106,-60.333,o),
-(101.667,-119,o),
-(83,-151,cs),
-(63,-185.667,o),
-(26.333,-192,o),
-(-3,-192,cs),
-(-32.333,-192,o),
-(-56.833,-189.5,o),
-(-76.5,-184.5,cs),
-(-96.167,-179.5,o),
-(-107.667,-177,o),
-(-111,-177,cs),
-(-117.667,-177,o),
-(-121,-184.333,o),
-(-121,-199,cs),
-(-121,-209.667,o),
-(-117.667,-221.333,o),
-(-111,-224,cs),
-(-94.523,-232.238,o),
-(-47.477,-244,o),
-(-11,-244,cs),
-(21,-244,o),
-(63.667,-224.667,o),
-(101,-190,cs),
-(139.667,-154,o),
-(166,-99,o),
-(166,-27,cs),
-(166,554,ls),
-(166,667.852,o),
-(201.382,707,o),
-(255,707,cs),
-(345.088,707,o),
-(450,643.441,o),
-(450,599,cs),
-(450,562.902,o),
-(427.953,536.644,o),
-(330,490,cs),
-(258.851,457.162,o),
-(244,441.435,o),
-(244,419,cs),
-(244,403.667,o),
-(251,387.833,o),
-(265,371.5,cs),
-(279,355.167,o),
-(300.667,334,o),
-(330,308,cs),
-(361.017,280.084,o),
-(463,204.514,o),
-(463,124,cs),
-(463,70.667,o),
-(430,28,o),
-(370,28,cs),
-(307.842,28,o),
-(294.281,73,o),
-(263,73,cs),
-(253.667,73,o),
-(247,52.333,o),
-(247,39,cs),
-(247,28.333,o),
-(247.667,25.667,o),
-(257,19,cs),
-(275.667,3,o),
-(320,-13,o),
-(356,-13,cs),
-(455.298,-13,o),
-(513,64.374,o),
-(513,145,cs)
+(160,-244,o),
+(161,-242,o),
+(161,-237,cs),
+(163,-193,o),
+(164,-90,o),
+(168,-27,cs),
+(201,554,ls),
+(208,673,o),
+(239,707,o),
+(289,707,cs),
+(377,707,o),
+(484,645,o),
+(484,599,cs),
+(484,570,o),
+(476,544,o),
+(364,490,cs),
+(295,457,o),
+(278,442,o),
+(278,419,cs),
+(278,389,o),
+(306,360,o),
+(364,308,cs),
+(391,284,o),
+(497,205,o),
+(497,124,cs),
+(497,71,o),
+(473,26,o),
+(404,26,cs),
+(330,26,o),
+(287,73,o),
+(278,73,cs),
+(269,73,o),
+(262,52,o),
+(262,39,cs),
+(262,18,o),
+(327,-13,o),
+(371,-13,cs),
+(459,-13,o),
+(547,44,o),
+(547,145,cs),
+(547,205,o),
+(528,238,o),
+(486,280,cs),
+(426,340,o),
+(349,390,o),
+(349,418,cs),
+(349,434,o),
+(361,445,o),
+(398,463,cs),
+(518,521,o),
+(534,544,o),
+(534,596,cs),
+(534,632,o),
+(505,668,o),
+(462,701,cs),
+(411,740,o),
+(355,756,o),
+(312,756,cs),
+(272,756,o),
+(233,736,o),
+(198,703,cs),
+(155,662,o),
+(148,605,o),
+(143,518,cs),
+(115,41,ls),
+(105,-127,o),
+(105,-203,o),
+(104,-218,cs),
+(103,-235,o),
+(133,-244,o),
+(152,-244,cs)
 );
 }
 );
